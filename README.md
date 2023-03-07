@@ -8,4 +8,5 @@ To setup up this dashboard on your local machine:
 3. First run all the files in the app folder. This folder containes all the different pages in this dashboard.
 4. Then run the app.py file.
 5. Finally run the index.py file. You will finally get a browser link where you can see your dashboard.
+
 The doc file contains a detailed research on the Topic: Ott Platforms on which this dashboard was made on.
