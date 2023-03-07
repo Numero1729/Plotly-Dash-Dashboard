@@ -10,3 +10,5 @@ To setup up this dashboard on your local machine:
 5. Finally run the index.py file. You will finally get a browser link where you can see your dashboard.
 
 The doc file contains a detailed research on the Topic: Ott Platforms on which this dashboard was made on.
+
+I hope this project helps you in getting the basic understanding on how to built a simple dashboard using plotly dash.
