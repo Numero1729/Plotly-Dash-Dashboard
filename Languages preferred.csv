@@ -1,0 +1,999 @@
+﻿Age,Age_Category,Gender,Occupational_Status,State,City,Latitude,Longitude,Residence,Languages_Preferred
+21,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,English
+21,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Hindi
+19,11-20,Male,Student,Bihar,Patna,25.61,85.1414,Town/City,English
+34,31-40,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Metrpolitan,English
+22,21-30,Male,Student,Uttar Pradesh,Haridwar,29.9457,78.1642,Town/City,Hindi
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Hindi
+20,11-20,Male,Student,Kerala,Alapuzha,9.4981,76.3388,Town/City,English
+20,11-20,Male,Student,Kerala,Alapuzha,9.4981,76.3388,Town/City,Malayalam
+20,11-20,Male,Student,Kerala,Alapuzha,9.4981,76.3388,Town/City,Other
+20,11-20,Male,Student,Kerala,Alapuzha,9.4981,76.3388,Town/City,Korean
+22,21-30,Female,Student,Kerala,Tirur,10.9167,75.9245,Town/City,Malayalam
+22,21-30,Female,Student,Kerala,Tirur,10.9167,75.9245,Town/City,English
+22,21-30,Female,Student,Kerala,Tirur,10.9167,75.9245,Town/City,Hindi
+22,21-30,Female,Student,Kerala,Tirur,10.9167,75.9245,Town/City,Tamil
+22,21-30,Female,Student,Kerala,Pathanamthitta,9.2647,76.7872,Rural,English
+22,21-30,Female,Student,Kerala,Pathanamthitta,9.2647,76.7872,Rural,Malayalam
+22,21-30,Female,Student,Kerala,Pathanamthitta,9.2647,76.7872,Rural,Hindi
+27,21-30,Female,Student,Uttar Pradesh ,Varanasi,25.3189,83.0128,Town/City,English
+27,21-30,Female,Student,Uttar Pradesh ,Varanasi,25.3189,83.0128,Town/City,Hindi
+21,21-30,Male,Student,Kerala ,Ernakulam,9.9816,76.2999,Town/City,English
+19,11-20,Male,Student,Kerala,Thrissur,10.52,76.21,Town/City,Malayalam
+21,21-30,Female,Student,West Bengal ,Siliguri,26.72,88.42,Town/City,English
+21,21-30,Male,Employed,Rajasthan,Jaipur,26.9167,75.8667,Town/City,English
+21,21-30,Male,Employed,Rajasthan,Jaipur,26.9167,75.8667,Town/City,Hindi
+21,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,English
+21,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,Malayalam
+21,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,Tamil
+21,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,Spanish
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,English
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Malayalam
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Japanese
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Korean
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Tamil
+31,31-40,Female,Employed,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,English
+31,31-40,Female,Employed,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Hindi
+19,11-20,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,English
+19,11-20,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Hindi
+22,21-30,Male,Student,Kerala,Pala,9.7131,76.6833,Town/City,English
+22,21-30,Male,Student,Kerala,Pala,9.7131,76.6833,Town/City,Other
+22,21-30,Male,Student,Kerala,Pala,9.7131,76.6833,Town/City,Malayalam
+22,21-30,Male,Student,Kerala,Pala,9.7131,76.6833,Town/City,Tamil
+22,21-30,Male,Student,Kerala,Pala,9.7131,76.6833,Town/City,Hindi
+23,21-30,Male,Student,Jharkhand ,Ranchi,23.3556,85.3347,Town/City,Hindi
+23,21-30,Male,Student,Jharkhand ,Ranchi,23.3556,85.3347,Town/City,English
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Kannada
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Hindi
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Tamil
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Telugu
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Malayalam
+25,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+23,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Hindi
+22,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,Kannada
+22,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,Hindi
+22,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,English
+56,51-60,Male,Retired,Kerala,Kochi,9.9667,76.2833,Town/City,Malayalam
+56,51-60,Male,Retired,Kerala,Kochi,9.9667,76.2833,Town/City,Tamil
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Korean
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Kannada
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+22,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Rural,Kannada
+22,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Rural,English
+22,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Rural,Tamil
+22,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Rural,Telugu
+22,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Rural,Malayalam
+18,11-20,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,English
+18,11-20,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Hindi
+20,11-20,Female,Student,Kerala,Kozhikode,11.2588,75.7804,Town/City,Malayalam
+20,11-20,Female,Student,Kerala,Kozhikode,11.2588,75.7804,Town/City,English
+20,11-20,Female,Student,Kerala,Kozhikode,11.2588,75.7804,Town/City,Telugu
+20,11-20,Female,Student,Kerala,Kozhikode,11.2588,75.7804,Town/City,Hindi
+20,11-20,Male,Unemployed,Kerala,Kochi,9.9667,76.2833,Town/City,English
+20,11-20,Male,Unemployed,Kerala,Kochi,9.9667,76.2833,Town/City,Hindi
+20,11-20,Male,Unemployed,Kerala,Kochi,9.9667,76.2833,Town/City,Tamil
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,English
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Hindi
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Korean
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Malayalam
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Japanese
+20,11-20,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,English
+21,21-30,Female,Student,Madhya Pradesh ,Bhopal,23.25,77.4167,Town/City,Hindi
+21,21-30,Female,Student,Madhya Pradesh ,Bhopal,23.25,77.4167,Town/City,English
+21,21-30,Female,Student,Madhya Pradesh ,Bhopal,23.25,77.4167,Town/City,Korean
+21,21-30,Female,Student,Madhya Pradesh ,Bhopal,23.25,77.4167,Town/City,Marathi
+20,11-20,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+20,11-20,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+20,11-20,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Hindi
+20,11-20,Male,Student,Karnataka,Ballari,15.1394,76.9214,Rural,English
+20,11-20,Male,Student,Karnataka,Ballari,15.1394,76.9214,Rural,Hindi
+20,11-20,Male,Student,Karnataka,Ballari,15.1394,76.9214,Rural,Korean
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Kannada
+20,11-20,Male,Student,Karnataka ,Kolar,13.1333,78.1333,Rural,Kannada
+20,11-20,Male,Student,Karnataka ,Kolar,13.1333,78.1333,Rural,Telugu
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Tamil
+23,21-30,Male,Student,Kerala,Palakkad,10.7867,76.6548,Town/City,English
+23,21-30,Male,Student,Kerala,Palakkad,10.7867,76.6548,Town/City,Malayalam
+23,21-30,Male,Student,Kerala,Palakkad,10.7867,76.6548,Town/City,Japanese
+23,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+24,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+20,11-20,Male,Student,Karnataka,Bhatkal,13.9993,74.5408,Rural,English
+20,11-20,Male,Student,Karnataka,Bhatkal,13.9993,74.5408,Rural,Kannada
+20,11-20,Female,Student,Andhra Pradesh,Podili,15.607,79.6146,Town/City,Telugu
+20,11-20,Female,Student,Andhra Pradesh,Podili,15.607,79.6146,Town/City,English
+20,11-20,Female,Student,Andhra Pradesh,Podili,15.607,79.6146,Town/City,Hindi
+20,11-20,Female,Student,Andhra Pradesh,Podili,15.607,79.6146,Town/City,Kannada
+19,11-20,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Telugu
+19,11-20,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+21,21-30,Male,Student,Karnataka ,Tiptur,13.2593,76.4786,Town/City,Kannada
+21,21-30,Male,Student,Karnataka ,Tiptur,13.2593,76.4786,Town/City,Hindi
+21,21-30,Male,Student,Karnataka ,Tiptur,13.2593,76.4786,Town/City,Telugu
+21,21-30,Male,Student,Karnataka ,Tiptur,13.2593,76.4786,Town/City,English
+19,11-20,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Spanish
+19,11-20,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,English
+18,11-20,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,English
+18,11-20,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Hindi
+18,11-20,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Korean
+20,11-20,Male,Student,Bihar,Gaya,24.75,85.0167,Town/City,English
+20,11-20,Male,Student,Bihar,Gaya,24.75,85.0167,Town/City,Hindi
+23,21-30,Female,Student,Uttar Pradesh,Agra,27.18,78.02,Town/City,English
+23,21-30,Female,Student,Uttar Pradesh,Agra,27.18,78.02,Town/City,Hindi
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Rural,Malayalam
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Rural,English
+22,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,English
+22,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Hindi
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+34,31-40,Male,Employed,Haryana,Jhajjar,28.6055,76.6538,Rural,English
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Korean
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Kannada
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+17,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+17,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Telugu
+17,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+17,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Tamil
+26,21-30,Male,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,English
+26,21-30,Male,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,Malayalam
+26,21-30,Male,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,Hindi
+26,21-30,Male,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,Japanese
+17,11-20,Female,Student,Karnataka,Chikmagalur,13.3161,75.772,Town/City,Hindi
+17,11-20,Female,Student,Karnataka,Chikmagalur,13.3161,75.772,Town/City,Other
+17,11-20,Female,Student,Karnataka,Chikmagalur,13.3161,75.772,Town/City,Kannada
+17,11-20,Female,Student,Karnataka,Chikmagalur,13.3161,75.772,Town/City,English
+18,11-20,Male,Student,Bihar ,Madhepura,25.924,86.7946,Town/City,English
+18,11-20,Male,Student,Bihar ,Madhepura,25.924,86.7946,Town/City,Hindi
+27,21-30,Female,Employed,Bihar,Patna,25.61,85.1414,Town/City,Hindi
+22,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,Malayalam
+22,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,English
+22,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,Hindi
+22,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,Korean
+22,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,Other
+22,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,Tamil
+22,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,Other
+21,21-30,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Rural,Kannada
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Rural,English
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Rural,Hindi
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+15,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+47,41-50,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+21,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,Malayalam
+21,21-30,Male,Student,Karnataka,Gangavathi,15.4319,76.5281,Town/City,Kannada
+21,21-30,Male,Student,Karnataka,Gangavathi,15.4319,76.5281,Town/City,English
+21,21-30,Male,Student,Karnataka,Gangavathi,15.4319,76.5281,Town/City,Japanese
+21,21-30,Male,Student,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,Hindi
+21,21-30,Male,Student,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,English
+21,21-30,Male,Student,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,Hindi
+21,21-30,Male,Student,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,Japanese
+20,11-20,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+20,11-20,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Tamil
+20,11-20,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Telugu
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Korean
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Rural,English
+21,21-30,Male,Student,Bihar,Patna,25.61,85.1414,Town/City,Hindi
+21,21-30,Male,Student,Bihar,Patna,25.61,85.1414,Town/City,English
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,English
+21,21-30,Female,Student,Karnataka ,Tumkur,13.33,77.1,Town/City,English
+21,21-30,Female,Student,Karnataka ,Tumkur,13.33,77.1,Town/City,Korean
+21,21-30,Female,Student,Karnataka ,Tumkur,13.33,77.1,Town/City,Hindi
+24,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Town/City,English
+24,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Town/City,Hindi
+22,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Hindi
+22,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,English
+21,21-30,Male,Student,Kerala ,Pala,9.7131,76.6833,Rural,Malayalam
+21,21-30,Male,Student,Kerala ,Pala,9.7131,76.6833,Rural,English
+31,31-40,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Kannada
+31,31-40,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Malayalam
+31,31-40,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+20,11-20,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Metrpolitan,English
+20,11-20,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Malayalam
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Telugu
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Kannada
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Tamil
+52,51-60,Female,Unemployed,Kerala ,Kottayam,9.5916,76.5222,Rural,Malayalam
+22,21-30,Female,Student,Maharashtra ,Mumbai,18.9667,72.8333,Metrpolitan,English
+21,21-30,Female,Student,Nagaland ,Chumukudima,25.8041,93.7541,Town/City,Japanese
+21,21-30,Female,Student,Nagaland ,Chumukudima,25.8041,93.7541,Town/City,English
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Rural,Malayalam
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Rural,English
+21,21-30,Female,Student,Nagaland ,Dimapur,25.9091,93.7266,Town/City,English
+22,21-30,Male,Student,Uttar Pradesh,Kanpur,26.4499,80.3319,Town/City,English
+36,31-40,Male,Employed,Kerala ,Ernakulam,9.9816,76.2999,Metrpolitan,Malayalam
+36,31-40,Male,Employed,Kerala ,Ernakulam,9.9816,76.2999,Metrpolitan,Tamil
+36,31-40,Male,Employed,Kerala ,Ernakulam,9.9816,76.2999,Metrpolitan,Telugu
+27,21-30,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+21,21-30,Male,Student,Kerala,Alappuzha,9.4981,76.3388,Town/City,English
+21,21-30,Male,Student,Kerala,Kayamkulam,9.1748,76.5013,Town/City,Malayalam
+26,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Tamil
+26,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Kannada
+26,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Telugu
+26,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Malayalam
+21,21-30,Male,Student,Punjab,Jalandhar,31.3256,75.5792,Town/City,English
+21,21-30,Male,Student,Punjab,Jalandhar,31.3256,75.5792,Town/City,Hindi
+15,11-20,Male,Student,Delhi,Delhi,28.66,77.23,Town/City,English
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,English
+20,11-20,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+21,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Hindi
+21,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,English
+20,11-20,Female,Student,Kerala,Vaikom,9.7216,76.3927,Rural,English
+20,11-20,Female,Student,Kerala,Vaikom,9.7216,76.3927,Rural,Malayalam
+19,11-20,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Malayalam
+19,11-20,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,English
+19,11-20,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Korean
+19,11-20,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Hindi
+19,11-20,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Tamil
+20,11-20,Male,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,English
+20,11-20,Male,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,Malayalam
+12,11-20,Female,Student,Kerala,Kottayam,9.5916,76.5222,Rural,English
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Hindi
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Kannada
+28,21-30,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+28,21-30,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Tamil
+19,11-20,Male,Student,Kannur,Irrity,11.9819,75.6703,Town/City,English
+19,11-20,Male,Student,Kannur,Irrity,11.9819,75.6703,Town/City,Hindi
+18,11-20,Female,Student,Kerala,Alappuzha,9.4981,76.3388,Rural,Malayalam
+22,21-30,Female,Unemployed,Bihar,Patna,25.61,85.1414,Town/City,Hindi
+24,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,English
+24,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Malayalam
+23,21-30,Male,Employed,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Hindi
+23,21-30,Male,Employed,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,English
+20,11-20,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+20,11-20,Female,Student,West Bengal ,Siliguri,26.72,88.42,Town/City,English
+20,11-20,Female,Student,West Bengal ,Siliguri,26.72,88.42,Town/City,Hindi
+20,11-20,Female,Student,West Bengal ,Siliguri,26.72,88.42,Town/City,Korean
+21,21-30,Female,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,English
+21,21-30,Female,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,Hindi
+19,11-20,Female,Student,Haryana,Hisar,29.1492,75.7217,Town/City,English
+22,21-30,Male,Student,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Hindi
+22,21-30,Male,Student,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,English
+22,21-30,Male,Student,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Other
+22,21-30,Male,Student,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Other
+22,21-30,Female,Student,West Bengal ,Kolkata,22.5411,88.3378,Metrpolitan,Hindi
+22,21-30,Female,Student,West Bengal ,Kolkata,22.5411,88.3378,Metrpolitan,English
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,English
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Korean
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Japanese
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Other
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Other
+25,21-30,Female,Student,Bihar,Madhubani,26.3483,86.0712,Town/City,English
+25,21-30,Female,Student,Bihar,Madhubani,26.3483,86.0712,Town/City,Hindi
+16,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+16,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Telugu
+16,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+16,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Tamil
+20,11-20,Female,Student,Jharkhand,Ranchi,23.3556,85.3347,Town/City,English
+28,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Hindi
+28,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+28,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+28,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Tamil
+28,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Telugu
+28,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Other
+21,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,English
+21,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Malayalam
+20,11-20,Female,Student,Haryana,Kundli,28.8676,77.118,Town/City,English
+20,11-20,Female,Student,Haryana,Kundli,28.8676,77.118,Town/City,Hindi
+38,31-40,Male,Employed,Kerala ,Ernakulam,9.9816,76.2999,Rural,English
+38,31-40,Male,Employed,Kerala ,Ernakulam,9.9816,76.2999,Rural,Other
+38,31-40,Male,Employed,Kerala ,Ernakulam,9.9816,76.2999,Rural,Hindi
+38,31-40,Male,Employed,Kerala ,Ernakulam,9.9816,76.2999,Rural,Malayalam
+26,21-30,Male,Unemployed,Bihar,Motihari,26.6438,84.904,Town/City,Hindi
+23,21-30,Female,Student,Uttar Pradesh,Kanpur,26.4499,80.3319,Town/City,Hindi
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,English
+28,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Hindi
+22,21-30,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+22,21-30,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Japanese
+45,41-50,Female,Employed,Delhi,Palam,28.5901,77.0888,Town/City,Hindi
+18,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Korean
+21,21-30,Female,Student,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,English
+21,21-30,Female,Student,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Hindi
+21,21-30,Female,Student,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Other
+21,21-30,Female,Student,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Other
+21,21-30,Female,Student,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Korean
+23,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+23,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Hindi
+22,21-30,Male,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,English
+22,21-30,Male,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,Korean
+20,11-20,Female,Student,Tamil Nadu,Coimbatore,11,76.9667,Metrpolitan,Tamil
+20,11-20,Female,Student,Tamil Nadu,Coimbatore,11,76.9667,Metrpolitan,Hindi
+20,11-20,Female,Student,Tamil Nadu,Coimbatore,11,76.9667,Metrpolitan,English
+20,11-20,Female,Student,Haryana,Sonipat,28.9958,77.0114,Town/City,Hindi
+20,11-20,Female,Student,Haryana,Sonipat,28.9958,77.0114,Town/City,English
+47,41-50,Male,Employed,Kerala ,Ernakulam,9.9816,76.2999,Town/City,Tamil
+20,11-20,Male,Employed,Karnataka,Maddur,12.5867,77.0453,Town/City,Kannada
+20,11-20,Male,Employed,Karnataka,Maddur,12.5867,77.0453,Town/City,English
+20,11-20,Male,Employed,Karnataka,Maddur,12.5867,77.0453,Town/City,Hindi
+21,21-30,Female,Student,Telangana,Hyderabad,17.3667,78.4667,Town/City,Telugu
+21,21-30,Female,Student,Telangana,Hyderabad,17.3667,78.4667,Town/City,English
+21,21-30,Female,Student,Telangana,Hyderabad,17.3667,78.4667,Town/City,Tamil
+62,61-70,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Rural,English
+62,61-70,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Rural,Hindi
+62,61-70,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Rural,Malayalam
+62,61-70,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Rural,Tamil
+20,11-20,Male,Student,Delhi,Naraina,28.632,77.1389,Metrpolitan,English
+23,21-30,Female,Student,Kerala,Thodupuzha,9.8959,76.7184,Rural,English
+21,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Rural,English
+21,21-30,Male,Student,Karnataka,Maddur,12.5867,77.0453,Town/City,Kannada
+22,21-30,Male,Student,Rajasthan ,Kukanwali,27.23,74.9852,Rural,Hindi
+12,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Town/City,English
+21,21-30,Female,Student,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Tamil
+21,21-30,Female,Student,Tamil Nadu,Coimbatore,11,76.9667,Town/City,English
+27,21-30,Male,Employed,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Tamil
+34,31-40,Female,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,English
+34,31-40,Female,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,Malayalam
+20,11-20,Female,Student,Delhi,Laxmi Nagar,28.6276,77.2784,Metrpolitan,Hindi
+20,11-20,Female,Student,Delhi,Laxmi Nagar,28.6276,77.2784,Metrpolitan,English
+20,11-20,Female,Student,Delhi,Laxmi Nagar,28.6276,77.2784,Metrpolitan,Japanese
+20,11-20,Female,Student,Delhi,Laxmi Nagar,28.6276,77.2784,Metrpolitan,Korean
+23,21-30,Female,Employed,Haryana ,Gurugram,28.4595,77.0266,Metrpolitan,English
+23,21-30,Female,Employed,Haryana ,Gurugram,28.4595,77.0266,Metrpolitan,Hindi
+23,21-30,Female,Employed,Haryana ,Gurugram,28.4595,77.0266,Metrpolitan,Korean
+21,21-30,Female,Employed,Karnataka ,Mangalore,12.8703,74.8806,Town/City,English
+21,21-30,Female,Unemployed,Karnataka ,Mangalore,12.8703,74.8806,Town/City,Korean
+23,21-30,Male,Student,Gujarat,Vadodara,22.3,73.2,Town/City,English
+23,21-30,Male,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Hindi
+21,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,English
+21,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Hindi
+21,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Marathi
+21,21-30,Female,Student,Maharashtra ,Thane,19.18,72.9633,Town/City,English
+21,21-30,Female,Student,Maharashtra ,Thane,19.18,72.9633,Town/City,Korean
+21,21-30,Female,Student,Maharashtra ,Thane,19.18,72.9633,Town/City,Hindi
+23,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,English
+51,51-60,Male,Employed,Kerala ,Thrissur,10.52,76.21,Town/City,English
+20,11-20,Female,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,English
+20,11-20,Female,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Hindi
+20,11-20,Female,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Malayalam
+21,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,English
+21,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Hindi
+23,21-30,Male,Student,Gujarat ,Vadodara,22.3,73.2,Town/City,English
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,English
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Hindi
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Kannada
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Malayalam
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Telugu
+23,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+23,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Kannada
+23,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Tamil
+23,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Telugu
+23,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Malayalam
+23,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+49,41-50,Female,Unemployed,Karnataka ,Mangalore,12.8703,74.8806,Town/City,Hindi
+49,41-50,Female,Unemployed,Karnataka ,Mangalore,12.8703,74.8806,Town/City,Kannada
+49,41-50,Female,Unemployed,Karnataka ,Mangalore,12.8703,74.8806,Town/City,Tamil
+22,21-30,Female,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Hindi
+22,21-30,Female,Student,Gujarat,Vadodara,22.3,73.2,Town/City,English
+21,21-30,Male,Student,Karnataka ,Mandya,12.5242,76.8958,Rural,Kannada
+21,21-30,Male,Student,Karnataka ,Mandya,12.5242,76.8958,Rural,English
+22,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Kannada
+48,41-50,Female,Unemployed,Kerala,Thrissur,10.52,76.21,Town/City,Malayalam
+48,41-50,Female,Unemployed,Kerala,Thrissur,10.52,76.21,Town/City,Hindi
+52,51-60,Male,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Malayalam
+52,51-60,Male,Employed,Kerala,Thrissur,10.52,76.21,Town/City,English
+19,11-20,Male,Student,Bihar,Jehanabad,25.2133,84.9853,Town/City,Hindi
+19,11-20,Male,Student,Bihar,Jehanabad,25.2133,84.9853,Town/City,English
+22,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Kannada
+22,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Telugu
+22,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Tamil
+22,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Malayalam
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,English
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Kannada
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Hindi
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Malayalam
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Telugu
+22,21-30,Male,Student,Gujarat,Vadodara,22.3,73.2,Town/City,English
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Malayalam
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Tamil
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,English
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Hindi
+21,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Kannada
+21,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Hindi
+21,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+21,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Telugu
+22,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Kannada
+22,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+21,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Metrpolitan,English
+21,21-30,Male,Student,Karnataka,Ramanagar,12.7209,77.2799,Town/City,Kannada
+21,21-30,Male,Student,Karnataka,Ramanagar,12.7209,77.2799,Town/City,English
+21,21-30,Male,Student,Karnataka,Ramanagar,12.7209,77.2799,Town/City,Hindi
+21,21-30,Male,Student,Karnataka,Ramanagar,12.7209,77.2799,Town/City,Japanese
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,English
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Malayalam
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Tamil
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Hindi
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Malayalam
+20,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+20,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Hindi
+20,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+20,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Korean
+66,61-70,Male,Retired,Kerala ,Thrissur,10.52,76.21,Town/City,Malayalam
+66,61-70,Male,Retired,Kerala ,Thrissur,10.52,76.21,Town/City,English
+65,61-70,Male,Retired,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+65,61-70,Male,Retired,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,English
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,Korean
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,Malayalam
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,Tamil
+19,11-20,Female,Student,West Bengal,Siliguri,26.72,88.42,Town/City,English
+19,11-20,Female,Student,West Bengal,Siliguri,26.72,88.42,Town/City,Hindi
+21,21-30,Male,Student,Maharashtra,Dombivli,19.2094,73.0939,Town/City,English
+21,21-30,Male,Student,Maharashtra,Dombivli,19.2094,73.0939,Town/City,Hindi
+21,21-30,Male,Student,Maharashtra,Dombivli,19.2094,73.0939,Town/City,Malayalam
+21,21-30,Male,Student,Maharashtra,Dombivli,19.2094,73.0939,Town/City,Tamil
+64,61-70,Female,Retired,Kerala,Thrissur,10.52,76.21,Town/City,Malayalam
+64,61-70,Female,Retired,Kerala,Thrissur,10.52,76.21,Town/City,English
+21,21-30,Female,Employed,Maharashtra,Thane,19.18,72.9633,Metrpolitan,English
+21,21-30,Female,Employed,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Hindi
+17,11-20,Female,Student,Kerala,Chaganasserry,9.4465,76.5402,Town/City,Korean
+17,11-20,Female,Student,Kerala,Chaganasserry,9.4465,76.5402,Town/City,Other
+49,41-50,Female,Unemployed,Kerala ,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+21,21-30,Female,Unemployed,Karnataka,Mysore,12.3086,76.6531,Town/City,Hindi
+21,21-30,Female,Unemployed,Karnataka,Mysore,12.3086,76.6531,Town/City,English
+20,11-20,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+20,11-20,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+20,11-20,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Hindi
+22,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Town/City,Hindi
+22,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Town/City,Kannada
+22,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Town/City,Telugu
+29,21-30,Female,Employed,Karnataka ,Bangalore,12.9699,77.598,Town/City,English
+29,21-30,Female,Employed,Karnataka ,Bangalore,12.9699,77.598,Town/City,Hindi
+29,21-30,Female,Employed,Karnataka ,Bangalore,12.9699,77.598,Town/City,Malayalam
+17,11-20,Female,Unemployed,Kerala,Kottayam,9.5916,76.5222,Town/City,Malayalam
+22,21-30,Male,Employed,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+26,21-30,Female,Employed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+26,21-30,Female,Employed,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+26,21-30,Female,Employed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Tamil
+21,21-30,Male,Unemployed,Kerala,Kozhikode,11.2588,75.7804,Town/City,English
+21,21-30,Male,Unemployed,Kerala,Kozhikode,11.2588,75.7804,Town/City,Hindi
+21,21-30,Male,Unemployed,Kerala,Kozhikode,11.2588,75.7804,Town/City,Malayalam
+23,21-30,Female,Unemployed,Kerala,Kollam,8.9969,76.8721,Rural,English
+23,21-30,Female,Unemployed,Kerala,Kollam,8.9969,76.8721,Rural,Korean
+23,21-30,Female,Unemployed,Kerala,Kollam,8.9969,76.8721,Rural,Japanese
+18,11-20,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+18,11-20,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Japanese
+21,21-30,Male,Self Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Kannada
+21,21-30,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+21,21-30,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Korean
+21,21-30,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Other
+23,21-30,Male,Self Employed,Gujarat,Vadodara,22.3,73.2,Town/City,English
+23,21-30,Male,Self Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Hindi
+25,21-30,Male,Self Employed,Kerala,Bangalore,12.9699,77.598,Town/City,English
+21,21-30,Male,Unemployed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+21,21-30,Male,Unemployed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Japanese
+21,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Kannada
+21,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+21,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Telugu
+21,21-30,Male,Unemployed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+21,21-30,Male,Unemployed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Japanese
+17,11-20,Female,Unemployed,Kerala,Kottayam,9.5916,76.5222,Town/City,English
+17,11-20,Female,Unemployed,Kerala,Kottayam,9.5916,76.5222,Town/City,Malayalam
+17,11-20,Female,Unemployed,Kerala,Kottayam,9.5916,76.5222,Town/City,Hindi
+17,11-20,Female,Unemployed,Kerala,Kottayam,9.5916,76.5222,Town/City,Other
+22,21-30,Female,Unemployed,Gujarat ,Vadodara,22.3,73.2,Town/City,Hindi
+20,11-20,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+20,11-20,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Tamil
+20,11-20,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+20,11-20,Male,Unemployed,Kerala ,Kochi,9.9667,76.2833,Metrpolitan,English
+20,11-20,Male,Unemployed,Kerala ,Kochi,9.9667,76.2833,Metrpolitan,Malayalam
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Town/City,English
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Town/City,Malayalam
+20,11-20,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+20,11-20,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Hindi
+24,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,English
+37,31-40,Female,Employed,Kerala,Thrissur,10.52,76.21,Metrpolitan,Malayalam
+37,31-40,Female,Employed,Kerala,Thrissur,10.52,76.21,Metrpolitan,Hindi
+37,31-40,Female,Employed,Kerala,Thrissur,10.52,76.21,Metrpolitan,English
+34,31-40,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+34,31-40,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+34,31-40,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Malayalam
+17,11-20,Female,Student,Kerala,Chaganasserry,9.4465,76.5402,Town/City,Korean
+17,11-20,Female,Student,Kerala,Chaganasserry,9.4465,76.5402,Town/City,English
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Town/City,Malayalam
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Town/City,English
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Town/City,Hindi
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Town/City,Tamil
+21,21-30,Male,Student,Karnataka,Chikmagalur,13.3161,75.772,Town/City,Kannada
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,English
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Korean
+20,11-20,Male,Student,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Tamil
+20,11-20,Male,Student,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Hindi
+20,11-20,Male,Student,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,English
+22,21-30,Female,Student,Uttar Pradesh ,Prayagraj,25.4358,81.8463,Town/City,English
+22,21-30,Female,Student,Uttar Pradesh ,Prayagraj,25.4358,81.8463,Town/City,Hindi
+23,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Town/City,English
+35,31-40,Female,Employed,Karnataka ,Bangalore,12.9699,77.598,Town/City,English
+35,31-40,Female,Employed,Karnataka ,Bangalore,12.9699,77.598,Town/City,Hindi
+35,31-40,Female,Employed,Karnataka ,Bangalore,12.9699,77.598,Town/City,Kannada
+35,31-40,Female,Employed,Karnataka ,Bangalore,12.9699,77.598,Town/City,Telugu
+19,11-20,Male,Student,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Malayalam
+19,11-20,Male,Student,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,English
+17,11-20,Male,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+17,11-20,Male,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Kannada
+22,21-30,Female,Student,Gujarat,Vadodara,22.3,73.2,Town/City,English
+22,21-30,Female,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Hindi
+40,31-40,Male,Employed,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Malayalam
+20,11-20,Female,Student,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,English
+20,11-20,Female,Student,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Hindi
+20,11-20,Female,Student,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Marathi
+30,21-30,Male,Self Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+30,21-30,Male,Self Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Telugu
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,English
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Hindi
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Kannada
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Korean
+22,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Malayalam
+22,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Hindi
+22,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Tamil
+22,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,English
+34,31-40,Female,Employed,Kerala,Sulthan Bathery,11.6629,76.257,Town/City,English
+20,11-20,Male,Student,Karnataka,Mysore,12.3086,76.6531,Town/City,English
+18,11-20,Female,Unemployed,Kerala,Kottayam,9.5916,76.5222,Town/City,English
+18,11-20,Female,Unemployed,Kerala,Kottayam,9.5916,76.5222,Town/City,Korean
+22,21-30,Male,Student,Gujarat,Vadodara,22.3,73.2,Town/City,English
+22,21-30,Male,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Hindi
+22,21-30,Female,Student,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Tamil
+22,21-30,Female,Student,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,English
+22,21-30,Female,Student,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Malayalam
+22,21-30,Female,Student,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Hindi
+26,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Hindi
+26,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Tamil
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Telugu
+40,31-40,Female,Employed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+40,31-40,Female,Employed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Tamil
+40,31-40,Female,Employed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Hindi
+22,21-30,Female,Student,Kerala,Thalayolaparambu,9.785,76.4496,Rural,English
+21,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,English
+22,21-30,Male,Student,Maharashtra,Osmanabad,18.1667,76.05,Town/City,English
+22,21-30,Male,Student,Maharashtra,Osmanabad,18.1667,76.05,Town/City,Hindi
+37,31-40,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Telugu
+49,41-50,Female,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,Hindi
+49,41-50,Female,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,Malayalam
+49,41-50,Female,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,English
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,English
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,English
+22,21-30,Male,Student,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,English
+34,31-40,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Hindi
+21,21-30,Male,Student,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Hindi
+21,21-30,Male,Student,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,English
+19,11-20,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,Malayalam
+19,11-20,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,English
+19,11-20,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,Hindi
+44,41-50,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Rural,Hindi
+44,41-50,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Rural,English
+44,41-50,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Rural,Tamil
+44,41-50,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Rural,Telugu
+23,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Metrpolitan,English
+23,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Hindi
+15,11-20,Female,Student,Kerala,Kochi,9.9667,76.2833,Town/City,English
+15,11-20,Female,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Hindi
+15,11-20,Female,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Korean
+20,11-20,Female,Student,Jharkhand,Deoghar,24.4852,86.6948,Town/City,English
+20,11-20,Female,Student,Jharkhand,Deoghar,24.4852,86.6948,Town/City,Hindi
+23,21-30,Male,Employed,Kerala,Kannur,11.8745,75.3704,Rural,English
+23,21-30,Male,Employed,Kerala,Kannur,11.8745,75.3704,Rural,Malayalam
+23,21-30,Male,Employed,Kerala,Kannur,11.8745,75.3704,Rural,Hindi
+20,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Town/City,Tamil
+20,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Town/City,Hindi
+20,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Town/City,English
+20,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Town/City,Telugu
+20,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Town/City,Malayalam
+20,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,English
+20,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Japanese
+20,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Malayalam
+20,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Korean
+20,11-20,Male,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,English
+20,11-20,Male,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,Hindi
+23,21-30,Male,Student,Kerala,Thrissur,10.52,76.21,Town/City,English
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+53,51-60,Female,Homemaker,Kerala,Thrissur,10.52,76.21,Town/City,Malayalam
+21,21-30,Female,Student,Kerala,Thrissur,10.52,76.21,Town/City,English
+21,21-30,Female,Student,Kerala,Thrissur,10.52,76.21,Town/City,Hindi
+29,21-30,Male,Employed,Kerala,Thrissur,10.52,76.21,Town/City,English
+29,21-30,Male,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Malayalam
+21,21-30,Female,Student,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Malayalam
+21,21-30,Female,Student,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Hindi
+22,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Rural,English
+22,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Rural,Korean
+22,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Rural,Other
+24,21-30,Female,Employed,Kerala,Kottayam,9.5916,76.5222,Town/City,English
+24,21-30,Female,Employed,Kerala,Kottayam,9.5916,76.5222,Town/City,Malayalam
+24,21-30,Female,Employed,Kerala,Kottayam,9.5916,76.5222,Town/City,Telugu
+24,21-30,Female,Employed,Kerala,Kottayam,9.5916,76.5222,Town/City,Tamil
+19,11-20,Female,Student,Uttarakhand,Dehradun,30.3165,78.0322,Town/City,English
+19,11-20,Female,Student,Uttarakhand,Dehradun,30.3165,78.0322,Town/City,Hindi
+24,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+24,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Malayalam
+24,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Tamil
+23,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Town/City,English
+23,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Town/City,Hindi
+23,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Town/City,Kannada
+21,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,English
+21,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Hindi
+21,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Spanish
+20,11-20,Female,Student,West Bengal,Darjeeling,27.0417,88.2631,Town/City,English
+20,11-20,Female,Student,West Bengal,Darjeeling,27.0417,88.2631,Town/City,Hindi
+27,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Hindi
+27,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+27,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+27,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Hindi
+47,41-50,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+47,41-50,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Japanese
+47,41-50,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+22,21-30,Female,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Hindi
+21,21-30,Female,Student,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Tamil
+21,21-30,Female,Student,Maharashtra,Mumbai,18.9667,72.8333,Town/City,English
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,English
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Malayalam
+21,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,English
+21,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Marathi
+24,21-30,Male,Self Employed,Kerala,Kochi,9.9667,76.2833,Town/City,English
+50,41-50,Female,Homemaker,Kerala,Kochi,9.9667,76.2833,Town/City,Malayalam
+23,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Metrpolitan,English
+31,31-40,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+31,31-40,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Hindi
+21,21-30,Male,Student,Telangana,Hyderabad,17.3667,78.4667,Metrpolitan,Telugu
+21,21-30,Male,Student,Telangana,Hyderabad,17.3667,78.4667,Metrpolitan,Hindi
+21,21-30,Male,Student,Telangana,Hyderabad,17.3667,78.4667,Metrpolitan,English
+21,21-30,Male,Student,Telangana,Hyderabad,17.3667,78.4667,Metrpolitan,Tamil
+21,21-30,Male,Student,Telangana,Hyderabad,17.3667,78.4667,Metrpolitan,Malayalam
+21,21-30,Female,Student,Kerala,Kollam,8.9969,76.8721,Town/City,Korean
+21,21-30,Female,Student,Kerala,Kollam,8.9969,76.8721,Town/City,English
+21,21-30,Female,Student,Kerala,Kollam,8.9969,76.8721,Town/City,Malayalam
+21,21-30,Female,Student,Uttarakhand,Nainital,29.3919,79.4542,Rural,English
+21,21-30,Female,Student,Uttarakhand,Nainital,29.3919,79.4542,Rural,Hindi
+19,11-20,Female,Student,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,English
+20,11-20,Male,Student,Maharashtra,Mumbai,18.9667,72.8333,Town/City,English
+20,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+20,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Tamil
+20,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Hindi
+20,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+17,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+17,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Tamil
+17,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+17,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Hindi
+18,11-20,Male,Student,Kerala,Pilathara,12.0827,75.2625,Town/City,English
+47,41-50,Female,Homemaker,Kerala,Kottayam,9.5916,76.5222,Rural,Malayalam
+24,21-30,Male,Employed,Bihar,Patna,25.61,85.1414,Town/City,Hindi
+24,21-30,Male,Employed,Bihar,Patna,25.61,85.1414,Town/City,English
+22,21-30,Male,Employed,Kerala,Kannur,11.8745,75.3704,Rural,English
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+33,31-40,Male,Employed,Kerala,Thodupuzha,9.8959,76.7184,Town/City,English
+33,31-40,Male,Employed,Kerala,Thodupuzha,9.8959,76.7184,Town/City,Malayalam
+33,31-40,Male,Employed,Kerala,Thodupuzha,9.8959,76.7184,Town/City,Other
+33,31-40,Male,Employed,Kerala,Thodupuzha,9.8959,76.7184,Town/City,Tamil
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,English
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Tamil
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Hindi
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Telugu
+26,21-30,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+26,21-30,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+21,21-30,Female,Student,Karnataka,Raichur,16.2104,77.355,Town/City,Hindi
+21,21-30,Female,Student,Karnataka,Raichur,16.2104,77.355,Town/City,English
+21,21-30,Non binary,Student,Maharashtra,Thane,19.18,72.9633,Town/City,English
+21,21-30,Non binary,Student,Maharashtra,Thane,19.18,72.9633,Town/City,Hindi
+25,21-30,Male,Employed,Kerala,Trivandrum,8.5,76.8997,Town/City,English
+19,11-20,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Kannada
+19,11-20,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+21,21-30,Female,Student,Kerala,Kuravilangade,9.7576,76.561,Rural,English
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,Malayalam
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,Japanese
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,English
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,Tamil
+21,21-30,Male,Student,Kerala,Chaganasserry,9.4465,76.5402,Town/City,English
+28,21-30,Female,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Hindi
+28,21-30,Female,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,English
+28,21-30,Female,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Gujarati
+28,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Metrpolitan,English
+28,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Hindi
+28,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Gujarati
+25,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Hindi
+25,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Gujarati
+25,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,English
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+25,21-30,Male,Employed,Kerala,Kottayam,9.5916,76.5222,Town/City,English
+25,21-30,Male,Employed,Kerala,Kottayam,9.5916,76.5222,Town/City,Tamil
+25,21-30,Male,Employed,Kerala,Kottayam,9.5916,76.5222,Town/City,Hindi
+25,21-30,Male,Employed,Kerala,Kottayam,9.5916,76.5222,Town/City,Malayalam
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+24,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+24,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+23,21-30,Male,Student,Kerala,Adoor,9.153,76.7356,Rural,English
+23,21-30,Male,Student,Kerala,Adoor,9.153,76.7356,Rural,Malayalam
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Rural,Kannada
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Rural,Hindi
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Rural,English
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,English
+21,21-30,Male,Student,Kerala,Thrissur,10.52,76.21,Town/City,English
+21,21-30,Male,Student,Kerala,Thrissur,10.52,76.21,Town/City,Malayalam
+46,41-50,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Hindi
+21,21-30,Male,Student,Kerala,Thrissur,10.52,76.21,Rural,English
+21,21-30,Male,Student,Kerala,Thrissur,10.52,76.21,Rural,Malayalam
+21,21-30,Male,Student,Kerala,Thrissur,10.52,76.21,Rural,Tamil
+22,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,English
+22,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Malayalam
+22,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Tamil
+22,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Hindi
+22,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Malayalam
+22,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Tamil
+22,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,English
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Malayalam
+22,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,English
+22,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Hindi
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+21,21-30,Female,Student,Kerala,Pala,9.7131,76.6833,Town/City,Malayalam
+21,21-30,Female,Student,Kerala,Pala,9.7131,76.6833,Town/City,Korean
+21,21-30,Female,Student,Kerala,Pala,9.7131,76.6833,Town/City,English
+23,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,English
+23,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Korean
+23,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Malayalam
+23,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Tamil
+23,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Hindi
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Hindi
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Kannada
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Telugu
+22,21-30,Female,Student,Karnataka,Madikeri,12.4244,75.7382,Town/City,English
+22,21-30,Female,Student,Karnataka,Madikeri,12.4244,75.7382,Town/City,Hindi
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Other
+21,21-30,Male,Student,Goa,Old Goa,15.502,73.91,Town/City,English
+21,21-30,Male,Student,Goa,Old Goa,15.502,73.91,Town/City,Spanish
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,English
+28,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+28,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+28,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Other
+28,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Malayalam
+21,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Malayalam
+21,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Hindi
+21,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,English
+21,21-30,Female,Student,Uttarakhand,Bazpur,29.1585,79.1464,Town/City,Hindi
+21,21-30,Female,Student,Uttarakhand,Bazpur,29.1585,79.1464,Town/City,English
+23,21-30,Male,Employed,Andhra Pradesh,Tenali,16.243,80.64,Town/City,Telugu
+23,21-30,Male,Employed,Andhra Pradesh,Tenali,16.243,80.64,Town/City,Tamil
+21,21-30,Female,Student,Maharashtra,Pune,18.5196,73.8553,Metrpolitan,English
+21,21-30,Female,Student,Maharashtra,Pune,18.5196,73.8553,Metrpolitan,Hindi
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Kannada
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Telugu
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,English
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Malayalam
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Malayalam
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Tamil
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Hindi
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+24,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,English
+24,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Malayalam
+24,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Tamil
+24,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Spanish
+24,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Hindi
+23,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,English
+23,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Malayalam
+23,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Tamil
+23,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Hindi
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Korean
+26,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+26,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Malayalam
+24,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Malayalam
+24,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Rural,English
+21,21-30,Female,Student,Kerala,Malappuram,11.051,76.0711,Town/City,English
+21,21-30,Female,Student,Kerala,Malappuram,11.051,76.0711,Town/City,Malayalam
+21,21-30,Female,Student,Kerala,Malappuram,11.051,76.0711,Town/City,Hindi
+24,21-30,Male,Student,Karnataka,Udupi,13.3322,74.7461,Rural,Kannada
+24,21-30,Male,Student,Karnataka,Udupi,13.3322,74.7461,Rural,English
+24,21-30,Male,Student,Karnataka,Udupi,13.3322,74.7461,Rural,Other
+24,21-30,Male,Student,Karnataka,Udupi,13.3322,74.7461,Rural,Telugu
+24,21-30,Male,Student,Karnataka,Udupi,13.3322,74.7461,Rural,Malayalam
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+22,21-30,Female,Student,Kerala,Calicut,11.25,75.7667,Town/City,Malayalam
+23,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Malayalam
+23,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,English
+23,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Korean
+23,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Hindi
+23,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Spanish
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Tamil
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Hindi
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+53,51-60,Male,Employed,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,English
+53,51-60,Male,Employed,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Malayalam
+32,31-40,Female,Employed,Kerala,Thrissur,10.52,76.21,Town/City,English
+44,41-50,Male,Employed,Maharashtra,Thane,19.18,72.9633,Metrpolitan,English
+44,41-50,Male,Employed,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Malayalam
+21,21-30,Female,Student,Karnataka,Tumakuru,13.3379,77.1173,Town/City,English
+21,21-30,Female,Student,Karnataka,Tumakuru,13.3379,77.1173,Town/City,Kannada
+21,21-30,Female,Student,Karnataka,Tumakuru,13.3379,77.1173,Town/City,Hindi
+21,21-30,Female,Student,Karnataka,Tumakuru,13.3379,77.1173,Town/City,Telugu
+31,31-40,Male,Self Employed,Kerala,Thrissur,10.52,76.21,Town/City,Malayalam
+31,31-40,Male,Self Employed,Kerala,Thrissur,10.52,76.21,Town/City,English
+31,31-40,Male,Self Employed,Kerala,Thrissur,10.52,76.21,Town/City,Tamil
+31,31-40,Male,Self Employed,Kerala,Thrissur,10.52,76.21,Town/City,Korean
+23,21-30,Female,Student,Kerala,Alappuzha,9.4981,76.3388,Town/City,Malayalam
+23,21-30,Female,Student,Kerala,Alappuzha,9.4981,76.3388,Town/City,Hindi
+33,31-40,Male,Employed,Kerala,Perinthalmanna,10.976,76.225,Town/City,English
+33,31-40,Male,Employed,Kerala,Perinthalmanna,10.976,76.225,Town/City,Malayalam
+33,31-40,Male,Employed,Kerala,Perinthalmanna,10.976,76.225,Town/City,Tamil
+26,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+26,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Japanese
+14,11-20,Female,Student,Kerala,Thrissur,10.52,76.21,Town/City,English
+14,11-20,Female,Student,Kerala,Thrissur,10.52,76.21,Town/City,Malayalam
+60,51-60,Female,Retired,Kerala,Thrissur,10.52,76.21,Town/City,English
+60,51-60,Female,Retired,Kerala,Thrissur,10.52,76.21,Town/City,Malayalam
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,Hindi
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,Malayalam
+21,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,Hindi
+21,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,Tamil
+21,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,English
+23,21-30,Female,Student,Kerala,Alappuzha,9.4981,76.3388,Rural,Malayalam
+23,21-30,Female,Student,Kerala,Alappuzha,9.4981,76.3388,Rural,English
+23,21-30,Female,Student,Kerala,Alappuzha,9.4981,76.3388,Rural,Tamil
+31,31-40,Female,Unemployed,Kerala,Thrissur,10.52,76.21,Town/City,English
+31,31-40,Female,Unemployed,Kerala,Thrissur,10.52,76.21,Town/City,Hindi
+31,31-40,Female,Unemployed,Kerala,Thrissur,10.52,76.21,Town/City,Malayalam
+41,41-50,Male,Employed,Maharashtra,Thane,19.18,72.9633,Town/City,Malayalam
+41,41-50,Male,Employed,Maharashtra,Thane,19.18,72.9633,Town/City,English
+48,41-50,Male,Employed,Maharashtra,Thane,19.18,72.9633,Town/City,Malayalam
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Spanish
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Korean
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Other
+27,21-30,Male,Employed,Manipur,Churachandpur,24.3427,93.6978,Town/City,English
+23,21-30,Female,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Malayalam
+23,21-30,Female,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Tamil
+23,21-30,Female,Employed,Kerala,Thrissur,10.52,76.21,Town/City,English
+23,21-30,Male,Self Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+10,11-20,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,English
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Malayalam
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Hindi
+23,21-30,Female,Student,Kerala,Kottyam,9.5916,76.5222,Town/City,English
+23,21-30,Female,Student,Kerala,Kottyam,9.5916,76.5222,Town/City,Malayalam
+23,21-30,Female,Student,Kerala,Kottyam,9.5916,76.5222,Town/City,Tamil
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Tamil
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Telugu
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Kannada
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Hindi
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Malayalam
+21,21-30,Female,Student,Maharashtra,Virar,19.4564,72.7925,Town/City,English
+21,21-30,Female,Student,Maharashtra,Virar,19.4564,72.7925,Town/City,Hindi
+49,41-50,Female,Retired,Maharashtra,Thane,19.18,72.9633,Town/City,Malayalam
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Tamil
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Kannada
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Telugu
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Hindi
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+40,31-40,Female,Homemaker,Maharashtra,Thane,19.18,72.9633,Town/City,Hindi
+40,31-40,Female,Homemaker,Maharashtra,Thane,19.18,72.9633,Town/City,Malayalam
+40,31-40,Female,Homemaker,Maharashtra,Thane,19.18,72.9633,Town/City,Tamil
+21,21-30,Female,Student,Maharashtra,Navi Mumbai,19.033,73.0297,Town/City,Malayalam
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+35,31-40,Male,Self Employed,Kerala,Idukki,9.9189,77.1025,Town/City,Hindi
+35,31-40,Male,Self Employed,Kerala,Idukki,9.9189,77.1025,Town/City,Telugu
+35,31-40,Male,Self Employed,Kerala,Idukki,9.9189,77.1025,Town/City,Tamil
+35,31-40,Male,Self Employed,Kerala,Idukki,9.9189,77.1025,Town/City,English
+35,31-40,Male,Self Employed,Kerala,Idukki,9.9189,77.1025,Town/City,Malayalam
+46,41-50,Female,Homemaker,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,English
+46,41-50,Female,Homemaker,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Hindi
+21,21-30,Female,Student,Kerala,Thrissur,10.52,76.21,Town/City,English
+21,21-30,Female,Student,Kerala,Thrissur,10.52,76.21,Town/City,Hindi
+21,21-30,Female,Student,Kerala,Thrissur,10.52,76.21,Town/City,Malayalam
+23,21-30,Male,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,English
+23,21-30,Male,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,Malayalam
+28,21-30,Female,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Malayalam
+28,21-30,Female,Employed,Kerala,Thrissur,10.52,76.21,Town/City,English
+28,21-30,Female,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Tamil
+21,21-30,Female,Student,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,English
+21,21-30,Female,Student,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Hindi
+33,31-40,Male,Employed,Kerala,Thrissur,10.52,76.21,Town/City,English
+33,31-40,Male,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Korean
+33,31-40,Male,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Malayalam
+33,31-40,Male,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Tamil
+22,21-30,Female,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,English
+22,21-30,Female,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Malayalam
+22,21-30,Female,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Hindi
+45,41-50,Female,Employed,Maharashtra,Thane,19.18,72.9633,Town/City,English
+45,41-50,Female,Employed,Maharashtra,Thane,19.18,72.9633,Town/City,Hindi
+45,41-50,Female,Employed,Maharashtra,Thane,19.18,72.9633,Town/City,Marathi
+45,41-50,Female,Employed,Maharashtra,Thane,19.18,72.9633,Town/City,Malayalam
+27,21-30,Female,Homemaker,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,English
+27,21-30,Female,Homemaker,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+23,21-30,Female,Employed,West Bengal,Chittranjan,23.8492,86.902,Town/City,English
+23,21-30,Female,Employed,West Bengal,Chittranjan,23.8492,86.902,Town/City,Hindi
+22,21-30,Female,Employed,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,English
+22,21-30,Female,Employed,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Korean
+22,21-30,Female,Employed,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Japanese
+22,21-30,Female,Employed,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Malayalam
+24,21-30,Female,Employed,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,English
+24,21-30,Female,Employed,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Hindi
+50,41-50,Male,Self Employed,Gujarat,Bhavnagar,21.765,75.7667,Town/City,Hindi
+22,21-30,Female,Employed,Gujarat,Gandhinagar,23.22,72.68,Town/City,English
+22,21-30,Female,Employed,Gujarat,Gandhinagar,23.22,72.68,Town/City,Hindi
+21,21-30,Male,Employed,Gujarat,Gandhinagar,23.22,72.68,Town/City,English
+21,21-30,Male,Employed,Gujarat,Gandhinagar,23.22,72.68,Town/City,Hindi
+27,21-30,Male,Employed,Gujarat,Gandhinagar,23.22,72.68,Town/City,English
+27,21-30,Male,Employed,Gujarat,Gandhinagar,23.22,72.68,Town/City,Hindi
+25,21-30,Male,Employed,Gujarat,Gandhinagar,23.22,72.68,Town/City,English
+40,31-40,Female,Employed,Maharashtra,Thane,19.18,72.9633,Town/City,Malayalam
+40,31-40,Female,Employed,Maharashtra,Thane,19.18,72.9633,Town/City,Hindi
+40,31-40,Female,Employed,Maharashtra,Thane,19.18,72.9633,Town/City,English
+34,31-40,Male,Employed,Kerala,Sulthan Bathery,11.6629,76.257,Rural,English
+55,51-60,Female,Self Employed,Gujarat,Bhavnagar,21.765,75.7667,Town/City,Gujarati
+55,51-60,Female,Self Employed,Gujarat,Bhavnagar,21.765,75.7667,Town/City,Hindi
+55,51-60,Female,Self Employed,Gujarat,Bhavnagar,21.765,75.7667,Town/City,English
+55,51-60,Female,Self Employed,Gujarat,Bhavnagar,21.765,75.7667,Town/City,Marathi
+30,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Metrpolitan,English
+30,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Metrpolitan,Hindi
+30,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Metrpolitan,Gujarati
+29,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Town/City,Hindi
+29,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Town/City,English
+29,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Town/City,Gujarati
+22,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,English
+22,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Hindi
+22,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,English
+22,21-30,Female,Student,West Bengal,Haldia,22.0627,88.0833,Town/City,English
+22,21-30,Female,Student,West Bengal,Haldia,22.0627,88.0833,Town/City,Hindi
+25,21-30,Female,Employed,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,English
+25,21-30,Female,Employed,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,Hindi
+28,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Town/City,English
+28,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Town/City,Hindi
+47,41-50,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Hindi
+47,41-50,Female,Self Employed,Bihar,Patna,25.61,85.1414,Town/City,Hindi
+47,41-50,Female,Employed,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Hindi
+47,41-50,Female,Employed,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Gujarati
+47,41-50,Female,Employed,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Marathi
+47,41-50,Female,Employed,Maharashtra,Mumbai,18.9667,72.8333,Town/City,English
+25,21-30,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hindi
+21,21-30,Female,Student,Jammu and Kashmir,Baramulla,34.2,74.34,Town/City,English
+22,21-30,Female,Employed,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Tamil
+22,21-30,Female,Employed,Tamil Nadu,Coimbatore,11,76.9667,Town/City,English
+22,21-30,Female,Employed,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Hindi
+22,21-30,Female,Employed,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Malayalam
+26,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Town/City,Hindi
+26,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Town/City,English
+26,21-30,Male,Unemployed,Jammu and Kashmir,Srinagar,34.0911,74.8061,Rural,English
+23,21-30,Male,Student,Jammu and Kashmir,Srinagar,34.0911,74.8061,Rural,Hindi
+21,21-30,Male,Student,Jammu and Kashmir,Sopore,34.2868,74.4624,Town/City,Hindi
+19,11-20,Male,Student,Jammu and Kashmir,Rafiabad,34.2547,74.393,Rural,English
+23,21-30,Male,Student,Jammu and Kashmir,Handwara,34.4,74.28,Town/City,English
+26,21-30,Male,Employed,Jammu and Kashmir,Srinagar,34.0911,74.8061,Rural,English
+23,21-30,Female,Student,Jammu and Kashmir,Srinagar,34.0911,74.8061,Town/City,Hindi
+23,21-30,Female,Student,Jammu and Kashmir,Srinagar,34.0911,74.8061,Town/City,English
+22,21-30,Female,Student,Jammu and Kashmir,Baramulla,34.2,74.34,Rural,English
+22,21-30,Female,Student,Jammu and Kashmir,Baramulla,34.2,74.34,Rural,Other
+18,11-20,Male,Student,Jammu and Kashmir,Baramulla,34.2,74.34,Town/City,Hindi
+23,21-30,Female,Student,Jammu and Kashmir,Baramulla,34.2,74.34,Town/City,English
+23,21-30,Female,Student,Jammu and Kashmir,Baramulla,34.2,74.34,Town/City,Hindi
+15,11-20,Male,Student,Jammu and Kashmir,Sopore,34.2868,74.4624,Town/City,Hindi
+23,21-30,Female,Student,Jammu and Kashmir,Sopore,34.2868,74.4624,Town/City,English
+23,21-30,Female,Student,Jammu and Kashmir,Sopore,34.2868,74.4624,Town/City,Japanese
+23,21-30,Female,Student,Jammu and Kashmir,Sopore,34.2868,74.4624,Town/City,Korean
+21,21-30,Female,Employed,Bihar,Patna,25.61,85.1414,Town/City,Hindi
+21,21-30,Female,Employed,Bihar,Patna,25.61,85.1414,Town/City,English
+22,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Malayalam
+22,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,English
+22,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Tamil
+22,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Hindi
+23,21-30,Female,Student,Gujarat,Vadodara,22.3,73.2,Town/City,English
+23,21-30,Female,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Hindi

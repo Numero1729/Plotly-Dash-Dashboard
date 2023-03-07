@@ -1,0 +1,1038 @@
+﻿Age,Age_Category,Gender,Occupational_Status,State,City,Latitude,Longitude,Residence,Favourite_Shows,Series_Genre
+21,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Friends,Comedy
+19,11-20,Male,Student,Bihar,Patna,25.61,85.1414,Town/City,Money Heist,Crime
+19,11-20,Male,Student,Bihar,Patna,25.61,85.1414,Town/City,Friends,Comedy
+19,11-20,Male,Student,Bihar,Patna,25.61,85.1414,Town/City,How I Met Your Mother,Romantic Comedy
+34,31-40,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Metrpolitan,Mandalorian,Adventure
+34,31-40,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Metrpolitan,Family Man,Action
+34,31-40,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Metrpolitan,Asur,Indian TV series
+22,21-30,Male,Student,Uttar Pradesh,Haridwar,29.9457,78.1642,Town/City,The Big Bang Theory,Comedy
+22,21-30,Male,Student,Uttar Pradesh,Haridwar,29.9457,78.1642,Town/City,Flames,Indian TV series
+22,21-30,Male,Student,Uttar Pradesh,Haridwar,29.9457,78.1642,Town/City,Yeh Hai Meri Family,Indian TV series
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Reply 1988,K-drama
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Hotel Del Luna,K-drama
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Sweet Home,Horror
+20,11-20,Male,Student,Kerala,Alapuzha,9.4981,76.3388,Town/City,Stranger Things,Horror
+20,11-20,Male,Student,Kerala,Alapuzha,9.4981,76.3388,Town/City,Sex Education,Comedy
+20,11-20,Male,Student,Kerala,Alapuzha,9.4981,76.3388,Town/City,The Vampire Diaries,Horror
+22,21-30,Female,Student,Kerala,Tirur,10.9167,75.9245,Town/City,The Office,Comedy
+22,21-30,Female,Student,Kerala,Tirur,10.9167,75.9245,Town/City,Squid Game,K-drama
+22,21-30,Female,Student,Kerala,Tirur,10.9167,75.9245,Town/City,Only Murders in the Building,Mystery
+22,21-30,Female,Student,Kerala,Pathanamthitta,9.2647,76.7872,Rural,Money Heist,Crime
+22,21-30,Female,Student,Kerala,Pathanamthitta,9.2647,76.7872,Rural,Friends,Comedy
+22,21-30,Female,Student,Kerala,Pathanamthitta,9.2647,76.7872,Rural,Sherlock Holmes,Mystery
+27,21-30,Female,Student,Uttar Pradesh ,Varanasi,25.3189,83.0128,Town/City,Bridgerton,Drama
+27,21-30,Female,Student,Uttar Pradesh ,Varanasi,25.3189,83.0128,Town/City,Dark,Thriller
+27,21-30,Female,Student,Uttar Pradesh ,Varanasi,25.3189,83.0128,Town/City,This is US,Comedy-drama
+21,21-30,Male,Student,Kerala ,Ernakulam,9.9816,76.2999,Town/City,13 Reasons Why,Drama
+21,21-30,Male,Student,Kerala ,Ernakulam,9.9816,76.2999,Town/City,Looking For Alaska,Fiction
+21,21-30,Male,Student,Kerala ,Ernakulam,9.9816,76.2999,Town/City,Breaking Bad,Crime
+21,21-30,Female,Student,West Bengal ,Siliguri,26.72,88.42,Town/City,The Vampire Diaries,Horror
+21,21-30,Female,Student,West Bengal ,Siliguri,26.72,88.42,Town/City,Hotel Del Luna,K-drama
+21,21-30,Female,Student,West Bengal ,Siliguri,26.72,88.42,Town/City,Vincenzo,K-drama
+21,21-30,Male,Employed,Rajasthan,Jaipur,26.9167,75.8667,Town/City,Mirzapur,Indian TV series
+21,21-30,Male,Employed,Rajasthan,Jaipur,26.9167,75.8667,Town/City,Family Man,Action
+21,21-30,Male,Employed,Rajasthan,Jaipur,26.9167,75.8667,Town/City,Money Heist,Crime
+21,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,Friends,Comedy
+21,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,Breaking Bad,Crime
+21,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,Stranger Things,Horror
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,One Piece,Anime
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Loki,Superhero
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,WandaVision,Superhero
+31,31-40,Female,Employed,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Black Mirror,Sci-Fi
+31,31-40,Female,Employed,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,The Big Bang Theory,Comedy
+31,31-40,Female,Employed,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Friends,Comedy
+19,11-20,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,You,Thriller
+19,11-20,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,The End Of The Fucking World,Drama
+19,11-20,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Ye Kaali Kaali Ankhein,Indian TV series
+22,21-30,Male,Student,Kerala,Pala,9.7131,76.6833,Town/City,Locke and Key,Fantasy
+22,21-30,Male,Student,Kerala,Pala,9.7131,76.6833,Town/City,Spartacus,Action
+22,21-30,Male,Student,Kerala,Pala,9.7131,76.6833,Town/City,Outlander,Historical Drama
+23,21-30,Male,Student,Jharkhand ,Ranchi,23.3556,85.3347,Town/City,Panchayat,Indian TV series
+23,21-30,Male,Student,Jharkhand ,Ranchi,23.3556,85.3347,Town/City,Mirzapur,Indian TV series
+23,21-30,Male,Student,Jharkhand ,Ranchi,23.3556,85.3347,Town/City,Money Heist,Crime
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Prison Break,Action
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Stranger Things,Horror
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Money Heist,Crime
+25,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Cobra Kai,Comedy-drama
+25,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Rick And Morty,Comedy
+22,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,What The Folks,Indian TV series
+22,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,Mismatched,Indian TV series
+22,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,Little Things,Indian TV series
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Vagabond,K-drama
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Squid Game,K-drama
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,The Silent Sea,Sci-Fi
+22,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Rural,Flash,Superhero
+22,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Rural,Supergirl,Superhero
+22,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Rural,Stranger Things,Horror
+18,11-20,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Money Heist,Crime
+18,11-20,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Sex Education,Comedy
+18,11-20,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Little Things,Indian TV series
+20,11-20,Male,Unemployed,Kerala,Kochi,9.9667,76.2833,Town/City,Dark,Thriller
+20,11-20,Male,Unemployed,Kerala,Kochi,9.9667,76.2833,Town/City,12 Monkeys,Sci-Fi
+20,11-20,Male,Unemployed,Kerala,Kochi,9.9667,76.2833,Town/City,Loki,Superhero
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Sex Education,Comedy
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Reply 1988,K-drama
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Euphoria,Drama
+20,11-20,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Ginny & Georgia,Comedy-drama
+20,11-20,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Stranger Things,Horror
+20,11-20,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Sweet Tooth,Fantasy
+21,21-30,Female,Student,Madhya Pradesh ,Bhopal,23.25,77.4167,Town/City,Goblin,K-drama
+21,21-30,Female,Student,Madhya Pradesh ,Bhopal,23.25,77.4167,Town/City,Addicted,Thriller
+21,21-30,Female,Student,Madhya Pradesh ,Bhopal,23.25,77.4167,Town/City,Game of Thrones,Fantasy
+20,11-20,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,WandaVision,Superhero
+20,11-20,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Hospital Playlist 2,Medical Drama
+20,11-20,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Only Murders In The Building,Mystery
+20,11-20,Male,Student,Karnataka,Ballari,15.1394,76.9214,Rural,Friends,Comedy
+20,11-20,Male,Student,Karnataka,Ballari,15.1394,76.9214,Rural,Flower Of Evil,Drama
+20,11-20,Male,Student,Karnataka,Ballari,15.1394,76.9214,Rural,Brooklyn Nine-Nine,Comedy
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Breaking Bad,Crime
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Money Heist,Crime
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Suits,Drama
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Oruchiri Eruchiri Bmbur Chiri,Indian TV Reality Show
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Saregamapa,Indian TV Reality Show
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Super Singer,Indian TV Reality Show
+23,21-30,Male,Student,Kerala,Palakkad,10.7867,76.6548,Town/City,Naruto,Anime
+23,21-30,Male,Student,Kerala,Palakkad,10.7867,76.6548,Town/City,The Big Bang Theory,Comedy
+23,21-30,Male,Student,Kerala,Palakkad,10.7867,76.6548,Town/City,Loki,Superhero
+23,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Peaky Blinders,Action
+23,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Office,Comedy
+23,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,The Ranch,Comedy
+23,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Jack Ryan,Thriller
+24,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Dark,Thriller
+24,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Mr. Robot,Drama
+24,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,You,Thriller
+20,11-20,Male,Student,Karnataka,Bhatkal,13.9993,74.5408,Rural,Money Heist,Crime
+20,11-20,Male,Student,Karnataka,Bhatkal,13.9993,74.5408,Rural,Stranger Things,Horror
+20,11-20,Male,Student,Karnataka,Bhatkal,13.9993,74.5408,Rural,Chernobyl,Historical Drama
+19,11-20,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,God Befriended Me,Comedy
+21,21-30,Male,Student,Karnataka ,Tiptur,13.2593,76.4786,Town/City,The Big Bang Theory,Comedy
+21,21-30,Male,Student,Karnataka ,Tiptur,13.2593,76.4786,Town/City,Family Man,Action
+21,21-30,Male,Student,Karnataka ,Tiptur,13.2593,76.4786,Town/City,Mumbai Diaries 26/11,Medical Drama
+19,11-20,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Money Heist,Crime
+19,11-20,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Game of Thrones,Fantasy
+19,11-20,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Elite,Drama
+18,11-20,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Vincenzo,K-drama
+18,11-20,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Shadowhunters,Fantasy
+20,11-20,Male,Student,Bihar,Gaya,24.75,85.0167,Town/City,Suits,Drama
+20,11-20,Male,Student,Bihar,Gaya,24.75,85.0167,Town/City,Demon Slayer Season 2,Anime
+20,11-20,Male,Student,Bihar,Gaya,24.75,85.0167,Town/City,Special Ops,Thriller
+23,21-30,Female,Student,Uttar Pradesh,Agra,27.18,78.02,Town/City,The Witcher,Fantasy
+23,21-30,Female,Student,Uttar Pradesh,Agra,27.18,78.02,Town/City,Lucifer,Fantasy
+23,21-30,Female,Student,Uttar Pradesh,Agra,27.18,78.02,Town/City,Crown,Drama
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Rural,Westworld,Sci-Fi
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Rural,Game Of Thrones,Action
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Rural,Sex Education,Comedy
+22,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Four More Shots Please,Romance
+22,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Made In Heaven,Romance
+22,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Family Man,Action
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Chakkapazham,Comedy
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Karikku,Comedy
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Kanimangalam Kovilam,Comedy
+34,31-40,Male,Employed,Haryana,Jhajjar,28.6055,76.6538,Rural,Hanna,Action
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Goblin,K-drama
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Emily in Paris,Comedy
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,New Girl,Comedy
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,The Umbrella Academy,Superhero
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Lucifer,Fantasy
+17,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Yeh Rishta Kya Kehlata Hai,Indian TV Series
+17,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Sen Cal Kapimi,Romantic Comedy
+17,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Unforgettable Love,C-drama
+26,21-30,Male,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,Attack On Titan,Anime
+26,21-30,Male,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,Seven Deadly Sins,Fantasy
+26,21-30,Male,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,Sex Education,Comedy
+17,11-20,Female,Student,Karnataka,Chikmagalur,13.3161,75.772,Town/City,Yeh Dil Mera,Indian TV Series
+17,11-20,Female,Student,Karnataka,Chikmagalur,13.3161,75.772,Town/City,Kuch Rang Pyar Ke Aise Bhi,Indian TV Series
+17,11-20,Female,Student,Karnataka,Chikmagalur,13.3161,75.772,Town/City,Jodha Akbar,Indian TV Series
+18,11-20,Male,Student,Bihar ,Madhepura,25.924,86.7946,Town/City,Game Of Thrones,Action
+18,11-20,Male,Student,Bihar ,Madhepura,25.924,86.7946,Town/City,Mirzapur,Indian TV series
+18,11-20,Male,Student,Bihar ,Madhepura,25.924,86.7946,Town/City,Family Man,Action
+27,21-30,Female,Employed,Bihar,Patna,25.61,85.1414,Town/City,Squid Game,K-drama
+27,21-30,Female,Employed,Bihar,Patna,25.61,85.1414,Town/City,Friends,Comedy
+27,21-30,Female,Employed,Bihar,Patna,25.61,85.1414,Town/City,Mr.Bean,Comedy
+22,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,Boys Over Flowers,K-drama
+22,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,Vincenzo,K-drama
+22,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,Descendants Of The Sun,K-drama
+21,21-30,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,All Of Us Are Dead,K-drama
+21,21-30,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Strangers From Hell,K-drama
+21,21-30,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Dark,Thriller
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Rural,Suits,Drama
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Rural,Peaky Blinders,Action
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Money Heist,Crime
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Sherlock Holmes,Mystery
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Shark Tank,Indian TV Reality Show
+15,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Stranger Things,Horror
+15,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Squid Game,K-drama
+15,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Alice in Borderland,Thriller
+47,41-50,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Stranger Things,Horror
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Dark,Thriller
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Strangers From Hell,K-drama
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,All Of Us Are Dead,K-drama
+21,21-30,Male,Student,Karnataka,Gangavathi,15.4319,76.5281,Town/City,Dark,Thriller
+21,21-30,Male,Student,Karnataka,Gangavathi,15.4319,76.5281,Town/City,Breaking Bad,Crime
+21,21-30,Male,Student,Karnataka,Gangavathi,15.4319,76.5281,Town/City,Death Note,Anime
+21,21-30,Male,Student,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,Mirzapur,Indian TV series
+21,21-30,Male,Student,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,JL50,Sci-Fi
+21,21-30,Male,Student,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,Community,Comedy
+21,21-30,Male,Student,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,Brooklyn Nine-Nine,Comedy
+20,11-20,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Downton Abbey,Romance
+20,11-20,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,The Big Bang Theory,Comedy
+20,11-20,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Squid Game,K-drama
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Train, Mystery
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Voice,Thriller
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Mouse,Sci-Fi
+21,21-30,Male,Student,Bihar,Patna,25.61,85.1414,Town/City,Stranger Things,Horror
+21,21-30,Male,Student,Bihar,Patna,25.61,85.1414,Town/City,Scam 1992,Thriller
+21,21-30,Male,Student,Bihar,Patna,25.61,85.1414,Town/City,Panchayat,Indian TV series
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Stranger Things,Horror
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Sex Education,Comedy
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Money Heist,Crime
+21,21-30,Female,Student,Karnataka ,Tumkur,13.33,77.1,Town/City,Tale Of the Nine Tailed,K-drama
+21,21-30,Female,Student,Karnataka ,Tumkur,13.33,77.1,Town/City,It's Okay To Not Be Okay,K-drama
+21,21-30,Female,Student,Karnataka ,Tumkur,13.33,77.1,Town/City,Goblin,K-drama
+24,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Town/City,Dopesick,Drama
+24,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Town/City,Unbelievable,Crime
+24,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Town/City,Chernobyl,Historical Drama
+22,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Big Boss,Indian TV Reality Show
+21,21-30,Male,Student,Kerala ,Pala,9.7131,76.6833,Rural,Money Heist,Crime
+31,31-40,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Little Things,Indian TV series
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Dark,Thriller
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Asur,Indian TV series
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Lost In Space,Sci-Fi
+22,21-30,Female,Student,Maharashtra ,Mumbai,18.9667,72.8333,Metrpolitan,Schitt's Creek,Comedy
+22,21-30,Female,Student,Maharashtra ,Mumbai,18.9667,72.8333,Metrpolitan,The Office,Comedy
+22,21-30,Female,Student,Maharashtra ,Mumbai,18.9667,72.8333,Metrpolitan,What If...?,Animation
+21,21-30,Female,Student,Nagaland ,Chumukudima,25.8041,93.7541,Town/City,Dororo,Anime
+21,21-30,Female,Student,Nagaland ,Chumukudima,25.8041,93.7541,Town/City,The Promised Neverland,Anime
+21,21-30,Female,Student,Nagaland ,Chumukudima,25.8041,93.7541,Town/City,Jujutsu Kaisen,Anime
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Rural,Westworld,Sci-Fi
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Rural,Game of Thrones,Fantasy
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Rural,Sex Education,Comedy
+21,21-30,Female,Student,Nagaland ,Dimapur,25.9091,93.7266,Town/City,Loki,Superhero
+21,21-30,Female,Student,Nagaland ,Dimapur,25.9091,93.7266,Town/City,Doom At Your Service,K-drama
+21,21-30,Female,Student,Nagaland ,Dimapur,25.9091,93.7266,Town/City,Death Parade,Thriller
+22,21-30,Male,Student,Uttar Pradesh,Kanpur,26.4499,80.3319,Town/City,Money Heist,Crime
+22,21-30,Male,Student,Uttar Pradesh,Kanpur,26.4499,80.3319,Town/City,The Sins,Crime
+22,21-30,Male,Student,Uttar Pradesh,Kanpur,26.4499,80.3319,Town/City,Asur,Indian TV series
+36,31-40,Male,Employed,Kerala ,Ernakulam,9.9816,76.2999,Metrpolitan,Unforgettable Love,C-drama
+36,31-40,Male,Employed,Kerala ,Ernakulam,9.9816,76.2999,Metrpolitan,Sen Cal Kapimi,Romantic Comedy
+36,31-40,Male,Employed,Kerala ,Ernakulam,9.9816,76.2999,Metrpolitan,Sunshine Girls,Mystery
+27,21-30,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Oruchiri Eruchiri Bmbur Chiri,Indian TV Reality Show
+27,21-30,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Santhwanam,Indian TV Series
+27,21-30,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Kudumbavilakku,Indian TV Series
+21,21-30,Male,Student,Kerala,Alappuzha,9.4981,76.3388,Town/City,Friends,Comedy
+21,21-30,Male,Student,Kerala,Alappuzha,9.4981,76.3388,Town/City,Banshee,Crime
+21,21-30,Male,Student,Kerala,Alappuzha,9.4981,76.3388,Town/City,Attack On Titan,Anime
+21,21-30,Male,Student,Punjab,Jalandhar,31.3256,75.5792,Town/City,Peaky Blinders,Action
+21,21-30,Male,Student,Punjab,Jalandhar,31.3256,75.5792,Town/City,The Last Dance,Documentary
+21,21-30,Male,Student,Punjab,Jalandhar,31.3256,75.5792,Town/City,Elite,Drama
+15,11-20,Male,Student,Delhi,Delhi,28.66,77.23,Town/City,One Piece,Anime
+15,11-20,Male,Student,Delhi,Delhi,28.66,77.23,Town/City,Jujutsu Kaisen,Anime
+15,11-20,Male,Student,Delhi,Delhi,28.66,77.23,Town/City,The Originals,Fantasy
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Naruto,Anime
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Family Man,Action
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,The Vampire Diaries,Horror
+21,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Money Heist,Crime
+21,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Suits,Drama
+21,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Friends,Comedy
+20,11-20,Female,Student,Kerala,Vaikom,9.7216,76.3927,Rural,Goblin,K-drama
+20,11-20,Female,Student,Kerala,Vaikom,9.7216,76.3927,Rural,Meteor Garden,K-drama
+20,11-20,Female,Student,Kerala,Vaikom,9.7216,76.3927,Rural,Early Bird,Romance
+19,11-20,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,The King:Eternal Monarch,K-drama
+19,11-20,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,It's Okay To Not Be Okay,K-drama
+19,11-20,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Bridgerton,Drama
+20,11-20,Male,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,Sex Education,Comedy
+20,11-20,Male,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,How I Met Your Mother,Romantic Comedy
+20,11-20,Male,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,Brooklyn Nine-Nine,Comedy
+28,21-30,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Start Music,Indian TV Reality Show
+28,21-30,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Comedy Stars,Indian TV Reality Show
+28,21-30,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Karikku,Comedy
+19,11-20,Male,Student,Kannur,Irrity,11.9819,75.6703,Town/City,Dark,Thriller
+19,11-20,Male,Student,Kannur,Irrity,11.9819,75.6703,Town/City,Game of Thrones,Fantasy
+19,11-20,Male,Student,Kannur,Irrity,11.9819,75.6703,Town/City,Prison Break,Action
+18,11-20,Female,Student,Kerala,Alappuzha,9.4981,76.3388,Rural,Star Magic,Indian TV Reality Show
+18,11-20,Female,Student,Kerala,Alappuzha,9.4981,76.3388,Rural,Extreme Chef,Reality Show
+22,21-30,Female,Unemployed,Bihar,Patna,25.61,85.1414,Town/City,Four More Shots,Comedy
+22,21-30,Female,Unemployed,Bihar,Patna,25.61,85.1414,Town/City,Asur,Indian TV series
+23,21-30,Male,Employed,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Money Heist,Crime
+23,21-30,Male,Employed,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Stranger Things,Horror
+20,11-20,Female,Student,West Bengal ,Siliguri,26.72,88.42,Town/City,It's Okay To Not Be Okay,K-drama
+20,11-20,Female,Student,West Bengal ,Siliguri,26.72,88.42,Town/City,Strong Woman Do Bong Soon,K-drama
+20,11-20,Female,Student,West Bengal ,Siliguri,26.72,88.42,Town/City,Hometown Cha Cha Cha,K-drama
+21,21-30,Female,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,Friends,Comedy
+21,21-30,Female,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,Emily in Paris,Comedy
+21,21-30,Female,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,Elite,Drama
+21,21-30,Female,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,The Vampire Diaries,Horror
+19,11-20,Female,Student,Haryana,Hisar,29.1492,75.7217,Town/City,Stranger Things,Horror
+19,11-20,Female,Student,Haryana,Hisar,29.1492,75.7217,Town/City,Friends,Comedy
+19,11-20,Female,Student,Haryana,Hisar,29.1492,75.7217,Town/City,The Office,Comedy
+22,21-30,Male,Student,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Teen Wolf,Fantasy
+22,21-30,Male,Student,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Lucifer,Fantasy
+22,21-30,Male,Student,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Dark,Thriller
+22,21-30,Female,Student,West Bengal ,Kolkata,22.5411,88.3378,Metrpolitan,Family Man,Action
+22,21-30,Female,Student,West Bengal ,Kolkata,22.5411,88.3378,Metrpolitan,Mumbai Diaries 26/11,Medical Drama
+22,21-30,Female,Student,West Bengal ,Kolkata,22.5411,88.3378,Metrpolitan,Special Ops,Thriller
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Start-Up,K-drama
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Peaky Blinders,Action
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Jujutsu Kaisen,Anime
+25,21-30,Female,Student,Bihar,Madhubani,26.3483,86.0712,Town/City,Friends,Comedy
+25,21-30,Female,Student,Bihar,Madhubani,26.3483,86.0712,Town/City,Dr. House MD,Mystery
+25,21-30,Female,Student,Bihar,Madhubani,26.3483,86.0712,Town/City,The Good Doctor,Medical Drama
+16,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Yeh Rishta Kya Kehlata Hai,Indian TV Series
+16,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,My Girlfriend Is An Alien,C-drama
+16,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Unforgettable Love,C-drama
+20,11-20,Female,Student,Jharkhand,Ranchi,23.3556,85.3347,Town/City,Schitt's Creek,Comedy
+20,11-20,Female,Student,Jharkhand,Ranchi,23.3556,85.3347,Town/City,This Is Us,Romantic Comedy
+20,11-20,Female,Student,Jharkhand,Ranchi,23.3556,85.3347,Town/City,Little Things,Indian TV series
+28,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Money Heist,Crime
+21,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Super Chef,Reality Show
+21,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Marimayam,Indian TV Series
+21,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,MasterChef,Reality Show
+20,11-20,Female,Student,Haryana,Kundli,28.8676,77.118,Town/City,Friends,Comedy
+20,11-20,Female,Student,Haryana,Kundli,28.8676,77.118,Town/City,The Empire,Historical Drama
+20,11-20,Female,Student,Haryana,Kundli,28.8676,77.118,Town/City,Ekaant,Documentary
+38,31-40,Male,Employed,Kerala ,Ernakulam,9.9816,76.2999,Rural,Money Heist,Crime
+38,31-40,Male,Employed,Kerala ,Ernakulam,9.9816,76.2999,Rural,S.W.A.T,Crime
+26,21-30,Male,Unemployed,Bihar,Motihari,26.6438,84.904,Town/City,Mirzapur,Indian TV series
+26,21-30,Male,Unemployed,Bihar,Motihari,26.6438,84.904,Town/City,Bhokal,Thriller
+26,21-30,Male,Unemployed,Bihar,Motihari,26.6438,84.904,Town/City,Family Man,Action
+23,21-30,Female,Student,Uttar Pradesh,Kanpur,26.4499,80.3319,Town/City,Day Dreamer,Romantic Comedy
+23,21-30,Female,Student,Uttar Pradesh,Kanpur,26.4499,80.3319,Town/City,Money Heist,Crime
+23,21-30,Female,Student,Uttar Pradesh,Kanpur,26.4499,80.3319,Town/City,Campus Diaries,Drama
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Stranger Things,Horror
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Money Heist,Crime
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Game Of Thrones,Action
+28,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Yeh Jadu Hai Jinn Ka,Indian TV Series
+28,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Kasauti Zindagi Ki,Indian TV Series
+28,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Big Boss,Indian TV Reality Show
+22,21-30,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Loki,Superhero
+22,21-30,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,The Originals,Fantasy
+22,21-30,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Euphoria,Drama
+18,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Voice,Thriller
+21,21-30,Female,Student,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Spitsvilla,Indian TV Reality Show
+21,21-30,Female,Student,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Love School,Indian TV Reality Show
+21,21-30,Female,Student,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Dadagiri,Indian TV Reality Show
+23,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Decoupled,Comedy
+23,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,The Boys,Action
+23,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Sacred Games,Crime
+22,21-30,Male,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,Conspiracy Docs,Documentary
+20,11-20,Female,Student,Tamil Nadu,Coimbatore,11,76.9667,Metrpolitan,Friends,Comedy
+20,11-20,Female,Student,Tamil Nadu,Coimbatore,11,76.9667,Metrpolitan,The Big Bang Theory,Comedy
+20,11-20,Female,Student,Tamil Nadu,Coimbatore,11,76.9667,Metrpolitan,Made In Heaven,Romance
+20,11-20,Female,Student,Haryana,Sonipat,28.9958,77.0114,Town/City,The Vampire Diaries,Horror
+20,11-20,Female,Student,Haryana,Sonipat,28.9958,77.0114,Town/City,The Originals,Fantasy
+20,11-20,Female,Student,Haryana,Sonipat,28.9958,77.0114,Town/City,Anupamana,Drama
+20,11-20,Male,Employed,Karnataka,Maddur,12.5867,77.0453,Town/City,Money Heist,Crime
+21,21-30,Female,Student,Telangana,Hyderabad,17.3667,78.4667,Town/City,Silicon Valley,Comedy
+21,21-30,Female,Student,Telangana,Hyderabad,17.3667,78.4667,Town/City,The Queen's Gambit,Drama
+21,21-30,Female,Student,Telangana,Hyderabad,17.3667,78.4667,Town/City,Derry Girls,Comedy
+20,11-20,Male,Student,Delhi,Naraina,28.632,77.1389,Metrpolitan,Stranger Things,Horror
+20,11-20,Male,Student,Delhi,Naraina,28.632,77.1389,Metrpolitan,Sniper,Mystery
+20,11-20,Male,Student,Delhi,Naraina,28.632,77.1389,Metrpolitan,S.W.A.T,Crime
+23,21-30,Female,Student,Kerala,Thodupuzha,9.8959,76.7184,Rural,The Umbrella Academy,Superhero
+23,21-30,Female,Student,Kerala,Thodupuzha,9.8959,76.7184,Rural,The Originals,Fantasy
+23,21-30,Female,Student,Kerala,Thodupuzha,9.8959,76.7184,Rural,Emily in Paris,Comedy
+21,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Rural,The Witcher,Fantasy
+21,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Rural,Locke and Key,Fantasy
+21,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Rural,Peaky Blinders,Action
+21,21-30,Male,Student,Karnataka,Maddur,12.5867,77.0453,Town/City,The Haunting of Hill House,Horror
+21,21-30,Male,Student,Karnataka,Maddur,12.5867,77.0453,Town/City,Mr Perfect,Romance
+22,21-30,Male,Student,Rajasthan ,Kukanwali,27.23,74.9852,Rural,Mirzapur,Indian TV series
+22,21-30,Male,Student,Rajasthan ,Kukanwali,27.23,74.9852,Rural,Sacred Games,Crime
+22,21-30,Male,Student,Rajasthan ,Kukanwali,27.23,74.9852,Rural,Aashram,Crime
+12,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Town/City,Investigators,Mystery
+12,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Town/City,The Wizards Of Waverly Place,Comedy
+12,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Town/City,Hawkeye,Fantasy
+21,21-30,Female,Student,Tamil Nadu,Coimbatore,11,76.9667,Town/City,The Vampire Diaries,Horror
+21,21-30,Female,Student,Tamil Nadu,Coimbatore,11,76.9667,Town/City,The Originals,Fantasy
+21,21-30,Female,Student,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Legacies,Fantasy
+20,11-20,Female,Student,Delhi,Laxmi Nagar,28.6276,77.2784,Metrpolitan,The King,Drama
+20,11-20,Female,Student,Delhi,Laxmi Nagar,28.6276,77.2784,Metrpolitan,It's Okay To Not Be Okay,K-drama
+20,11-20,Female,Student,Delhi,Laxmi Nagar,28.6276,77.2784,Metrpolitan,Nevertheless,K-drama
+23,21-30,Female,Employed,Haryana ,Gurugram,28.4595,77.0266,Metrpolitan,The Haunting of Hill House,Horror
+23,21-30,Female,Employed,Haryana ,Gurugram,28.4595,77.0266,Metrpolitan,Dynasty,Drama
+21,21-30,Female,Employed,Karnataka ,Mangalore,12.8703,74.8806,Town/City,Mumbai Diaries 26/11,Medical Drama
+21,21-30,Female,Employed,Karnataka ,Mangalore,12.8703,74.8806,Town/City,The Sins,Crime
+21,21-30,Female,Employed,Karnataka ,Mangalore,12.8703,74.8806,Town/City,Mirzapur,Indian TV series
+21,21-30,Female,Unemployed,Karnataka ,Mangalore,12.8703,74.8806,Town/City,Melting Me Softly,K-drama
+21,21-30,Female,Unemployed,Karnataka ,Mangalore,12.8703,74.8806,Town/City,W,K-drama
+21,21-30,Female,Unemployed,Karnataka ,Mangalore,12.8703,74.8806,Town/City,Doctor Stranger,Fantasy
+23,21-30,Male,Student,Gujarat,Vadodara,22.3,73.2,Town/City,The Witcher,Fantasy
+23,21-30,Male,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Attack On Titan,Anime
+23,21-30,Male,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Peaky Blinders,Action
+21,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Scorpion,Action
+21,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Young Sheldon,Comedy
+21,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,MasterChef,Reality Show
+21,21-30,Female,Student,Maharashtra ,Thane,19.18,72.9633,Town/City,Schitt's Creek,Comedy
+21,21-30,Female,Student,Maharashtra ,Thane,19.18,72.9633,Town/City,Emily in Paris,Comedy
+21,21-30,Female,Student,Maharashtra ,Thane,19.18,72.9633,Town/City,Descendants of the Sun,K-drama
+23,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Peaky Blinders,Action
+23,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Ozark,Crime
+23,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,The Big Bang Theory,Comedy
+51,51-60,Male,Employed,Kerala ,Thrissur,10.52,76.21,Town/City,The Mentalist,Mystery
+20,11-20,Female,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Stranger Things,Horror
+20,11-20,Female,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Friends,Comedy
+21,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Daredevil,Crime
+21,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Mindhunter,Crime
+21,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,The Good Doctor,Medical Drama
+23,21-30,Male,Student,Gujarat ,Vadodara,22.3,73.2,Town/City,Narcos,Crime
+23,21-30,Male,Student,Gujarat ,Vadodara,22.3,73.2,Town/City,Four More Shots,Comedy
+23,21-30,Male,Student,Gujarat ,Vadodara,22.3,73.2,Town/City,She,Crime
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Young Sheldon,Comedy
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Friends,Comedy
+23,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,The Big Bang Theory,Comedy
+23,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,The Grand Tour,Reality Show
+23,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Le Mans,Fiction
+49,41-50,Female,Unemployed,Karnataka ,Mangalore,12.8703,74.8806,Town/City,Dance Plus,Indian TV Reality Show
+49,41-50,Female,Unemployed,Karnataka ,Mangalore,12.8703,74.8806,Town/City,Dancing Champion,Indian TV Reality Show
+49,41-50,Female,Unemployed,Karnataka ,Mangalore,12.8703,74.8806,Town/City,Nannamma Superstar,Indian TV Reality Show
+22,21-30,Female,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Bridgerton,Drama
+22,21-30,Female,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Emily in Paris,Comedy
+21,21-30,Male,Student,Karnataka ,Mandya,12.5242,76.8958,Rural,Saregamapa,Indian TV Reality Show
+22,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Narcos,Crime
+22,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Family Man,Action
+22,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Game of Thrones,Fantasy
+48,41-50,Female,Unemployed,Kerala,Thrissur,10.52,76.21,Town/City,Kudumbavilakku,Indian TV Series
+52,51-60,Male,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Narcos,Crime
+52,51-60,Male,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Money Heist,Crime
+19,11-20,Male,Student,Bihar,Jehanabad,25.2133,84.9853,Town/City,Bridgerton,Drama
+19,11-20,Male,Student,Bihar,Jehanabad,25.2133,84.9853,Town/City,Matsya Kand,Thriller
+19,11-20,Male,Student,Bihar,Jehanabad,25.2133,84.9853,Town/City,Cobra Kai,Comedy-drama
+22,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Money Heist,Crime
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Young Sheldon,Comedy
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Friends,Comedy
+22,21-30,Male,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Squid Game,K-drama
+22,21-30,Male,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Two And A Half Men,Comedy
+22,21-30,Male,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Breaking Bad,Crime
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Breaking Bad,Crime
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Game Of Thrones,Action
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,The Walking Dead,Horror
+21,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Money Heist,Crime
+21,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Dark,Thriller
+21,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Lost In Space,Sci-Fi
+21,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Metrpolitan,Dark,Thriller
+21,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Metrpolitan,Riverdale,Mystery
+21,21-30,Male,Employed,Karnataka ,Bangalore,12.9699,77.598,Metrpolitan,Stranger Things,Horror
+21,21-30,Male,Student,Karnataka,Ramanagar,12.7209,77.2799,Town/City,One Piece,Anime
+21,21-30,Male,Student,Karnataka,Ramanagar,12.7209,77.2799,Town/City,Naruto,Anime
+21,21-30,Male,Student,Karnataka,Ramanagar,12.7209,77.2799,Town/City,Naruto-Shippuden,Anime
+21,21-30,Male,Student,Karnataka,Ramanagar,12.7209,77.2799,Town/City,Rurouni kenshin,Romance
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Money Heist,Crime
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,The 100,Sci-Fi
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Sex Education,Comedy
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Stranger Things,Horror
+20,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,The Good Doctor,Medical Drama
+20,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,The Bold Type,Comedy
+20,11-20,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Hometown Cha Cha Cha,K-drama
+65,61-70,Male,Retired,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Bones,Comedy
+65,61-70,Male,Retired,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,The Good Doctor,Medical Drama
+65,61-70,Male,Retired,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Family Man,Action
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,The Originals,Fantasy
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,Loki,Superhero
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,Bhaukaal,Crime
+19,11-20,Female,Student,West Bengal,Siliguri,26.72,88.42,Town/City,The Big Bang Theory,Comedy
+19,11-20,Female,Student,West Bengal,Siliguri,26.72,88.42,Town/City,Peaky Blinders,Action
+19,11-20,Female,Student,West Bengal,Siliguri,26.72,88.42,Town/City,Breaking Bad,Crime
+21,21-30,Male,Student,Maharashtra,Dombivli,19.2094,73.0939,Town/City,Demon Slayer,Anime
+21,21-30,Male,Student,Maharashtra,Dombivli,19.2094,73.0939,Town/City,Stranger Things,Horror
+21,21-30,Male,Student,Maharashtra,Dombivli,19.2094,73.0939,Town/City,Sherlock Holmes,Mystery
+21,21-30,Female,Employed,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Friends,Comedy
+21,21-30,Female,Employed,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Emily in Paris,Comedy
+21,21-30,Female,Employed,Maharashtra,Thane,19.18,72.9633,Metrpolitan,The Bold Type,Comedy
+17,11-20,Female,Student,Kerala,Chaganasserry,9.4465,76.5402,Town/City,2gether,Romantic Comedy
+17,11-20,Female,Student,Kerala,Chaganasserry,9.4465,76.5402,Town/City,F4 Thailand,Thai-Drama
+17,11-20,Female,Student,Kerala,Chaganasserry,9.4465,76.5402,Town/City,Squid Game,K-drama
+21,21-30,Female,Unemployed,Karnataka,Mysore,12.3086,76.6531,Town/City,Go Go Squid,K-drama
+21,21-30,Female,Unemployed,Karnataka,Mysore,12.3086,76.6531,Town/City,Le Coupe De Foudre,Romance
+21,21-30,Female,Unemployed,Karnataka,Mysore,12.3086,76.6531,Town/City,Elite,Drama
+20,11-20,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Family Man,Action
+20,11-20,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Friends,Comedy
+22,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Town/City,Dance Plus,Indian TV Reality Show
+22,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Town/City,Super Dancer,Indian TV Reality Show
+22,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Town/City,Big Boss,Indian TV Reality Show
+29,21-30,Female,Employed,Karnataka ,Bangalore,12.9699,77.598,Town/City,Friends,Comedy
+29,21-30,Female,Employed,Karnataka ,Bangalore,12.9699,77.598,Town/City,The Good Doctor,Medical Drama
+29,21-30,Female,Employed,Karnataka ,Bangalore,12.9699,77.598,Town/City,Superstore,Comedy
+22,21-30,Male,Employed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Daredevil,Crime
+22,21-30,Male,Employed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Sex Education,Comedy
+26,21-30,Female,Employed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Early Bird,Romance
+21,21-30,Male,Unemployed,Kerala,Kozhikode,11.2588,75.7804,Town/City,Mirzapur,Indian TV series
+23,21-30,Female,Unemployed,Kerala,Kollam,8.9969,76.8721,Rural,Bad Guy,Drama
+23,21-30,Female,Unemployed,Kerala,Kollam,8.9969,76.8721,Rural,Money Heist,Crime
+23,21-30,Female,Unemployed,Kerala,Kollam,8.9969,76.8721,Rural,How To Get Away With Murder,Crime
+23,21-30,Female,Unemployed,Kerala,Kollam,8.9969,76.8721,Rural,One Piece,Anime
+18,11-20,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,One Piece,Anime
+18,11-20,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Black Clover,Anime
+18,11-20,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Demon Slayer,Anime
+21,21-30,Male,Self Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Money Heist,Crime
+21,21-30,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Friends,Comedy
+21,21-30,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Sneaky Pete,Crime
+21,21-30,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,House Of Cards,Drama
+23,21-30,Male,Self Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Atypical,Comedy
+23,21-30,Male,Self Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Mirzapur,Indian TV series
+23,21-30,Male,Self Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Money Heist,Crime
+25,21-30,Male,Self Employed,Kerala,Bangalore,12.9699,77.598,Town/City,Narcos,Crime
+21,21-30,Male,Unemployed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Flash,Superhero
+21,21-30,Male,Unemployed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Arrow,Action
+21,21-30,Male,Unemployed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Naruto,Anime
+21,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Money Heist,Crime
+21,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Lost In Space,Sci-Fi
+21,21-30,Male,Unemployed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Arrow,Action
+21,21-30,Male,Unemployed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Dexter,Mystery
+21,21-30,Male,Unemployed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Naruto,Anime
+17,11-20,Female,Unemployed,Kerala,Kottayam,9.5916,76.5222,Town/City,F4 Thailand,Thai-Drama
+17,11-20,Female,Unemployed,Kerala,Kottayam,9.5916,76.5222,Town/City,My Girlfriend Is An Alien,C-drama
+17,11-20,Female,Unemployed,Kerala,Kottayam,9.5916,76.5222,Town/City,Star Magic,Indian TV Reality Show
+22,21-30,Female,Unemployed,Gujarat ,Vadodara,22.3,73.2,Town/City,Emily in Paris,Comedy
+22,21-30,Female,Unemployed,Gujarat ,Vadodara,22.3,73.2,Town/City,Family Man,Action
+22,21-30,Female,Unemployed,Gujarat ,Vadodara,22.3,73.2,Town/City,Money Heist,Crime
+20,11-20,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Squid Game,K-drama
+20,11-20,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Money Heist,Crime
+20,11-20,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Loki,Superhero
+20,11-20,Male,Unemployed,Kerala ,Kochi,9.9667,76.2833,Metrpolitan,Kingdom,Horror
+20,11-20,Male,Unemployed,Kerala ,Kochi,9.9667,76.2833,Metrpolitan,Dark,Thriller
+20,11-20,Male,Unemployed,Kerala ,Kochi,9.9667,76.2833,Metrpolitan,Lost,Mystery
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Town/City,The Witcher,Fantasy
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Town/City,Sweet Tooth,Fantasy
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Town/City,The Boys,Action
+20,11-20,Male,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Big Boss,Indian TV Reality Show
+24,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,Friends,Comedy
+24,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,Young Sheldon,Comedy
+24,21-30,Female,Student,Karnataka ,Bangalore,12.9699,77.598,Town/City,The Vampire Diaries,Horror
+37,31-40,Female,Employed,Kerala,Thrissur,10.52,76.21,Metrpolitan,The Witcher,Fantasy
+34,31-40,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,This Is Us,Romantic Comedy
+34,31-40,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,The Mentalist,Mystery
+34,31-40,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Schitt's Creek,Comedy
+17,11-20,Female,Student,Kerala,Chaganasserry,9.4465,76.5402,Town/City,Bad and Crazy,K-drama
+17,11-20,Female,Student,Kerala,Chaganasserry,9.4465,76.5402,Town/City,True Beauty,K-drama
+17,11-20,Female,Student,Kerala,Chaganasserry,9.4465,76.5402,Town/City,Stranger Things,Horror
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Town/City,The Witcher,Fantasy
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Town/City,The Walking Dead,Horror
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Town/City,Kingdom,Horror
+21,21-30,Male,Student,Karnataka,Chikmagalur,13.3161,75.772,Town/City,Money Heist,Crime
+21,21-30,Male,Student,Karnataka,Chikmagalur,13.3161,75.772,Town/City,Squid Game,K-drama
+21,21-30,Male,Student,Karnataka,Chikmagalur,13.3161,75.772,Town/City,Game Of Thrones,Action
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Descendants Of The Sun,K-drama
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Flower Of Evil,Drama
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Bhaukaal,Crime
+20,11-20,Male,Student,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Loki,Superhero
+20,11-20,Male,Student,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,WandaVision,Superhero
+22,21-30,Female,Student,Uttar Pradesh ,Prayagraj,25.4358,81.8463,Town/City,The Crown,History
+22,21-30,Female,Student,Uttar Pradesh ,Prayagraj,25.4358,81.8463,Town/City,Money Heist,Crime
+22,21-30,Female,Student,Uttar Pradesh ,Prayagraj,25.4358,81.8463,Town/City,Breaking Bad,Crime
+23,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Town/City,Money Heist,Crime
+23,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Town/City,Karikku,Comedy
+23,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Town/City,Lucifer,Fantasy
+35,31-40,Female,Employed,Karnataka ,Bangalore,12.9699,77.598,Town/City,Saregamapa,Indian TV Reality Show
+35,31-40,Female,Employed,Karnataka ,Bangalore,12.9699,77.598,Town/City,The Bold Type,Comedy
+19,11-20,Male,Student,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Family Guy,Comedy
+19,11-20,Male,Student,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Our Planet,Animation
+19,11-20,Male,Student,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Squid Game,K-drama
+17,11-20,Male,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,My Hero Academia,Anime
+17,11-20,Male,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,One Punch Man,Anime
+17,11-20,Male,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Stranger Things,Horror
+22,21-30,Female,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Money Heist,Crime
+22,21-30,Female,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Little Things,Indian TV series
+20,11-20,Female,Student,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Schitt's Creek,Comedy
+20,11-20,Female,Student,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Atypical,Comedy
+20,11-20,Female,Student,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Family Man,Action
+30,21-30,Male,Self Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Family Man,Action
+30,21-30,Male,Self Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Shark Tank,Indian TV Reality Show
+30,21-30,Male,Self Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Big Boss,Indian TV Reality Show
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,All Of Us Are Dead,K-drama
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Squid Game,K-drama
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Money Heist,Crime
+22,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Little Things,Indian TV series
+22,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Money Heist,Crime
+22,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Never Have I Ever,Comedy
+34,31-40,Female,Employed,Kerala,Sulthan Bathery,11.6629,76.257,Town/City,Friends,Comedy
+34,31-40,Female,Employed,Kerala,Sulthan Bathery,11.6629,76.257,Town/City,Anne With An E,Drama
+34,31-40,Female,Employed,Kerala,Sulthan Bathery,11.6629,76.257,Town/City,Seinfeld,Comedy
+20,11-20,Male,Student,Karnataka,Mysore,12.3086,76.6531,Town/City,Money Heist,Crime
+20,11-20,Male,Student,Karnataka,Mysore,12.3086,76.6531,Town/City,Peaky Blinders,Action
+20,11-20,Male,Student,Karnataka,Mysore,12.3086,76.6531,Town/City,Elite,Drama
+18,11-20,Female,Unemployed,Kerala,Kottayam,9.5916,76.5222,Town/City,Squid Game,K-drama
+18,11-20,Female,Unemployed,Kerala,Kottayam,9.5916,76.5222,Town/City,Money Heist,Crime
+18,11-20,Female,Unemployed,Kerala,Kottayam,9.5916,76.5222,Town/City,Family Man,Action
+22,21-30,Male,Student,Gujarat,Vadodara,22.3,73.2,Town/City,How I Met Your Mother,Romantic Comedy
+22,21-30,Male,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Money Heist,Crime
+22,21-30,Male,Student,Gujarat,Vadodara,22.3,73.2,Town/City,The Office,Comedy
+22,21-30,Female,Student,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Chernobyl,Historical Drama
+26,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Four More Shots,Comedy
+26,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,The Big Bang theory,Comedy
+40,31-40,Female,Employed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Thera Para,Comedy
+40,31-40,Female,Employed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Othalanga Thuruthu,Comedy
+40,31-40,Female,Employed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Rock Paper Scissors,Comedy
+22,21-30,Female,Student,Kerala,Thalayolaparambu,9.785,76.4496,Rural,Money Heist,Crime
+22,21-30,Female,Student,Kerala,Thalayolaparambu,9.785,76.4496,Rural,She,Crime
+22,21-30,Female,Student,Kerala,Thalayolaparambu,9.785,76.4496,Rural,Brooklyn Nine-Nine,Comedy
+21,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Peaky Blinders,Action
+21,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Money Heist,Crime
+21,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Stranger Things,Horror
+22,21-30,Male,Student,Maharashtra,Osmanabad,18.1667,76.05,Town/City,Brooklyn Nine-Nine,Comedy
+22,21-30,Male,Student,Maharashtra,Osmanabad,18.1667,76.05,Town/City,Girlboss,Comedy
+22,21-30,Male,Student,Maharashtra,Osmanabad,18.1667,76.05,Town/City,Stranger Things,Horror
+37,31-40,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Chilling Adventures of Sabrina,Fantasy
+37,31-40,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Money Heist,Crime
+49,41-50,Female,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,The Office,Comedy
+49,41-50,Female,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,Hostages,Thriller
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Euphoria,Drama
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Midnight Mass,Horror
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Sex Education,Comedy
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Family Guy,Comedy
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,The Office,Comedy
+21,21-30,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,The Big Bang Theory,Comedy
+22,21-30,Male,Student,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Breaking Bad,Crime
+22,21-30,Male,Student,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Squid Game,K-drama
+34,31-40,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Mirzapur,Indian TV series
+34,31-40,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Kota Factory,Comedy
+34,31-40,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Chacha Vidhayak Hai Hamare,Comedy
+21,21-30,Male,Student,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Special Ops,Thriller
+21,21-30,Male,Student,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Hostages,Thriller
+21,21-30,Male,Student,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Sherlock Holmes,Mystery
+19,11-20,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,The Blacklist,Thriller
+19,11-20,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,Young Sheldon,Comedy
+19,11-20,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,Brooklyn Nine-Nine,Comedy
+44,41-50,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Rural,The Good Doctor,Medical Drama
+44,41-50,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Rural,Bridgerton,Drama
+23,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Friends,Comedy
+23,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Rick And Morty,Comedy
+23,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Breaking Bad,Crime
+15,11-20,Female,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Vincenzo,K-drama
+15,11-20,Female,Student,Kerala,Kochi,9.9667,76.2833,Town/City,It's Okay To Not Be Okay,K-drama
+15,11-20,Female,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Fate The Winx Saga,Adventure
+20,11-20,Female,Student,Jharkhand,Deoghar,24.4852,86.6948,Town/City,Dark,Thriller
+20,11-20,Female,Student,Jharkhand,Deoghar,24.4852,86.6948,Town/City,Stranger Things,Horror
+20,11-20,Female,Student,Jharkhand,Deoghar,24.4852,86.6948,Town/City,Special Ops,Thriller
+23,21-30,Male,Employed,Kerala,Kannur,11.8745,75.3704,Rural,All Of Us Are Dead,K-drama
+23,21-30,Male,Employed,Kerala,Kannur,11.8745,75.3704,Rural,Friends,Comedy
+20,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Town/City,The Mentalist,Mystery
+20,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Town/City,The Big Bang Theory,Comedy
+20,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Town/City,Little Things,Indian TV series
+20,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Demon Slayer,Anime
+20,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Euphoria,Drama
+20,11-20,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,All Of Us Are Dead,K-drama
+20,11-20,Male,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,Money Heist,Crime
+20,11-20,Male,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,Typewriter,Horror
+20,11-20,Male,Student,Delhi,Delhi,28.66,77.23,Metrpolitan,Squid Game,K-drama
+23,21-30,Male,Student,Kerala,Thrissur,10.52,76.21,Town/City,City Of Dreams,Mystery
+23,21-30,Male,Student,Kerala,Thrissur,10.52,76.21,Town/City,White Collar,Mystery
+23,21-30,Male,Student,Kerala,Thrissur,10.52,76.21,Town/City,Family Guy,Comedy
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Family Man,Action
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,After Life,Comedy
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Hospital Playlist,Medical Drama
+53,51-60,Female,Homemaker,Kerala,Thrissur,10.52,76.21,Town/City,Hawkeye,Fantasy
+53,51-60,Female,Homemaker,Kerala,Thrissur,10.52,76.21,Town/City,Vikings,Adventure
+53,51-60,Female,Homemaker,Kerala,Thrissur,10.52,76.21,Town/City,The Walking Dead,Horror
+21,21-30,Female,Student,Kerala,Thrissur,10.52,76.21,Town/City,Money Heist,Crime
+21,21-30,Female,Student,Kerala,Thrissur,10.52,76.21,Town/City,The Vampire Diaries,Horror
+21,21-30,Female,Student,Kerala,Thrissur,10.52,76.21,Town/City,Emily in Paris,Comedy
+29,21-30,Male,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Breaking Bad,Crime
+29,21-30,Male,Employed,Kerala,Thrissur,10.52,76.21,Town/City,The Good Doctor,Medical Drama
+29,21-30,Male,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Friends,Comedy
+21,21-30,Female,Student,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Human,Thriller
+21,21-30,Female,Student,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Aranyak,Thriller
+21,21-30,Female,Student,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Family Man,Action
+22,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Rural,Bhaukaal,Crime
+22,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Rural,Hometown Cha Cha Cha,K-drama
+22,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Rural,Hometown Cha Cha Cha,K-drama
+22,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Rural,Vincenzo,K-drama
+24,21-30,Female,Employed,Kerala,Kottayam,9.5916,76.5222,Town/City,Loki,Superhero
+24,21-30,Female,Employed,Kerala,Kottayam,9.5916,76.5222,Town/City,Squid Game,K-drama
+24,21-30,Female,Employed,Kerala,Kottayam,9.5916,76.5222,Town/City,Money Heist,Crime
+19,11-20,Female,Student,Uttarakhand,Dehradun,30.3165,78.0322,Town/City,The Queen's Gambit,Drama
+19,11-20,Female,Student,Uttarakhand,Dehradun,30.3165,78.0322,Town/City,Lucifer,Fantasy
+19,11-20,Female,Student,Uttarakhand,Dehradun,30.3165,78.0322,Town/City,Brooklyn Nine-Nine,Comedy
+24,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Demon Slayer,Anime
+24,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Peaky Blinders,Action
+24,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Suits,Drama
+23,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Town/City,The Big Bang Theory,Comedy
+23,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Town/City,Four More Shots Please,Romance
+23,21-30,Female,Employed,Karnataka,Mangalore,12.8703,74.8806,Town/City,Emily in Paris,Comedy
+21,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Money Heist,Crime
+21,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Elite,Drama
+21,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Stranger Things,Horror
+20,11-20,Female,Student,West Bengal,Darjeeling,27.0417,88.2631,Town/City,Lucifer,Fantasy
+20,11-20,Female,Student,West Bengal,Darjeeling,27.0417,88.2631,Town/City,It's Okay To Not Be Okay,K-drama
+20,11-20,Female,Student,West Bengal,Darjeeling,27.0417,88.2631,Town/City,JL50,Sci-Fi
+27,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Lucifer,Fantasy
+27,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Family Man,Action
+27,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Shark Tank,Indian TV Reality Show
+27,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Family Man,Action
+27,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Lucifer,Fantasy
+27,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Shark Tank,Indian TV Reality Show
+47,41-50,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Naruto,Anime
+47,41-50,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Money Heist,Crime
+47,41-50,Female,Unemployed,Kerala,Ernakulam,9.9816,76.2999,Town/City,Squid Game,K-drama
+22,21-30,Female,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Special Ops,Thriller
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Vikings,Adventure
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Sex Education,Comedy
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Town/City,Squid Game,K-drama
+21,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Shadow and Bone,Fantasy
+21,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,The Umbrella Academy,Superhero
+21,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Brooklyn Nine-Nine,Comedy
+24,21-30,Male,Self Employed,Kerala,Kochi,9.9667,76.2833,Town/City,Naruto,Anime
+24,21-30,Male,Self Employed,Kerala,Kochi,9.9667,76.2833,Town/City,One Punch Man,Anime
+24,21-30,Male,Self Employed,Kerala,Kochi,9.9667,76.2833,Town/City,Death Note,Anime
+50,41-50,Female,Homemaker,Kerala,Kochi,9.9667,76.2833,Town/City,Kudumbavilakku,Indian TV Series
+23,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Game of Thrones,Fantasy
+23,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Sacred Games,Crime
+23,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Narcos,Crime
+31,31-40,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Young Sheldon,Comedy
+31,31-40,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Schitt's Creek,Comedy
+31,31-40,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Ozark,Crime
+21,21-30,Male,Student,Telangana,Hyderabad,17.3667,78.4667,Metrpolitan,Friends,Comedy
+21,21-30,Male,Student,Telangana,Hyderabad,17.3667,78.4667,Metrpolitan,The Big Bang Theory,Comedy
+21,21-30,Male,Student,Telangana,Hyderabad,17.3667,78.4667,Metrpolitan,How I Met Your Mother,Romantic Comedy
+21,21-30,Female,Student,Kerala,Kollam,8.9969,76.8721,Town/City,The Vampire Diaries,Horror
+21,21-30,Female,Student,Kerala,Kollam,8.9969,76.8721,Town/City,Crash Landing On You,K-drama
+21,21-30,Female,Student,Kerala,Kollam,8.9969,76.8721,Town/City,The Bold Type,Comedy
+21,21-30,Female,Student,Uttarakhand,Nainital,29.3919,79.4542,Rural,Money Heist,Crime
+21,21-30,Female,Student,Uttarakhand,Nainital,29.3919,79.4542,Rural,Brooklyn Nine-Nine,Comedy
+21,21-30,Female,Student,Uttarakhand,Nainital,29.3919,79.4542,Rural,The Grand Tour,Reality Show
+19,11-20,Female,Student,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,The Witcher,Fantasy
+19,11-20,Female,Student,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Normal People,Romance
+19,11-20,Female,Student,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Rick And Morty,Comedy
+20,11-20,Male,Student,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Brooklyn Nine-Nine,Comedy
+20,11-20,Male,Student,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Two And A Half Men,Comedy
+20,11-20,Male,Student,Maharashtra,Mumbai,18.9667,72.8333,Town/City,The Big Bang Theory,Comedy
+18,11-20,Male,Student,Kerala,Pilathara,12.0827,75.2625,Town/City,Game Of Thrones,Action
+18,11-20,Male,Student,Kerala,Pilathara,12.0827,75.2625,Town/City,Cobra Kai,Comedy-drama
+18,11-20,Male,Student,Kerala,Pilathara,12.0827,75.2625,Town/City,Stranger Things,Horror
+24,21-30,Male,Employed,Bihar,Patna,25.61,85.1414,Town/City,Breaking Bad,Crime
+24,21-30,Male,Employed,Bihar,Patna,25.61,85.1414,Town/City,Game of Thrones,Fantasy
+24,21-30,Male,Employed,Bihar,Patna,25.61,85.1414,Town/City,Sex Education,Comedy
+22,21-30,Male,Employed,Kerala,Kannur,11.8745,75.3704,Rural,The Witcher,Fantasy
+22,21-30,Male,Employed,Kerala,Kannur,11.8745,75.3704,Rural,Money Heist,Crime
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Scam 1992,Thriller
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Manifest,Sci-Fi
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Narcos,Crime
+33,31-40,Male,Employed,Kerala,Thodupuzha,9.8959,76.7184,Town/City,Forensic Files 2,Documentary
+33,31-40,Male,Employed,Kerala,Thodupuzha,9.8959,76.7184,Town/City,Mandalorian,Adventure
+33,31-40,Male,Employed,Kerala,Thodupuzha,9.8959,76.7184,Town/City,The Big Bang Theory,Comedy
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Friends,Comedy
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Squid Game,K-drama
+21,21-30,Female,Student,Karnataka,Mangalore,12.8703,74.8806,Town/City,Breathe,Crime
+26,21-30,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Locke and Key,Fantasy
+21,21-30,Female,Student,Karnataka,Raichur,16.2104,77.355,Town/City,Money Heist,Crime
+21,21-30,Female,Student,Karnataka,Raichur,16.2104,77.355,Town/City,Dark,Thriller
+21,21-30,Female,Student,Karnataka,Raichur,16.2104,77.355,Town/City,College Diaries,Indian TV Reality Show
+21,21-30,Non binary,Student,Maharashtra,Thane,19.18,72.9633,Town/City,Schitt's Creek,Comedy
+21,21-30,Non binary,Student,Maharashtra,Thane,19.18,72.9633,Town/City,Brooklyn Nine-Nine,Comedy
+21,21-30,Non binary,Student,Maharashtra,Thane,19.18,72.9633,Town/City,The Bold Type,Comedy
+25,21-30,Male,Employed,Kerala,Trivandrum,8.5,76.8997,Town/City,Friends,Comedy
+25,21-30,Male,Employed,Kerala,Trivandrum,8.5,76.8997,Town/City,Brooklyn Nine-Nine,Comedy
+25,21-30,Male,Employed,Kerala,Trivandrum,8.5,76.8997,Town/City,Squid Game,K-drama
+19,11-20,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Friends,Comedy
+19,11-20,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Comicstaan,Indian TV Reality Show
+21,21-30,Female,Student,Kerala,Kuravilangade,9.7576,76.561,Rural,Family Man,Action
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Game Of Thrones,Action
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Dark,Thriller
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Stranger Things,Horror
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,Attack On Titan,Anime
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,One Piece,Anime
+22,21-30,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Rural,Naruto,Anime
+21,21-30,Male,Student,Kerala,Chaganasserry,9.4465,76.5402,Town/City,Attack On Titan,Anime
+21,21-30,Male,Student,Kerala,Chaganasserry,9.4465,76.5402,Town/City,The Falcon And The Winter Soldier,Superhero
+21,21-30,Male,Student,Kerala,Chaganasserry,9.4465,76.5402,Town/City,WandaVision,Superhero
+28,21-30,Female,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Kota Factory,Comedy
+28,21-30,Female,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Bandish Bandits,Romance
+28,21-30,Female,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Seinfeld,Comedy
+28,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Family Man,Action
+28,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Special Ops,Thriller
+28,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Scam 1992,Thriller
+25,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Friends,Comedy
+25,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Kota Factory,Comedy
+25,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Mirzapur,Indian TV series
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,You,Thriller
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,How To Get Away With Murder,Crime
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,The Blacklist,Thriller
+25,21-30,Male,Employed,Kerala,Kottayam,9.5916,76.5222,Town/City,Dark,Thriller
+25,21-30,Male,Employed,Kerala,Kottayam,9.5916,76.5222,Town/City,Click Bait,Thriller
+25,21-30,Male,Employed,Kerala,Kottayam,9.5916,76.5222,Town/City,Money Heist,Crime
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Mirzapur,Indian TV series
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Wheel Of Time,Fantasy
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Four More Shots,Comedy
+24,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Stranger Things,Horror
+24,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Squid Game,K-drama
+24,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Demon Slayer,Anime
+23,21-30,Male,Student,Kerala,Adoor,9.153,76.7356,Rural,Squid Game,K-drama
+23,21-30,Male,Student,Kerala,Adoor,9.153,76.7356,Rural,Vikings,Adventure
+23,21-30,Male,Student,Kerala,Adoor,9.153,76.7356,Rural,Never Have I Ever,Comedy
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Rural,Money Heist,Crime
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Rural,Squid Game,K-drama
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,Money Heist,Crime
+21,21-30,Male,Student,Kerala,Thrissur,10.52,76.21,Town/City,Bojack Horseman,Animation
+21,21-30,Male,Student,Kerala,Thrissur,10.52,76.21,Town/City,Normal People,Romance
+21,21-30,Male,Student,Kerala,Thrissur,10.52,76.21,Town/City,Welcome to the N.H.K,Anime
+46,41-50,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Kota Factory,Comedy
+21,21-30,Male,Student,Kerala,Thrissur,10.52,76.21,Rural,Inside Edge,Drama
+22,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Peaky Blinders,Action
+22,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Young Sheldon,Comedy
+22,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Vikings,Adventure
+22,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Money Heist,Crime
+22,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Lucifer,Fantasy
+22,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Dark,Thriller
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Sex Education,Comedy
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Beyond Evil,K-drama
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Signal 2,K-drama
+22,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Money Heist,Crime
+22,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,You,Thriller
+22,21-30,Female,Student,Bihar,Patna,25.61,85.1414,Town/City,Sex Education,Comedy
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Money Heist,Crime
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,All Of Us Are Dead,K-drama
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Stranger Things,Horror
+21,21-30,Female,Student,Kerala,Pala,9.7131,76.6833,Town/City,Early Bird,Romance
+21,21-30,Female,Student,Kerala,Pala,9.7131,76.6833,Town/City,You Are Beautiful,K-drama
+21,21-30,Female,Student,Kerala,Pala,9.7131,76.6833,Town/City,Boys Over Flowers,K-drama
+23,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,The Witcher,Fantasy
+23,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Reply 1988,K-drama
+23,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Little Things,Indian TV series
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Suits,Drama
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,The Big Bang Theory,Comedy
+22,21-30,Female,Student,Karnataka,Madikeri,12.4244,75.7382,Town/City,The Big Bang Theory,Comedy
+22,21-30,Female,Student,Karnataka,Madikeri,12.4244,75.7382,Town/City,Brooklyn Nine-Nine,Comedy
+22,21-30,Female,Student,Karnataka,Madikeri,12.4244,75.7382,Town/City,Friends,Comedy
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Bhaukaal,Crime
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Crown,Drama
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,The Marvelous Mrs. Maisel,Comedy
+21,21-30,Male,Student,Goa,Old Goa,15.502,73.91,Town/City,Peaky Blinders,Action
+21,21-30,Male,Student,Goa,Old Goa,15.502,73.91,Town/City,Euphoria,Drama
+21,21-30,Male,Student,Goa,Old Goa,15.502,73.91,Town/City,Sacred Games,Crime
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,The Vampire Diaries,Horror
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,The Big Bang Theory,Comedy
+20,11-20,Male,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Modern Family,Comedy
+28,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Dracula,Fantasy
+28,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Sick Note,Comedy
+28,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Schitt's Creek,Comedy
+21,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Money Heist,Crime
+21,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,Squid Game,K-drama
+21,21-30,Female,Student,Kerala,Kannur,11.8745,75.3704,Rural,All Of Us Are Dead,K-drama
+21,21-30,Female,Student,Uttarakhand,Bazpur,29.1585,79.1464,Town/City,Friends,Comedy
+21,21-30,Female,Student,Uttarakhand,Bazpur,29.1585,79.1464,Town/City,Money Heist,Crime
+21,21-30,Female,Student,Uttarakhand,Bazpur,29.1585,79.1464,Town/City,Emily in Paris,Comedy
+21,21-30,Female,Student,Maharashtra,Pune,18.5196,73.8553,Metrpolitan,The Office,Comedy
+21,21-30,Female,Student,Maharashtra,Pune,18.5196,73.8553,Metrpolitan,Friends,Comedy
+21,21-30,Female,Student,Maharashtra,Pune,18.5196,73.8553,Metrpolitan,Brooklyn Nine-Nine,Comedy
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,The Big Bang Theory,Comedy
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Money Heist,Crime
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Lucifer,Fantasy
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Money Heist,Crime
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Big Boss,Indian TV Reality Show
+21,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Town/City,Navarasa,Drama
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Friends,Comedy
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Family Man,Action
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Money Heist,Crime
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Mismatched,Indian TV series
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Money Heist,Crime
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,What The Folks,Indian TV series
+24,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Narcos,Crime
+24,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,The Boys,Action
+24,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Bhaukaal,Crime
+23,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Money Heist,Crime
+23,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Breaking Bad,Crime
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Money Heist,Crime
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Squid Game,K-drama
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Legacies,Fantasy
+26,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Lost,Mystery
+26,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Squid Game,K-drama
+26,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,The Walking Dead,Horror
+24,21-30,Female,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Money Heist,Crime
+21,21-30,Female,Student,Kerala,Malappuram,11.051,76.0711,Town/City,Schitt's Creek,Comedy
+21,21-30,Female,Student,Kerala,Malappuram,11.051,76.0711,Town/City,Kingdom,Horror
+21,21-30,Female,Student,Kerala,Malappuram,11.051,76.0711,Town/City,Peaky Blinders,Action
+24,21-30,Male,Student,Karnataka,Udupi,13.3322,74.7461,Rural,Money Heist,Crime
+24,21-30,Male,Student,Karnataka,Udupi,13.3322,74.7461,Rural,Family Man,Action
+24,21-30,Male,Student,Karnataka,Udupi,13.3322,74.7461,Rural,The Big Bang Theory,Comedy
+21,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Money Heist,Crime
+22,21-30,Female,Student,Kerala,Calicut,11.25,75.7667,Town/City,Money Heist,Crime
+23,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Dark,Thriller
+23,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,Money Heist,Crime
+23,21-30,Male,Student,Kerala,Kottayam,9.5916,76.5222,Rural,WandaVision,Superhero
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,One Tree Hill,Romance
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,The Vampire Diaries,Horror
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Squid Game,K-drama
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Little Things,Indian TV series
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Lupin,Thriller
+53,51-60,Male,Employed,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Safe House,Crime
+53,51-60,Male,Employed,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Yellowstone,Drama
+53,51-60,Male,Employed,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Stranger,Thriller
+32,31-40,Female,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Money Heist,Crime
+32,31-40,Female,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Crown,Drama
+32,31-40,Female,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Friends,Comedy
+44,41-50,Male,Employed,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Suits,Drama
+44,41-50,Male,Employed,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Squid Game,K-drama
+21,21-30,Female,Student,Karnataka,Tumakuru,13.3379,77.1173,Town/City,Money Heist,Crime
+21,21-30,Female,Student,Karnataka,Tumakuru,13.3379,77.1173,Town/City,Dark,Thriller
+21,21-30,Female,Student,Karnataka,Tumakuru,13.3379,77.1173,Town/City,Stranger Things,Horror
+31,31-40,Male,Self Employed,Kerala,Thrissur,10.52,76.21,Town/City,Breaking Bad,Crime
+31,31-40,Male,Self Employed,Kerala,Thrissur,10.52,76.21,Town/City,Money Heist,Crime
+31,31-40,Male,Self Employed,Kerala,Thrissur,10.52,76.21,Town/City,Squid Game,K-drama
+23,21-30,Female,Student,Kerala,Alappuzha,9.4981,76.3388,Town/City,Kudumbavilakku,Indian TV Series
+23,21-30,Female,Student,Kerala,Alappuzha,9.4981,76.3388,Town/City,Santhwanam,Indian TV Series
+33,31-40,Male,Employed,Kerala,Perinthalmanna,10.976,76.225,Town/City,All Of Us Are Dead,K-drama
+33,31-40,Male,Employed,Kerala,Perinthalmanna,10.976,76.225,Town/City,Money Heist,Crime
+33,31-40,Male,Employed,Kerala,Perinthalmanna,10.976,76.225,Town/City,Squid Game,K-drama
+26,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Daredevil,Crime
+26,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,That '70s Show,Comedy
+26,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,What If...?,Animation
+14,11-20,Female,Student,Kerala,Thrissur,10.52,76.21,Town/City,Squid Game,K-drama
+14,11-20,Female,Student,Kerala,Thrissur,10.52,76.21,Town/City,Money Heist,Crime
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,Kingdom,Horror
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,Asur,Indian TV series
+23,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,Euphoria,Drama
+21,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,Money Heist,Crime
+21,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,Dark,Thriller
+21,21-30,Male,Student,Kerala,Kannur,11.8745,75.3704,Rural,Delhi Crime,Crime
+31,31-40,Female,Unemployed,Kerala,Thrissur,10.52,76.21,Town/City,Teen Wolf,Fantasy
+31,31-40,Female,Unemployed,Kerala,Thrissur,10.52,76.21,Town/City,NCIS,Action
+31,31-40,Female,Unemployed,Kerala,Thrissur,10.52,76.21,Town/City,Stranger Things,Horror
+41,41-50,Male,Employed,Maharashtra,Thane,19.18,72.9633,Town/City,Forensic Files,Documentary
+41,41-50,Male,Employed,Maharashtra,Thane,19.18,72.9633,Town/City,Aarya,Crime
+41,41-50,Male,Employed,Maharashtra,Thane,19.18,72.9633,Town/City,Somebody Feed Phil,Documentary
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Stranger Things,Horror
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Money Heist,Crime
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Dark,Thriller
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Vincenzo,K-drama
+23,21-30,Female,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Big Boss,Indian TV Reality Show
+23,21-30,Male,Self Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Demon Slayer,Anime
+23,21-30,Male,Self Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Attack On Titan,Anime
+10,11-20,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,The Mentalist,Mystery
+10,11-20,Male,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Hit-Monkey,Animation
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Kingdom,Horror
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,The Vampire Diaries,Horror
+22,21-30,Female,Student,Kerala,Ernakulam,9.9816,76.2999,Town/City,Looking For Alaska,Fiction
+23,21-30,Female,Student,Kerala,Kottyam,9.5916,76.5222,Town/City,Money Heist,Crime
+22,21-30,Male,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Legend Of Hanuman,Animation
+21,21-30,Female,Student,Maharashtra,Virar,19.4564,72.7925,Town/City,Emily in Paris,Comedy
+21,21-30,Female,Student,Maharashtra,Virar,19.4564,72.7925,Town/City,Dark,Thriller
+21,21-30,Female,Student,Maharashtra,Virar,19.4564,72.7925,Town/City,Big Boss,Indian TV Reality Show
+49,41-50,Female,Retired,Maharashtra,Thane,19.18,72.9633,Town/City,Big Boss,Indian TV Reality Show
+49,41-50,Female,Retired,Maharashtra,Thane,19.18,72.9633,Town/City,Money Heist,Crime
+49,41-50,Female,Retired,Maharashtra,Thane,19.18,72.9633,Town/City,Yellowstone,Drama
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Run BTS,Korean Variety Show
+21,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Town/City,Super Singer,Indian TV Reality Show
+40,31-40,Female,Homemaker,Maharashtra,Thane,19.18,72.9633,Town/City,Decoupled,Comedy
+40,31-40,Female,Homemaker,Maharashtra,Thane,19.18,72.9633,Town/City,Mumbai Diaries 26/11,Medical Drama
+21,21-30,Female,Student,Maharashtra,Navi Mumbai,19.033,73.0297,Town/City,Friends,Comedy
+21,21-30,Female,Student,Maharashtra,Navi Mumbai,19.033,73.0297,Town/City,Mismatched,Indian TV series
+21,21-30,Female,Student,Maharashtra,Navi Mumbai,19.033,73.0297,Town/City,Money Heist,Crime
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,The Witcher,Fantasy
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Mindhunter,Crime
+22,21-30,Female,Student,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Behind Her Eyes,Thriller
+35,31-40,Male,Self Employed,Kerala,Idukki,9.9189,77.1025,Town/City,Money Heist,Crime
+46,41-50,Female,Homemaker,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Mare of Easttown,Crime
+46,41-50,Female,Homemaker,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Maid,Drama
+46,41-50,Female,Homemaker,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Scam 1992,Thriller
+21,21-30,Female,Student,Kerala,Thrissur,10.52,76.21,Town/City,Emily in Paris,Comedy
+21,21-30,Female,Student,Kerala,Thrissur,10.52,76.21,Town/City,13 Reasons Why,Drama
+21,21-30,Female,Student,Kerala,Thrissur,10.52,76.21,Town/City,Stranger Things,Horror
+23,21-30,Male,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,Dark,Thriller
+23,21-30,Male,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,Death Note,Anime
+23,21-30,Male,Employed,Kerala,Kochi,9.9667,76.2833,Town/City,Jujutsu Kaisen,Anime
+28,21-30,Female,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Money Heist,Crime
+28,21-30,Female,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Squid Game,K-drama
+28,21-30,Female,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Sacred Games,Crime
+33,31-40,Male,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Lucifer,Fantasy
+33,31-40,Male,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Money Heist,Crime
+33,31-40,Male,Employed,Kerala,Thrissur,10.52,76.21,Town/City,Squid Game,K-drama
+22,21-30,Female,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Squid Game,K-drama
+22,21-30,Female,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Money Heist,Crime
+22,21-30,Female,Student,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Modern Family,Comedy
+45,41-50,Female,Employed,Maharashtra,Thane,19.18,72.9633,Town/City,Sacred Games,Crime
+45,41-50,Female,Employed,Maharashtra,Thane,19.18,72.9633,Town/City,Pyar Tune Kya Kiya,Indian TV Series
+27,21-30,Female,Homemaker,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Peaky Blinders,Action
+27,21-30,Female,Homemaker,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,The Queen's Gambit,Drama
+27,21-30,Female,Homemaker,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,The Big Bang Theory,Comedy
+23,21-30,Female,Employed,West Bengal,Chittranjan,23.8492,86.902,Town/City,Friends,Comedy
+23,21-30,Female,Employed,West Bengal,Chittranjan,23.8492,86.902,Town/City,The Office,Comedy
+23,21-30,Female,Employed,West Bengal,Chittranjan,23.8492,86.902,Town/City,Project Runway,Reality Show
+22,21-30,Female,Employed,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Schitt's Creek,Comedy
+22,21-30,Female,Employed,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Rebelde,Comedy
+22,21-30,Female,Employed,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Euphoria,Drama
+24,21-30,Female,Employed,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,That '70s Show,Comedy
+24,21-30,Female,Employed,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Modern Family,Comedy
+22,21-30,Female,Employed,Gujarat,Gandhinagar,23.22,72.68,Town/City,Parks and Recreation,Comedy
+22,21-30,Female,Employed,Gujarat,Gandhinagar,23.22,72.68,Town/City,One Day At a Time,Comedy
+22,21-30,Female,Employed,Gujarat,Gandhinagar,23.22,72.68,Town/City,Schitt's Creek,Comedy
+21,21-30,Male,Employed,Gujarat,Gandhinagar,23.22,72.68,Town/City,Bhaukaal,Crime
+21,21-30,Male,Employed,Gujarat,Gandhinagar,23.22,72.68,Town/City,Ek Thi Begum,Thriller
+21,21-30,Male,Employed,Gujarat,Gandhinagar,23.22,72.68,Town/City,Money Heist,Crime
+25,21-30,Male,Employed,Gujarat,Gandhinagar,23.22,72.68,Town/City,You,Thriller
+25,21-30,Male,Employed,Gujarat,Gandhinagar,23.22,72.68,Town/City,The Haunting of Hill House,Horror
+25,21-30,Male,Employed,Gujarat,Gandhinagar,23.22,72.68,Town/City,Loki,Superhero
+40,31-40,Female,Employed,Maharashtra,Thane,19.18,72.9633,Town/City,Forensic Files,Documentary
+34,31-40,Male,Employed,Kerala,Sulthan Bathery,11.6629,76.257,Rural,Breaking Bad,Crime
+34,31-40,Male,Employed,Kerala,Sulthan Bathery,11.6629,76.257,Rural,Seinfeld,Comedy
+34,31-40,Male,Employed,Kerala,Sulthan Bathery,11.6629,76.257,Rural,Unbelievable,Crime
+55,51-60,Female,Self Employed,Gujarat,Bhavnagar,21.765,75.7667,Town/City,Punyashlok Ahilya Bai,Indian TV Series
+55,51-60,Female,Self Employed,Gujarat,Bhavnagar,21.765,75.7667,Town/City,Kaun Banega Karorpati,Indian TV Reality Show
+30,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Metrpolitan,Schitt's Creek,Comedy
+30,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Metrpolitan,Shark Tank,Indian TV Reality Show
+29,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Town/City,Money Heist,Crime
+29,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Town/City,Panchayat,Indian TV series
+29,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Town/City,Squid Game,K-drama
+22,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Just Add Magic,Fantasy
+22,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Dhadkan,Indian TV Series
+22,21-30,Female,Student,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Family Man,Action
+22,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Human,Thriller
+22,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Brooklyn Nine-Nine,Comedy
+22,21-30,Male,Employed,Karnataka,Bangalore,12.9699,77.598,Town/City,Paradise PD,Animation
+22,21-30,Female,Student,West Bengal,Haldia,22.0627,88.0833,Town/City,Locke and Key,Fantasy
+22,21-30,Female,Student,West Bengal,Haldia,22.0627,88.0833,Town/City,Peaky Blinders,Action
+22,21-30,Female,Student,West Bengal,Haldia,22.0627,88.0833,Town/City,Sherlock Holmes,Mystery
+25,21-30,Female,Employed,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,Money Heist,Crime
+25,21-30,Female,Employed,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,Something In The Rain,K-drama
+25,21-30,Female,Employed,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,Naruto,Anime
+28,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Town/City,Aarya,Crime
+28,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Town/City,On My block,Comedy
+28,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Town/City,Friends,Comedy
+47,41-50,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Money Heist,Crime
+47,41-50,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Lost In Space,Sci-Fi
+47,41-50,Female,Employed,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Mumbai Diaries 26/11,Medical Drama
+47,41-50,Female,Employed,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Legend Of Hanuman,Animation
+25,21-30,Female,Employed,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Big Boss,Indian TV Reality Show
+21,21-30,Female,Student,Jammu and Kashmir,Baramulla,34.2,74.34,Town/City,Friends,Comedy
+21,21-30,Female,Student,Jammu and Kashmir,Baramulla,34.2,74.34,Town/City,Breaking Bad,Crime
+21,21-30,Female,Student,Jammu and Kashmir,Baramulla,34.2,74.34,Town/City,Stranger Things,Horror
+22,21-30,Female,Employed,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Naruto,Anime
+22,21-30,Female,Employed,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Sherlock Holmes,Mystery
+22,21-30,Female,Employed,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Daredevil,Crime
+26,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Town/City,Money Heist,Crime
+26,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Town/City,Bandish Bandits,Romance
+26,21-30,Female,Employed,Gujarat,Ahmedabad,23.03,72.58,Town/City,Panchayat,Indian TV series
+26,21-30,Male,Unemployed,Jammu and Kashmir,Srinagar,34.0911,74.8061,Rural,Narcos,Crime
+23,21-30,Male,Student,Jammu and Kashmir,Srinagar,34.0911,74.8061,Rural,The Good Doctor,Medical Drama
+23,21-30,Male,Student,Jammu and Kashmir,Srinagar,34.0911,74.8061,Rural,Indori Ishq,Comedy
+23,21-30,Male,Student,Jammu and Kashmir,Srinagar,34.0911,74.8061,Rural,Hostel Daze,Comedy
+19,11-20,Male,Student,Jammu and Kashmir,Rafiabad,34.2547,74.393,Rural,Money Heist,Crime
+19,11-20,Male,Student,Jammu and Kashmir,Rafiabad,34.2547,74.393,Rural,Game Of Thrones,Action
+19,11-20,Male,Student,Jammu and Kashmir,Rafiabad,34.2547,74.393,Rural,Tandav,Thriller
+23,21-30,Male,Student,Jammu and Kashmir,Handwara,34.4,74.28,Town/City,Money Heist,Crime
+23,21-30,Male,Student,Jammu and Kashmir,Handwara,34.4,74.28,Town/City,Narcos,Crime
+23,21-30,Male,Student,Jammu and Kashmir,Handwara,34.4,74.28,Town/City,Mirzapur,Indian TV series
+26,21-30,Male,Employed,Jammu and Kashmir,Srinagar,34.0911,74.8061,Rural,Dirilis: Ertugrul,Action
+26,21-30,Male,Employed,Jammu and Kashmir,Srinagar,34.0911,74.8061,Rural,Vikings,Adventure
+23,21-30,Female,Student,Jammu and Kashmir,Srinagar,34.0911,74.8061,Town/City,Money Heist,Crime
+23,21-30,Female,Student,Jammu and Kashmir,Srinagar,34.0911,74.8061,Town/City,Sacred Games,Crime
+23,21-30,Female,Student,Jammu and Kashmir,Srinagar,34.0911,74.8061,Town/City,Dirilis: Ertugrul,Action
+22,21-30,Female,Student,Jammu and Kashmir,Baramulla,34.2,74.34,Rural,Ham Kahan Ka Saachai Thai,Indian TV series
+22,21-30,Female,Student,Jammu and Kashmir,Baramulla,34.2,74.34,Rural,13 Reasons Why,Drama
+22,21-30,Female,Student,Jammu and Kashmir,Baramulla,34.2,74.34,Rural,The Day Dreamer,Romantic Comedy
+18,11-20,Male,Student,Jammu and Kashmir,Baramulla,34.2,74.34,Town/City,Money Heist,Crime
+18,11-20,Male,Student,Jammu and Kashmir,Baramulla,34.2,74.34,Town/City,All Of Us Are Dead,K-drama
+18,11-20,Male,Student,Jammu and Kashmir,Baramulla,34.2,74.34,Town/City,She,Crime
+23,21-30,Female,Student,Jammu and Kashmir,Baramulla,34.2,74.34,Town/City,Friends,Comedy
+15,11-20,Male,Student,Jammu and Kashmir,Sopore,34.2868,74.4624,Town/City,The Witcher,Fantasy
+23,21-30,Female,Student,Jammu and Kashmir,Sopore,34.2868,74.4624,Town/City,Demon Slayer,Anime
+23,21-30,Female,Student,Jammu and Kashmir,Sopore,34.2868,74.4624,Town/City,Jujutsu Kaisen,Anime
+23,21-30,Female,Student,Jammu and Kashmir,Sopore,34.2868,74.4624,Town/City,Flower Of Evil,Drama
+21,21-30,Female,Employed,Bihar,Patna,25.61,85.1414,Town/City,Family Man 2,Action
+21,21-30,Female,Employed,Bihar,Patna,25.61,85.1414,Town/City,Mirzapur,Indian TV series
+21,21-30,Female,Employed,Bihar,Patna,25.61,85.1414,Town/City,Aspirants,Comedy
+22,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Brooklyn Nine-Nine,Comedy
+22,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,Psych,Mystery
+22,21-30,Male,Employed,Gujarat,Vadodara,22.3,73.2,Town/City,The Grand Tour,Reality Show
+23,21-30,Female,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Tokyo Revengers,Anime
+23,21-30,Female,Student,Gujarat,Vadodara,22.3,73.2,Town/City,It's Okay To Not Be Okay,K-drama
+23,21-30,Female,Student,Gujarat,Vadodara,22.3,73.2,Town/City,Mirzapur,Indian TV series

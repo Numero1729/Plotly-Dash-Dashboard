@@ -1,0 +1,988 @@
+﻿Age_Category,Gender,Occupational_Status,Annual_Salary,State,City,Latitude,Longitude,Residence,OTT_Platforms
+21-30,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Netflix
+21-30,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Amazon Prime
+11-20,Male,Student,,Bihar,Patna,25.61,85.1414,Town/City,Netflix
+11-20,Male,Student,,Bihar,Patna,25.61,85.1414,Town/City,Amazon Prime
+11-20,Male,Student,,Bihar,Patna,25.61,85.1414,Town/City,Disney+ Hotstar
+31-40,Male,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Male,Student,,Uttar Pradesh,Haridwar,29.9457,78.1642,Town/City,Netflix
+21-30,Male,Student,,Uttar Pradesh,Haridwar,29.9457,78.1642,Town/City,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Other
+11-20,Male,Student,,Kerala,Alapuzha,9.4981,76.3388,Town/City,Netflix
+11-20,Male,Student,,Kerala,Alapuzha,9.4981,76.3388,Town/City,Amazon Prime
+21-30,Female,Student,,Kerala,Tirur,10.9167,75.9245,Town/City,Netflix
+21-30,Female,Student,,Kerala,Tirur,10.9167,75.9245,Town/City,Amazon Prime
+21-30,Female,Student,,Kerala,Tirur,10.9167,75.9245,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Pathanamthitta,9.2647,76.7872,Rural,Telegram
+21-30,Female,Student,,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Netflix
+21-30,Female,Student,,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Amazon Prime
+21-30,Female,Student,,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Disney+ Hotstar
+21-30,Male,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+21-30,Male,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+11-20,Male,Student,,Kerala,Thrissur,10.52,76.21,Town/City,Amazon Prime
+11-20,Male,Student,,Kerala,Thrissur,10.52,76.21,Town/City,Disney+ Hotstar
+21-30,Female,Student,,West Bengal,Siliguri,26.72,88.42,Town/City,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Rajasthan,Jaipur,26.9167,75.8667,Town/City,Netflix
+21-30,Male,Employed,between 3 and 6 lakhs,Rajasthan,Jaipur,26.9167,75.8667,Town/City,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Rajasthan,Jaipur,26.9167,75.8667,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Rural,Netflix
+21-30,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Rural,Amazon Prime
+21-30,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Rural,Disney+ Hotstar
+21-30,Male,Student,,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Netflix
+21-30,Male,Student,,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Amazon Prime
+21-30,Male,Student,,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Disney+ Hotstar
+31-40,Female,Employed,less than 1 lakh,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Amazon Prime
+11-20,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Netflix
+11-20,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Amazon Prime
+21-30,Male,Student,,Kerala,Pala,9.7131,76.6833,Town/City,Netflix
+21-30,Male,Student,,Kerala,Pala,9.7131,76.6833,Town/City,Amazon Prime
+21-30,Male,Student,,Kerala,Pala,9.7131,76.6833,Town/City,Disney+ Hotstar
+21-30,Male,Student,,Jharkhand,Ranchi,23.3556,85.3347,Town/City,Netflix
+21-30,Male,Student,,Jharkhand,Ranchi,23.3556,85.3347,Town/City,Amazon Prime
+21-30,Male,Student,,Jharkhand,Ranchi,23.3556,85.3347,Town/City,Disney+ Hotstar
+21-30,Male,Student,,Jharkhand,Ranchi,23.3556,85.3347,Town/City,SonyLIV
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Male,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Male,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Male,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Male,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,SonyLIV
+21-30,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Amazon Prime
+21-30,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+51-60,Male,Retired,,Kerala,Kochi,9.9667,76.2833,Town/City,Netflix
+51-60,Male,Retired,,Kerala,Kochi,9.9667,76.2833,Town/City,Amazon Prime
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Rural,Netflix
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Rural,Amazon Prime
+11-20,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Netflix
+11-20,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Amazon Prime
+11-20,Female,Student,,Kerala,Kozhikode,11.2588,75.7804,Town/City,Netflix
+11-20,Female,Student,,Kerala,Kozhikode,11.2588,75.7804,Town/City,Amazon Prime
+11-20,Female,Student,,Kerala,Kozhikode,11.2588,75.7804,Town/City,Disney+ Hotstar
+11-20,Male,Unemployed,,Kerala,Kochi,9.9667,76.2833,Town/City,Netflix
+11-20,Male,Unemployed,,Kerala,Kochi,9.9667,76.2833,Town/City,Amazon Prime
+11-20,Male,Unemployed,,Kerala,Kochi,9.9667,76.2833,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Kottayam,9.5916,76.5222,Town/City,Netflix
+21-30,Female,Student,,Kerala,Kottayam,9.5916,76.5222,Town/City,Amazon Prime
+21-30,Female,Student,,Kerala,Kottayam,9.5916,76.5222,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Kottayam,9.5916,76.5222,Town/City,Voot
+11-20,Female,Student,,Kerala,Kottayam,9.5916,76.5222,Town/City,Netflix
+21-30,Female,Student,,Madhya Pradesh,Bhopal,23.25,77.4167,Town/City,Netflix
+21-30,Female,Student,,Madhya Pradesh,Bhopal,23.25,77.4167,Town/City,Amazon Prime
+21-30,Female,Student,,Madhya Pradesh,Bhopal,23.25,77.4167,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Madhya Pradesh,Bhopal,23.25,77.4167,Town/City,Zee5
+21-30,Female,Student,,Madhya Pradesh,Bhopal,23.25,77.4167,Town/City,SonyLIV
+11-20,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+11-20,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+11-20,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+11-20,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Disney+ Hotstar
+11-20,Male,Student,,Karnataka,Ballari,15.1394,76.9214,Rural,Netflix
+11-20,Male,Student,,Karnataka,Ballari,15.1394,76.9214,Rural,Amazon Prime
+11-20,Male,Student,,Karnataka,Ballari,15.1394,76.9214,Rural,Disney+ Hotstar
+11-20,Male,Student,,Karnataka,Ballari,15.1394,76.9214,Rural,SonyLIV
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Voot
+11-20,Male,Student,,Karnataka,Kolar,13.1333,78.1333,Rural,YouTube
+21-30,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+21-30,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+21-30,Male,Student,,Kerala,Palakkad,10.7867,76.6548,Town/City,Netflix
+21-30,Male,Student,,Kerala,Palakkad,10.7867,76.6548,Town/City,Amazon Prime
+21-30,Male,Student,,Kerala,Palakkad,10.7867,76.6548,Town/City,Disney+ Hotstar
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Male,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+11-20,Male,Student,,Karnataka,Bhatkal,13.9993,74.5408,Rural,Netflix
+11-20,Male,Student,,Karnataka,Bhatkal,13.9993,74.5408,Rural,Amazon Prime
+11-20,Male,Student,,Karnataka,Bhatkal,13.9993,74.5408,Rural,Disney+ Hotstar
+11-20,Male,Student,,Karnataka,Bhatkal,13.9993,74.5408,Rural,Telegram
+11-20,Female,Student,,Andhra Pradesh,Podili,15.607,79.6146,Town/City,Amazon Prime
+11-20,Female,Student,,Andhra Pradesh,Podili,15.607,79.6146,Town/City,Disney+ Hotstar
+11-20,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+11-20,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+11-20,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Zee5
+21-30,Male,Student,,Karnataka,Tiptur,13.2593,76.4786,Town/City,Amazon Prime
+11-20,Female,Student,,Kerala,Kannur,11.8745,75.3704,Rural,Netflix
+11-20,Female,Student,,Kerala,Kannur,11.8745,75.3704,Rural,Amazon Prime
+11-20,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Netflix
+11-20,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Amazon Prime
+11-20,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Disney+ Hotstar
+11-20,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,YouTube
+11-20,Male,Student,,Bihar,Gaya,24.75,85.0167,Town/City,Netflix
+11-20,Male,Student,,Bihar,Gaya,24.75,85.0167,Town/City,Amazon Prime
+11-20,Male,Student,,Bihar,Gaya,24.75,85.0167,Town/City,Disney+ Hotstar
+11-20,Male,Student,,Bihar,Gaya,24.75,85.0167,Town/City,Zee5
+11-20,Male,Student,,Bihar,Gaya,24.75,85.0167,Town/City,MX Player
+21-30,Female,Student,,Uttar Pradesh,Agra,27.18,78.02,Town/City,Netflix
+21-30,Male,Student,,Kerala,Kochi,9.9667,76.2833,Rural,Netflix
+21-30,Male,Student,,Kerala,Kochi,9.9667,76.2833,Rural,Amazon Prime
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Amazon Prime
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Zee5
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Voot
+21-30,Male,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Other
+31-40,Male,Employed,more than 9 lakhs,Haryana,Jhajjar,28.6055,76.6538,Rural,Netflix
+31-40,Male,Employed,more than 9 lakhs,Haryana,Jhajjar,28.6055,76.6538,Rural,Amazon Prime
+21-30,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Other
+21-30,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Telegram
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Other
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Disney+ Hotstar
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Zee5
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,SonyLIV
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Voot
+21-30,Male,Employed,more than 9 lakhs,Kerala,Kochi,9.9667,76.2833,Town/City,Disney+ Hotstar
+11-20,Female,Student,,Karnataka,Chikmagalur,13.3161,75.772,Town/City,Amazon Prime
+11-20,Male,Student,,Bihar,Madhepura,25.924,86.7946,Town/City,Netflix
+11-20,Male,Student,,Bihar,Madhepura,25.924,86.7946,Town/City,Amazon Prime
+11-20,Male,Student,,Bihar,Madhepura,25.924,86.7946,Town/City,Disney+ Hotstar
+21-30,Female,Employed,between 1 and  3 lakhs,Bihar,Patna,25.61,85.1414,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Rural,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+41-50,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+41-50,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+21-30,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Rural,Amazon Prime
+21-30,Male,Student,,Karnataka,Gangavathi,15.4319,76.5281,Town/City,Netflix
+21-30,Male,Student,,Karnataka,Gangavathi,15.4319,76.5281,Town/City,Amazon Prime
+21-30,Male,Student,,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,SonyLIV
+21-30,Male,Student,,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,Netflix
+21-30,Male,Student,,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,Amazon Prime
+21-30,Male,Student,,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,Disney+ Hotstar
+11-20,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+11-20,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+11-20,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Kottayam,9.5916,76.5222,Rural,Telegram
+21-30,Male,Student,,Bihar,Patna,25.61,85.1414,Town/City,Netflix
+21-30,Male,Student,,Bihar,Patna,25.61,85.1414,Town/City,Amazon Prime
+21-30,Male,Student,,Bihar,Patna,25.61,85.1414,Town/City,Disney+ Hotstar
+21-30,Male,Student,,Bihar,Patna,25.61,85.1414,Town/City,SonyLIV
+21-30,Male,Student,,Kerala,Kochi,9.9667,76.2833,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Tumkur,13.33,77.1,Town/City,Netflix
+21-30,Male,Employed,between 6 and 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Male,Employed,between 6 and 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Amazon Prime
+21-30,Male,Student,,Kerala,Pala,9.7131,76.6833,Rural,Netflix
+31-40,Female,Employed,less than 1 lakh,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+31-40,Female,Employed,less than 1 lakh,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+11-20,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+11-20,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+11-20,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Zee5
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,SonyLIV
+51-60,Female,Unemployed,,Kerala,Kottayam,9.5916,76.5222,Rural,Amazon Prime
+51-60,Female,Unemployed,,Kerala,Kottayam,9.5916,76.5222,Rural,Disney+ Hotstar
+51-60,Female,Unemployed,,Kerala,Kottayam,9.5916,76.5222,Rural,Zee5
+21-30,Female,Student,,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Netflix
+21-30,Female,Student,,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Amazon Prime
+21-30,Female,Student,,Nagaland,Chumukudima,25.8041,93.7541,Town/City,Other
+21-30,Male,Student,,Kerala,Kochi,9.9667,76.2833,Rural,Netflix
+21-30,Male,Student,,Kerala,Kochi,9.9667,76.2833,Rural,Amazon Prime
+21-30,Female,Student,,Nagaland,Dimapur,25.9091,93.7266,Town/City,Netflix
+21-30,Female,Student,,Nagaland,Dimapur,25.9091,93.7266,Town/City,Amazon Prime
+21-30,Female,Student,,Nagaland,Dimapur,25.9091,93.7266,Town/City,Disney+ Hotstar
+21-30,Male,Student,,Uttar Pradesh,Kanpur,26.4499,80.3319,Town/City,Amazon Prime
+31-40,Male,Employed,less than 1 lakh,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Netflix
+31-40,Male,Employed,less than 1 lakh,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Amazon Prime
+31-40,Male,Employed,less than 1 lakh,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Disney+ Hotstar
+31-40,Male,Employed,less than 1 lakh,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Zee5
+31-40,Male,Employed,less than 1 lakh,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,SonyLIV
+21-30,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+21-30,Male,Student,,Kerala,Alappuzha,9.4981,76.3388,Town/City,Netflix
+21-30,Male,Student,,Kerala,Kayamkulam,9.1748,76.5013,Town/City,Netflix
+21-30,Male,Student,,Kerala,Kayamkulam,9.1748,76.5013,Town/City,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Male,Student,,Punjab,Jalandhar,31.3256,75.5792,Town/City,Netflix
+21-30,Male,Student,,Punjab,Jalandhar,31.3256,75.5792,Town/City,Amazon Prime
+21-30,Male,Student,,Punjab,Jalandhar,31.3256,75.5792,Town/City,Disney+ Hotstar
+11-20,Male,Student,,Delhi,Delhi,28.66,77.23,Town/City,Other
+21-30,Female,Student,,Kerala,Kottayam,9.5916,76.5222,Town/City,Netflix
+11-20,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+11-20,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+11-20,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Netflix
+21-30,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Amazon Prime
+11-20,Female,Student,,Kerala,Vaikom,9.7216,76.3927,Rural,Netflix
+11-20,Female,Student,,Kerala,Kannur,11.8745,75.3704,Rural,Netflix
+11-20,Female,Student,,Kerala,Kannur,11.8745,75.3704,Rural,Telegram
+11-20,Male,Student,,Delhi,Delhi,28.66,77.23,Metrpolitan,Netflix
+11-20,Male,Student,,Delhi,Delhi,28.66,77.23,Metrpolitan,Other
+11-20,Female,Student,,Kerala,Kottayam,9.5916,76.5222,Rural,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+21-30,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+21-30,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Disney+ Hotstar
+21-30,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Zee5
+21-30,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,SonyLIV
+11-20,Male,Student,,Kannur,Irrity,11.9819,75.6703,Town/City,Netflix
+11-20,Male,Student,,Kannur,Irrity,11.9819,75.6703,Town/City,Amazon Prime
+11-20,Male,Student,,Kannur,Irrity,11.9819,75.6703,Town/City,Disney+ Hotstar
+11-20,Female,Student,,Kerala,Alappuzha,9.4981,76.3388,Rural,Disney+ Hotstar
+21-30,Female,Unemployed,,Bihar,Patna,25.61,85.1414,Town/City,Netflix
+21-30,Female,Unemployed,,Bihar,Patna,25.61,85.1414,Town/City,Amazon Prime
+21-30,Female,Unemployed,,Bihar,Patna,25.61,85.1414,Town/City,Disney+ Hotstar
+21-30,Female,Unemployed,,Bihar,Patna,25.61,85.1414,Town/City,Zee5
+21-30,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Netflix
+21-30,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Amazon Prime
+21-30,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Disney+ Hotstar
+21-30,Male,Employed,between 1 and  3 lakhs,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Netflix
+21-30,Male,Employed,between 1 and  3 lakhs,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Amazon Prime
+11-20,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Telegram
+11-20,Female,Student,,West Bengal,Siliguri,26.72,88.42,Town/City,Netflix
+11-20,Female,Student,,West Bengal,Siliguri,26.72,88.42,Town/City,Viki Rakuten
+21-30,Female,Student,,Delhi,Delhi,28.66,77.23,Metrpolitan,Netflix
+21-30,Female,Student,,Delhi,Delhi,28.66,77.23,Metrpolitan,Amazon Prime
+11-20,Female,Student,,Haryana,Hisar,29.1492,75.7217,Town/City,Netflix
+11-20,Female,Student,,Haryana,Hisar,29.1492,75.7217,Town/City,Amazon Prime
+21-30,Male,Student,,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Netflix
+21-30,Male,Student,,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Amazon Prime
+21-30,Male,Student,,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Disney+ Hotstar
+21-30,Male,Student,,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Zee5
+21-30,Male,Student,,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,SonyLIV
+21-30,Male,Student,,Uttar Pradesh,Varanasi,25.3189,83.0128,Town/City,Voot
+21-30,Female,Student,,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Netflix
+21-30,Female,Student,,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Amazon Prime
+21-30,Female,Student,,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Disney+ Hotstar
+21-30,Female,Student,,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Zee5
+21-30,Female,Student,,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,SonyLIV
+21-30,Female,Student,,Kerala,Kottayam,9.5916,76.5222,Town/City,Netflix
+21-30,Female,Student,,Kerala,Kottayam,9.5916,76.5222,Town/City,3rd party websites
+21-30,Female,Student,,Bihar,Madhubani,26.3483,86.0712,Town/City,Netflix
+21-30,Female,Student,,Bihar,Madhubani,26.3483,86.0712,Town/City,Amazon Prime
+21-30,Female,Student,,Bihar,Madhubani,26.3483,86.0712,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Bihar,Madhubani,26.3483,86.0712,Town/City,Voot
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Disney+ Hotstar
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Zee5
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,SonyLIV
+11-20,Female,Student,,Jharkhand,Ranchi,23.3556,85.3347,Town/City,Netflix
+11-20,Female,Student,,Jharkhand,Ranchi,23.3556,85.3347,Town/City,Amazon Prime
+11-20,Female,Student,,Jharkhand,Ranchi,23.3556,85.3347,Town/City,Disney+ Hotstar
+21-30,Male,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+21-30,Male,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+21-30,Male,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Disney+ Hotstar
+21-30,Male,Student,,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Netflix
+21-30,Male,Student,,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Amazon Prime
+21-30,Male,Student,,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Disney+ Hotstar
+11-20,Female,Student,,Haryana,Kundli,28.8676,77.118,Town/City,Netflix
+11-20,Female,Student,,Haryana,Kundli,28.8676,77.118,Town/City,Disney+ Hotstar
+11-20,Female,Student,,Haryana,Kundli,28.8676,77.118,Town/City,Zee5
+11-20,Female,Student,,Haryana,Kundli,28.8676,77.118,Town/City,Other
+31-40,Male,Employed,less than 1 lakh,Kerala,Ernakulam,9.9816,76.2999,Rural,Netflix
+31-40,Male,Employed,less than 1 lakh,Kerala,Ernakulam,9.9816,76.2999,Rural,Amazon Prime
+21-30,Male,Unemployed,,Bihar,Motihari,26.6438,84.904,Town/City,Netflix
+21-30,Male,Unemployed,,Bihar,Motihari,26.6438,84.904,Town/City,Amazon Prime
+21-30,Male,Unemployed,,Bihar,Motihari,26.6438,84.904,Town/City,Disney+ Hotstar
+21-30,Male,Unemployed,,Bihar,Motihari,26.6438,84.904,Town/City,Voot
+21-30,Female,Student,,Uttar Pradesh,Kanpur,26.4499,80.3319,Town/City,Netflix
+21-30,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Netflix
+21-30,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Disney+ Hotstar
+21-30,Female,Employed,between 1 and  3 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+41-50,Female,Employed,less than 1 lakh,Delhi,Palam,28.5901,77.0888,Town/City,Netflix
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Metrpolitan,Netflix
+21-30,Female,Student,,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Disney+ Hotstar
+21-30,Female,Student,,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Zee5
+21-30,Female,Student,,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Voot
+21-30,Female,Student,,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Viki Rakuten
+21-30,Female,Student,,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Other
+21-30,Male,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Male,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Male,Student,,Delhi,Delhi,28.66,77.23,Metrpolitan,Netflix
+21-30,Male,Student,,Delhi,Delhi,28.66,77.23,Metrpolitan,Amazon Prime
+21-30,Male,Student,,Delhi,Delhi,28.66,77.23,Metrpolitan,Disney+ Hotstar
+11-20,Female,Student,,Tamil Nadu,Coimbatore,11,76.9667,Metrpolitan,Netflix
+11-20,Female,Student,,Tamil Nadu,Coimbatore,11,76.9667,Metrpolitan,Amazon Prime
+11-20,Female,Student,,Haryana,Sonipat,28.9958,77.0114,Town/City,Disney+ Hotstar
+41-50,Male,Employed,less than 1 lakh,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+11-20,Male,Employed,less than 1 lakh,Karnataka,Maddur,12.5867,77.0453,Town/City,Amazon Prime
+21-30,Female,Student,,Telangana,Hyderabad,17.3667,78.4667,Town/City,Netflix
+21-30,Female,Student,,Telangana,Hyderabad,17.3667,78.4667,Town/City,Amazon Prime
+21-30,Female,Student,,Telangana,Hyderabad,17.3667,78.4667,Town/City,Disney+ Hotstar
+61-70,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Rural,Netflix
+61-70,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Rural,Amazon Prime
+61-70,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Rural,Disney+ Hotstar
+11-20,Male,Student,,Delhi,Naraina,28.632,77.1389,Metrpolitan,Netflix
+11-20,Male,Student,,Delhi,Naraina,28.632,77.1389,Metrpolitan,Amazon Prime
+11-20,Male,Student,,Delhi,Naraina,28.632,77.1389,Metrpolitan,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Thodupuzha,9.8959,76.7184,Rural,Netflix
+21-30,Female,Student,,Kerala,Thodupuzha,9.8959,76.7184,Rural,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Rural,Netflix
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Rural,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Rural,Disney+ Hotstar
+21-30,Male,Student,,Karnataka,Maddur,12.5867,77.0453,Town/City,Amazon Prime
+21-30,Male,Student,,Rajasthan,Kukanwali,27.23,74.9852,Rural,Amazon Prime
+11-20,Female,Student,,Maharashtra,Thane,19.18,72.9633,Town/City,Netflix
+11-20,Female,Student,,Maharashtra,Thane,19.18,72.9633,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Amazon Prime
+21-30,Female,Student,,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Disney+ Hotstar
+21-30,Male,Employed,less than 1 lakh,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Netflix
+21-30,Male,Employed,less than 1 lakh,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Amazon Prime
+21-30,Male,Employed,less than 1 lakh,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Disney+ Hotstar
+21-30,Male,Employed,less than 1 lakh,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Zee5
+21-30,Male,Employed,less than 1 lakh,Tamil Nadu,Coimbatore,11,76.9667,Town/City,SonyLIV
+31-40,Female,Employed,less than 1 lakh,Kerala,Kochi,9.9667,76.2833,Town/City,Netflix
+11-20,Female,Student,,Delhi,Laxmi Nagar,28.6276,77.2784,Metrpolitan,Netflix
+11-20,Female,Student,,Delhi,Laxmi Nagar,28.6276,77.2784,Metrpolitan,Amazon Prime
+11-20,Female,Student,,Delhi,Laxmi Nagar,28.6276,77.2784,Metrpolitan,3rd party websites
+21-30,Female,Employed,between 1 and  3 lakhs,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Netflix
+21-30,Female,Employed,between 1 and  3 lakhs,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Amazon Prime
+21-30,Female,Employed,between 1 and  3 lakhs,Karnataka,Mangalore,12.8703,74.8806,Town/City,Amazon Prime
+21-30,Female,Unemployed,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Netflix
+21-30,Male,Student,,Gujarat,Vadodara,22.3,73.2,Town/City,Netflix
+21-30,Female,Student,,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Amazon Prime
+21-30,Female,Student,,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Disney+ Hotstar
+21-30,Female,Student,,Maharashtra,Thane,19.18,72.9633,Town/City,Netflix
+21-30,Male,Employed,more than 9 lakhs,Gujarat,Vadodara,22.3,73.2,Town/City,Netflix
+51-60,Male,Employed,more than 9 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,Netflix
+51-60,Male,Employed,more than 9 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,Amazon Prime
+11-20,Female,Student,,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Netflix
+11-20,Female,Student,,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Amazon Prime
+21-30,Male,Employed,between 1 and  3 lakhs,Gujarat,Vadodara,22.3,73.2,Town/City,Netflix
+21-30,Male,Employed,between 1 and  3 lakhs,Gujarat,Vadodara,22.3,73.2,Town/City,Amazon Prime
+21-30,Male,Student,,Gujarat,Vadodara,22.3,73.2,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Amazon Prime
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Zee5
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+41-50,Female,Unemployed,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Netflix
+41-50,Female,Unemployed,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Amazon Prime
+41-50,Female,Unemployed,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Voot
+21-30,Female,Student,,Gujarat,Vadodara,22.3,73.2,Town/City,Netflix
+21-30,Female,Student,,Gujarat,Vadodara,22.3,73.2,Town/City,Amazon Prime
+21-30,Female,Student,,Gujarat,Vadodara,22.3,73.2,Town/City,Voot
+21-30,Male,Student,,Karnataka,Mandya,12.5242,76.8958,Rural,Netflix
+21-30,Male,Student,,Karnataka,Mandya,12.5242,76.8958,Rural,Amazon Prime
+21-30,Male,Student,,Karnataka,Mandya,12.5242,76.8958,Rural,Disney+ Hotstar
+21-30,Male,Student,,Karnataka,Mandya,12.5242,76.8958,Rural,Zee5
+21-30,Male,Student,,Karnataka,Mandya,12.5242,76.8958,Rural,Voot
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+41-50,Female,Unemployed,,Kerala,Thrissur,10.52,76.21,Town/City,Netflix
+41-50,Female,Unemployed,,Kerala,Thrissur,10.52,76.21,Town/City,Amazon Prime
+51-60,Male,Employed,less than 1 lakh,Kerala,Thrissur,10.52,76.21,Town/City,Netflix
+11-20,Male,Student,,Bihar,Jehanabad,25.2133,84.9853,Town/City,MX player
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Telegram
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Amazon Prime
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Zee5
+21-30,Male,Student,,Gujarat,Vadodara,22.3,73.2,Town/City,Netflix
+21-30,Male,Student,,Kerala,Kochi,9.9667,76.2833,Town/City,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Disney+ Hotstar
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Zee5
+21-30,Male,Employed,less than 1 lakh,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Male,Student,,Karnataka,Ramanagar,12.7209,77.2799,Town/City,Netflix
+21-30,Male,Student,,Karnataka,Ramanagar,12.7209,77.2799,Town/City,Amazon Prime
+11-20,Male,Student,,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Netflix
+11-20,Male,Student,,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Amazon Prime
+11-20,Male,Student,,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Disney+ Hotstar
+11-20,Male,Student,,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Zee5
+21-30,Male,Student,,Kerala,Kochi,9.9667,76.2833,Town/City,Netflix
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Disney+ Hotstar
+61-70,Male,Retired,,Kerala,Thrissur,10.52,76.21,Town/City,Amazon Prime
+61-70,Male,Retired,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+61-70,Male,Retired,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+61-70,Male,Retired,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+61-70,Male,Retired,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,SonyLIV
+21-30,Male,Student,,Kerala,Ernakulam,9.9816,76.2999,Rural,Amazon Prime
+21-30,Male,Student,,Kerala,Ernakulam,9.9816,76.2999,Rural,3rd party websites
+11-20,Female,Student,,West Bengal,Siliguri,26.72,88.42,Town/City,Netflix
+11-20,Female,Student,,West Bengal,Siliguri,26.72,88.42,Town/City,Amazon Prime
+11-20,Female,Student,,West Bengal,Siliguri,26.72,88.42,Town/City,Disney+ Hotstar
+11-20,Female,Student,,West Bengal,Siliguri,26.72,88.42,Town/City,Zee5
+11-20,Female,Student,,West Bengal,Siliguri,26.72,88.42,Town/City,SonyLIV
+21-30,Male,Student,,Maharashtra,Dombivli,19.2094,73.0939,Town/City,Netflix
+21-30,Male,Student,,Maharashtra,Dombivli,19.2094,73.0939,Town/City,Amazon Prime
+61-70,Female,Retired,,Kerala,Thrissur,10.52,76.21,Town/City,Netflix
+61-70,Female,Retired,,Kerala,Thrissur,10.52,76.21,Town/City,Amazon Prime
+61-70,Female,Retired,,Kerala,Thrissur,10.52,76.21,Town/City,Disney+ Hotstar
+21-30,Female,Employed,between 3 and 6 lakhs,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Netflix
+21-30,Female,Employed,between 3 and 6 lakhs,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Amazon Prime
+11-20,Female,Student,,Kerala,Chaganasserry,9.4465,76.5402,Town/City,YouTube
+11-20,Female,Student,,Kerala,Chaganasserry,9.4465,76.5402,Town/City,Telegram
+41-50,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+21-30,Female,Unemployed,,Karnataka,Mysore,12.3086,76.6531,Town/City,Netflix
+11-20,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+11-20,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+11-20,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Disney+ Hotstar
+21-30,Female,Employed,between 3 and 6 lakhs,Karnataka,Mangalore,12.8703,74.8806,Town/City,Netflix
+21-30,Female,Employed,between 3 and 6 lakhs,Karnataka,Mangalore,12.8703,74.8806,Town/City,Amazon Prime
+21-30,Female,Employed,between 3 and 6 lakhs,Karnataka,Mangalore,12.8703,74.8806,Town/City,Disney+ Hotstar
+21-30,Female,Employed,between 3 and 6 lakhs,Karnataka,Mangalore,12.8703,74.8806,Town/City,Voot
+21-30,Female,Employed,between 6 and 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Female,Employed,between 6 and 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Zee5
+11-20,Female,Unemployed,,Kerala,Kottayam,9.5916,76.5222,Town/City,Amazon Prime
+11-20,Female,Unemployed,,Kerala,Kottayam,9.5916,76.5222,Town/City,Disney+ Hotstar
+21-30,Male,Employed,less than 1 lakh,Kerala,Ernakulam,9.9816,76.2999,Town/City,Telegram
+21-30,Female,Employed,between 1 and  3 lakhs,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+21-30,Female,Employed,between 1 and  3 lakhs,Kerala,Ernakulam,9.9816,76.2999,Town/City,Disney+ Hotstar
+21-30,Male,Unemployed,,Kerala,Kozhikode,11.2588,75.7804,Town/City,Netflix
+21-30,Male,Unemployed,,Kerala,Kozhikode,11.2588,75.7804,Town/City,Amazon Prime
+21-30,Male,Unemployed,,Kerala,Kozhikode,11.2588,75.7804,Town/City,Disney+ Hotstar
+21-30,Female,Unemployed,,Kerala,Kollam,8.9969,76.8721,Rural,Telegram
+11-20,Male,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+21-30,Male,Self Employed,less than 1 lakh,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Male,Self Employed,less than 1 lakh,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Male,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+21-30,Male,Self Employed,less than 1 lakh,Gujarat,Vadodara,22.3,73.2,Town/City,Netflix
+21-30,Male,Self Employed,less than 1 lakh,Gujarat,Vadodara,22.3,73.2,Town/City,Amazon Prime
+21-30,Male,Self Employed,less than 1 lakh,Gujarat,Vadodara,22.3,73.2,Town/City,Disney+ Hotstar
+21-30,Male,Self Employed,less than 1 lakh,Gujarat,Vadodara,22.3,73.2,Town/City,SonyLIV
+21-30,Male,Self Employed,less than 1 lakh,Kerala,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Male,Unemployed,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Male,Unemployed,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Male,Employed,less than 1 lakh,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Telegram
+21-30,Male,Unemployed,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Telegram
+11-20,Female,Unemployed,,Kerala,Kottayam,9.5916,76.5222,Town/City,Netflix
+11-20,Female,Unemployed,,Kerala,Kottayam,9.5916,76.5222,Town/City,Disney+ Hotstar
+11-20,Female,Unemployed,,Kerala,Kottayam,9.5916,76.5222,Town/City,Voot
+21-30,Female,Unemployed,,Gujarat,Vadodara,22.3,73.2,Town/City,Amazon Prime
+11-20,Male,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+11-20,Male,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+11-20,Male,Unemployed,,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Netflix
+11-20,Male,Unemployed,,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Amazon Prime
+11-20,Male,Unemployed,,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Disney+ Hotstar
+11-20,Male,Unemployed,,Kerala,Kochi,9.9667,76.2833,Metrpolitan,SonyLIV
+21-30,Male,Student,,Kerala,Kannur,11.8745,75.3704,Town/City,Netflix
+21-30,Male,Student,,Kerala,Kannur,11.8745,75.3704,Town/City,Amazon Prime
+21-30,Male,Student,,Kerala,Kannur,11.8745,75.3704,Town/City,Disney+ Hotstar
+11-20,Male,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+31-40,Female,Employed,between 1 and  3 lakhs,Kerala,Thrissur,10.52,76.21,Metrpolitan,Netflix
+31-40,Female,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+31-40,Female,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+31-40,Female,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+11-20,Female,Student,,Kerala,Chaganasserry,9.4465,76.5402,Town/City,Viki Rakuten
+21-30,Male,Student,,Kerala,Kannur,11.8745,75.3704,Town/City,Netflix
+21-30,Male,Student,,Kerala,Kannur,11.8745,75.3704,Town/City,Amazon Prime
+21-30,Male,Student,,Kerala,Kannur,11.8745,75.3704,Town/City,Disney+ Hotstar
+21-30,Male,Student,,Karnataka,Chikmagalur,13.3161,75.772,Town/City,Netflix
+21-30,Male,Student,,Karnataka,Chikmagalur,13.3161,75.772,Town/City,Amazon Prime
+21-30,Male,Student,,Karnataka,Chikmagalur,13.3161,75.772,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Netflix
+11-20,Male,Student,,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Disney+ Hotstar
+21-30,Female,Student,,Uttar Pradesh,Prayagraj,25.4358,81.8463,Town/City,Netflix
+21-30,Female,Student,,Uttar Pradesh,Prayagraj,25.4358,81.8463,Town/City,Amazon Prime
+21-30,Female,Student,,Uttar Pradesh,Prayagraj,25.4358,81.8463,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Kannur,11.8745,75.3704,Town/City,Netflix
+21-30,Female,Student,,Kerala,Kannur,11.8745,75.3704,Town/City,Disney+ Hotstar
+31-40,Female,Employed,between 6 and 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+31-40,Female,Employed,between 6 and 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+31-40,Female,Employed,between 6 and 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Zee5
+11-20,Male,Student,,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Netflix
+11-20,Male,Student,,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Amazon Prime
+11-20,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+11-20,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Female,Student,,Gujarat,Vadodara,22.3,73.2,Town/City,Netflix
+31-40,Male,Employed,more than 9 lakhs,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Netflix
+31-40,Male,Employed,more than 9 lakhs,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Amazon Prime
+31-40,Male,Employed,more than 9 lakhs,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Disney+ Hotstar
+11-20,Female,Student,,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Netflix
+11-20,Female,Student,,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Amazon Prime
+21-30,Male,Self Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Male,Self Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Male,Self Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Male,Self Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Voot
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Amazon Prime
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Kannur,11.8745,75.3704,Rural,Netflix
+21-30,Female,Student,,Kerala,Kannur,11.8745,75.3704,Rural,Amazon Prime
+21-30,Female,Student,,Kerala,Kannur,11.8745,75.3704,Rural,Disney+ Hotstar
+31-40,Female,Employed,more than 9 lakhs,Kerala,Sulthan Bathery,11.6629,76.257,Town/City,Netflix
+11-20,Male,Student,,Karnataka,Mysore,12.3086,76.6531,Town/City,Netflix
+11-20,Male,Student,,Karnataka,Mysore,12.3086,76.6531,Town/City,Amazon Prime
+11-20,Female,Unemployed,,Kerala,Kottayam,9.5916,76.5222,Town/City,Netflix
+11-20,Female,Unemployed,,Kerala,Kottayam,9.5916,76.5222,Town/City,Amazon Prime
+11-20,Female,Unemployed,,Kerala,Kottayam,9.5916,76.5222,Town/City,Disney+ Hotstar
+11-20,Female,Unemployed,,Kerala,Kottayam,9.5916,76.5222,Town/City,Voot
+21-30,Male,Student,,Gujarat,Vadodara,22.3,73.2,Town/City,Netflix
+21-30,Male,Student,,Gujarat,Vadodara,22.3,73.2,Town/City,Amazon Prime
+21-30,Female,Student,,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Netflix
+21-30,Female,Student,,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,YouTube
+31-40,Female,Employed,between 3 and 6 lakhs,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+31-40,Female,Employed,between 3 and 6 lakhs,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+31-40,Female,Employed,between 3 and 6 lakhs,Kerala,Ernakulam,9.9816,76.2999,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Thalayolaparambu,9.785,76.4496,Rural,Netflix
+21-30,Female,Student,,Kerala,Thalayolaparambu,9.785,76.4496,Rural,Amazon Prime
+21-30,Female,Student,,Kerala,Thalayolaparambu,9.785,76.4496,Rural,Disney+ Hotstar
+21-30,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Netflix
+21-30,Male,Student,,Maharashtra,Osmanabad,18.1667,76.05,Town/City,Netflix
+21-30,Male,Student,,Maharashtra,Osmanabad,18.1667,76.05,Town/City,Amazon Prime
+31-40,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+31-40,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+31-40,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+41-50,Female,Employed,between 1 and  3 lakhs,Kerala,Kochi,9.9667,76.2833,Town/City,Amazon Prime
+41-50,Female,Employed,between 1 and  3 lakhs,Kerala,Kochi,9.9667,76.2833,Town/City,Disney+ Hotstar
+11-20,Male,Student,,Kerala,Kochi,9.9667,76.2833,Town/City,Netflix
+11-20,Male,Student,,Kerala,Kochi,9.9667,76.2833,Town/City,Amazon Prime
+11-20,Male,Student,,Kerala,Kochi,9.9667,76.2833,Town/City,Disney+ Hotstar
+21-30,Male,Student,,Kerala,Kochi,9.9667,76.2833,Town/City,Netflix
+21-30,Male,Student,,Kerala,Kochi,9.9667,76.2833,Town/City,Amazon Prime
+21-30,Male,Student,,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Netflix
+21-30,Male,Student,,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Amazon Prime
+21-30,Male,Student,,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Disney+ Hotstar
+31-40,Male,Employed,less than 1 lakh,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+31-40,Male,Employed,less than 1 lakh,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Male,Student,,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Netflix
+21-30,Male,Student,,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Amazon Prime
+21-30,Male,Student,,West Bengal,Kolkata,22.5411,88.3378,Metrpolitan,Disney+ Hotstar
+11-20,Male,Student,,Kerala,Kannur,11.8745,75.3704,Rural,Netflix
+11-20,Male,Student,,Kerala,Kannur,11.8745,75.3704,Rural,Amazon Prime
+11-20,Male,Student,,Kerala,Kannur,11.8745,75.3704,Rural,Disney+ Hotstar
+41-50,Female,Employed,between 1 and  3 lakhs,Karnataka,Bangalore,12.9699,77.598,Rural,Netflix
+41-50,Female,Employed,between 1 and  3 lakhs,Karnataka,Bangalore,12.9699,77.598,Rural,Amazon Prime
+41-50,Female,Employed,between 1 and  3 lakhs,Karnataka,Bangalore,12.9699,77.598,Rural,Zee5
+21-30,Male,Employed,between 3 and 6 lakhs,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Netflix
+21-30,Male,Employed,between 3 and 6 lakhs,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Disney+ Hotstar
+11-20,Female,Student,,Kerala,Kochi,9.9667,76.2833,Town/City,Netflix
+11-20,Female,Student,,Kerala,Kochi,9.9667,76.2833,Town/City,Amazon Prime
+11-20,Female,Student,,Jharkhand,Deoghar,24.4852,86.6948,Town/City,Netflix
+11-20,Female,Student,,Jharkhand,Deoghar,24.4852,86.6948,Town/City,Amazon Prime
+11-20,Female,Student,,Jharkhand,Deoghar,24.4852,86.6948,Town/City,Disney+ Hotstar
+21-30,Male,Employed,between 6 and 9 lakhs,Kerala,Kannur,11.8745,75.3704,Rural,Netflix
+21-30,Male,Employed,between 6 and 9 lakhs,Kerala,Kannur,11.8745,75.3704,Rural,Amazon Prime
+21-30,Male,Employed,between 6 and 9 lakhs,Kerala,Kannur,11.8745,75.3704,Rural,Disney+ Hotstar
+11-20,Female,Student,,Maharashtra,Thane,19.18,72.9633,Town/City,Netflix
+11-20,Female,Student,,Maharashtra,Thane,19.18,72.9633,Town/City,Amazon Prime
+11-20,Female,Student,,Maharashtra,Thane,19.18,72.9633,Town/City,Disney+ Hotstar
+11-20,Female,Student,,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Netflix
+11-20,Male,Student,,Delhi,Delhi,28.66,77.23,Metrpolitan,Netflix
+11-20,Male,Student,,Delhi,Delhi,28.66,77.23,Metrpolitan,Amazon Prime
+11-20,Male,Student,,Delhi,Delhi,28.66,77.23,Metrpolitan,Disney+ Hotstar
+21-30,Male,Student,,Kerala,Thrissur,10.52,76.21,Town/City,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,SonyLIV
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Voot
+51-60,Female,Homemaker,,Kerala,Thrissur,10.52,76.21,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Thrissur,10.52,76.21,Town/City,Netflix
+21-30,Female,Student,,Kerala,Thrissur,10.52,76.21,Town/City,Amazon Prime
+21-30,Male,Employed,less than 1 lakh,Kerala,Thrissur,10.52,76.21,Town/City,Netflix
+21-30,Male,Employed,less than 1 lakh,Kerala,Thrissur,10.52,76.21,Town/City,Amazon Prime
+21-30,Female,Student,,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Netflix
+21-30,Female,Student,,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Amazon Prime
+21-30,Female,Student,,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Disney+ Hotstar
+21-30,Female,Employed,between 3 and 6 lakhs,Karnataka,Mangalore,12.8703,74.8806,Rural,Netflix
+21-30,Female,Employed,between 3 and 6 lakhs,Karnataka,Mangalore,12.8703,74.8806,Rural,Amazon Prime
+21-30,Female,Employed,between 3 and 6 lakhs,Karnataka,Mangalore,12.8703,74.8806,Rural,Disney+ Hotstar
+21-30,Female,Employed,more than 9 lakhs,Kerala,Kottayam,9.5916,76.5222,Town/City,Netflix
+21-30,Female,Employed,more than 9 lakhs,Kerala,Kottayam,9.5916,76.5222,Town/City,Amazon Prime
+21-30,Female,Employed,more than 9 lakhs,Kerala,Kottayam,9.5916,76.5222,Town/City,Disney+ Hotstar
+11-20,Female,Student,,Uttarakhand,Dehradun,30.3165,78.0322,Town/City,Netflix
+11-20,Female,Student,,Uttarakhand,Dehradun,30.3165,78.0322,Town/City,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Female,Employed,between 3 and 6 lakhs,Karnataka,Mangalore,12.8703,74.8806,Town/City,Netflix
+21-30,Female,Employed,between 3 and 6 lakhs,Karnataka,Mangalore,12.8703,74.8806,Town/City,Amazon Prime
+21-30,Female,Employed,between 3 and 6 lakhs,Karnataka,Mangalore,12.8703,74.8806,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Netflix
+21-30,Female,Student,,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Amazon Prime
+11-20,Female,Student,,West Bengal,Darjeeling,27.0417,88.2631,Town/City,Netflix
+11-20,Female,Student,,West Bengal,Darjeeling,27.0417,88.2631,Town/City,Amazon Prime
+21-30,Male,Employed,between 1 and  3 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Male,Employed,between 1 and  3 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Male,Employed,between 1 and  3 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Disney+ Hotstar
+21-30,Male,Employed,between 1 and  3 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,SonyLIV
+21-30,Male,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Male,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Male,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Disney+ Hotstar
+21-30,Male,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,SonyLIV
+41-50,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+41-50,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+41-50,Female,Unemployed,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Gujarat,Vadodara,22.3,73.2,Town/City,Netflix
+21-30,Female,Student,,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Amazon Prime
+21-30,Female,Student,,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Disney+ Hotstar
+11-20,Male,Student,,Kerala,Kochi,9.9667,76.2833,Town/City,Netflix
+21-30,Female,Student,,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Netflix
+21-30,Male,Self Employed,between 1 and  3 lakhs,Kerala,Kochi,9.9667,76.2833,Town/City,Netflix
+41-50,Female,Homemaker,,Kerala,Kochi,9.9667,76.2833,Town/City,Disney+ Hotstar
+21-30,Male,Employed,between 1 and  3 lakhs,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Netflix
+21-30,Male,Employed,between 1 and  3 lakhs,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Amazon Prime
+21-30,Male,Employed,between 1 and  3 lakhs,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Disney+ Hotstar
+31-40,Female,Employed,between 6 and 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+31-40,Female,Employed,between 6 and 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+31-40,Female,Employed,between 6 and 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Disney+ Hotstar
+21-30,Male,Student,,Telangana,Hyderabad,17.3667,78.4667,Metrpolitan,Amazon Prime
+21-30,Male,Student,,Telangana,Hyderabad,17.3667,78.4667,Metrpolitan,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Kollam,8.9969,76.8721,Town/City,Netflix
+21-30,Female,Student,,Kerala,Kollam,8.9969,76.8721,Town/City,Amazon Prime
+21-30,Female,Student,,Kerala,Kollam,8.9969,76.8721,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Uttarakhand,Nainital,29.3919,79.4542,Rural,Netflix
+21-30,Female,Student,,Uttarakhand,Nainital,29.3919,79.4542,Rural,Amazon Prime
+21-30,Female,Student,,Uttarakhand,Nainital,29.3919,79.4542,Rural,Disney+ Hotstar
+11-20,Female,Student,,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Netflix
+11-20,Female,Student,,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Amazon Prime
+11-20,Female,Student,,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Disney+ Hotstar
+11-20,Female,Student,,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,SonyLIV
+11-20,Male,Student,,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Netflix
+11-20,Male,Student,,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Amazon Prime
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Disney+ Hotstar
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+11-20,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Disney+ Hotstar
+11-20,Male,Student,,Kerala,Pilathara,12.0827,75.2625,Town/City,Netflix
+41-50,Female,Homemaker,,Kerala,Kottayam,9.5916,76.5222,Rural,Amazon Prime
+41-50,Female,Homemaker,,Kerala,Kottayam,9.5916,76.5222,Rural,Disney+ Hotstar
+21-30,Male,Employed,between 3 and 6 lakhs,Bihar,Patna,25.61,85.1414,Town/City,Netflix
+21-30,Male,Employed,between 3 and 6 lakhs,Bihar,Patna,25.61,85.1414,Town/City,Amazon Prime
+21-30,Male,Employed,less than 1 lakh,Kerala,Kannur,11.8745,75.3704,Rural,Netflix
+21-30,Male,Employed,less than 1 lakh,Kerala,Kannur,11.8745,75.3704,Rural,Amazon Prime
+21-30,Male,Employed,less than 1 lakh,Kerala,Kannur,11.8745,75.3704,Rural,Disney+ Hotstar
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+31-40,Male,Employed,more than 9 lakhs,Kerala,Thodupuzha,9.8959,76.7184,Town/City,Netflix
+31-40,Male,Employed,more than 9 lakhs,Kerala,Thodupuzha,9.8959,76.7184,Town/City,Amazon Prime
+31-40,Male,Employed,more than 9 lakhs,Kerala,Thodupuzha,9.8959,76.7184,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Amazon Prime
+21-30,Female,Student,,Karnataka,Mangalore,12.8703,74.8806,Town/City,Zee5
+21-30,Female,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Female,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Female,Student,,Karnataka,Raichur,16.2104,77.355,Town/City,Netflix
+21-30,Non binary,Student,,Maharashtra,Thane,19.18,72.9633,Town/City,Netflix
+21-30,Non binary,Student,,Maharashtra,Thane,19.18,72.9633,Town/City,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Kerala,Trivandrum,8.5,76.8997,Town/City,Netflix
+11-20,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+11-20,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+11-20,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Zee5
+11-20,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,SonyLIV
+21-30,Female,Student,,Kerala,Kuravilangade,9.7576,76.561,Rural,Amazon Prime
+21-30,Male,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Netflix
+21-30,Male,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Amazon Prime
+21-30,Male,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Telegram
+21-30,Male,Student,,Kerala,Ernakulam,9.9816,76.2999,Rural,Telegram
+21-30,Male,Student,,Kerala,Chaganasserry,9.4465,76.5402,Town/City,Amazon Prime
+21-30,Female,Employed,between 6 and 9 lakhs,Gujarat,Vadodara,22.3,73.2,Town/City,Netflix
+21-30,Female,Employed,between 6 and 9 lakhs,Gujarat,Vadodara,22.3,73.2,Town/City,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Netflix
+21-30,Male,Employed,between 3 and 6 lakhs,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Gujarat,Vadodara,22.3,73.2,Metrpolitan,Disney+ Hotstar
+21-30,Male,Employed,between 6 and 9 lakhs,Gujarat,Vadodara,22.3,73.2,Town/City,Netflix
+21-30,Male,Employed,between 6 and 9 lakhs,Gujarat,Vadodara,22.3,73.2,Town/City,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,SonyLIV
+21-30,Male,Employed,more than 9 lakhs,Kerala,Kottayam,9.5916,76.5222,Town/City,Netflix
+21-30,Male,Employed,more than 9 lakhs,Kerala,Kottayam,9.5916,76.5222,Town/City,Amazon Prime
+21-30,Male,Employed,more than 9 lakhs,Kerala,Kottayam,9.5916,76.5222,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Zee5
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Male,Student,,Kerala,Adoor,9.153,76.7356,Rural,Netflix
+21-30,Male,Student,,Kerala,Adoor,9.153,76.7356,Rural,Amazon Prime
+21-30,Male,Student,,Kerala,Adoor,9.153,76.7356,Rural,Disney+ Hotstar
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Rural,Netflix
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Rural,Amazon Prime
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Rural,Disney+ Hotstar
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Rural,Zee5
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Rural,Voot
+21-30,Male,Student,,Kerala,Kannur,11.8745,75.3704,Rural,Netflix
+21-30,Male,Student,,Kerala,Thrissur,10.52,76.21,Town/City,Netflix
+21-30,Male,Student,,Kerala,Thrissur,10.52,76.21,Town/City,Amazon Prime
+21-30,Male,Student,,Kerala,Thrissur,10.52,76.21,Town/City,Disney+ Hotstar
+41-50,Female,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+41-50,Female,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Male,Student,,Kerala,Thrissur,10.52,76.21,Rural,Netflix
+21-30,Male,Student,,Kerala,Kottayam,9.5916,76.5222,Rural,Netflix
+21-30,Male,Student,,Kerala,Kottayam,9.5916,76.5222,Rural,Amazon Prime
+21-30,Male,Student,,Kerala,Kottayam,9.5916,76.5222,Rural,Disney+ Hotstar
+21-30,Male,Student,,Kerala,Kottayam,9.5916,76.5222,Rural,Netflix
+21-30,Male,Student,,Kerala,Kottayam,9.5916,76.5222,Rural,Amazon Prime
+21-30,Male,Student,,Kerala,Kottayam,9.5916,76.5222,Rural,Disney+ Hotstar
+21-30,Male,Student,,Kerala,Kottayam,9.5916,76.5222,Rural,Zee5
+21-30,Male,Student,,Kerala,Kottayam,9.5916,76.5222,Rural,SonyLIV
+21-30,Male,Student,,Kerala,Kottayam,9.5916,76.5222,Rural,Voot
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Netflix
+21-30,Female,Student,,Bihar,Patna,25.61,85.1414,Town/City,Amazon Prime
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Pala,9.7131,76.6833,Town/City,Netflix
+21-30,Female,Student,,Kerala,Pala,9.7131,76.6833,Town/City,Amazon Prime
+21-30,Female,Student,,Kerala,Pala,9.7131,76.6833,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Kannur,11.8745,75.3704,Rural,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Voot
+21-30,Female,Student,,Karnataka,Madikeri,12.4244,75.7382,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Madikeri,12.4244,75.7382,Town/City,Amazon Prime
+21-30,Female,Student,,Karnataka,Madikeri,12.4244,75.7382,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Male,Student,,Goa,Old Goa,15.502,73.91,Town/City,Netflix
+21-30,Male,Student,,Goa,Old Goa,15.502,73.91,Town/City,Disney+ Hotstar
+11-20,Male,Student,,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Netflix
+21-30,Male,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Male,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,SonyLIV
+21-30,Male,Employed,more than 9 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Other
+21-30,Female,Student,,Kerala,Kannur,11.8745,75.3704,Rural,Disney+ Hotstar
+21-30,Female,Student,,Uttarakhand,Bazpur,29.1585,79.1464,Town/City,Netflix
+21-30,Female,Student,,Uttarakhand,Bazpur,29.1585,79.1464,Town/City,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Andhra Pradesh,Tenali,16.243,80.64,Town/City,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Andhra Pradesh,Tenali,16.243,80.64,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Maharashtra,Pune,18.5196,73.8553,Metrpolitan,Netflix
+21-30,Female,Student,,Maharashtra,Pune,18.5196,73.8553,Metrpolitan,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Female,Student,,Kerala,Kottayam,9.5916,76.5222,Town/City,Netflix
+21-30,Female,Student,,Kerala,Kottayam,9.5916,76.5222,Town/City,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,SonyLIV
+21-30,Male,Student,,Kerala,Kottayam,9.5916,76.5222,Rural,Netflix
+21-30,Male,Student,,Kerala,Kottayam,9.5916,76.5222,Rural,Amazon Prime
+21-30,Male,Student,,Kerala,Kottayam,9.5916,76.5222,Rural,SonyLIV
+21-30,Male,Student,,Kerala,Kottayam,9.5916,76.5222,Rural,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Male,Employed,between 1 and  3 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Male,Employed,between 1 and  3 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Kottayam,9.5916,76.5222,Rural,Netflix
+21-30,Female,Student,,Kerala,Malappuram,11.051,76.0711,Town/City,Netflix
+21-30,Female,Student,,Kerala,Malappuram,11.051,76.0711,Town/City,Amazon Prime
+21-30,Male,Student,,Karnataka,Udupi,13.3322,74.7461,Rural,Netflix
+21-30,Male,Student,,Karnataka,Udupi,13.3322,74.7461,Rural,Amazon Prime
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Female,Student,,Kerala,Calicut,11.25,75.7667,Town/City,Netflix
+21-30,Female,Student,,Kerala,Calicut,11.25,75.7667,Town/City,Amazon Prime
+21-30,Male,Student,,Kerala,Kottayam,9.5916,76.5222,Rural,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+51-60,Male,Employed,more than 9 lakhs,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Netflix
+51-60,Male,Employed,more than 9 lakhs,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Amazon Prime
+51-60,Male,Employed,more than 9 lakhs,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Disney+ Hotstar
+51-60,Male,Employed,more than 9 lakhs,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,SonyLIV
+31-40,Female,Employed,less than 1 lakh,Kerala,Thrissur,10.52,76.21,Town/City,Netflix
+41-50,Male,Employed,more than 9 lakhs,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Netflix
+41-50,Male,Employed,more than 9 lakhs,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Amazon Prime
+41-50,Male,Employed,more than 9 lakhs,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Disney+ Hotstar
+41-50,Male,Employed,more than 9 lakhs,Maharashtra,Thane,19.18,72.9633,Metrpolitan,SonyLIV
+21-30,Female,Student,,Karnataka,Tumakuru,13.3379,77.1173,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Tumakuru,13.3379,77.1173,Town/City,Amazon Prime
+31-40,Male,Self Employed,more than 9 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,Netflix
+31-40,Male,Self Employed,more than 9 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,Amazon Prime
+31-40,Male,Self Employed,more than 9 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,Disney+ Hotstar
+31-40,Male,Self Employed,more than 9 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,SonyLIV
+21-30,Female,Student,,Kerala,Alappuzha,9.4981,76.3388,Town/City,Disney+ Hotstar
+31-40,Male,Employed,between 3 and 6 lakhs,Kerala,Perinthalmanna,10.976,76.225,Town/City,Netflix
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+11-20,Female,Student,,Kerala,Thrissur,10.52,76.21,Town/City,Netflix
+11-20,Female,Student,,Kerala,Thrissur,10.52,76.21,Town/City,Amazon Prime
+11-20,Female,Student,,Kerala,Thrissur,10.52,76.21,Town/City,Disney+ Hotstar
+51-60,Female,Retired,between 1 and  3 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,Netflix
+51-60,Female,Retired,between 1 and  3 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,Amazon Prime
+51-60,Female,Retired,between 1 and  3 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,SonyLIV
+21-30,Male,Student,,Kerala,Kannur,11.8745,75.3704,Rural,Amazon Prime
+21-30,Male,Student,,Kerala,Kannur,11.8745,75.3704,Rural,Netflix
+21-30,Male,Student,,Kerala,Kannur,11.8745,75.3704,Rural,Amazon Prime
+21-30,Male,Student,,Kerala,Kannur,11.8745,75.3704,Rural,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Alappuzha,9.4981,76.3388,Rural,Netflix
+21-30,Female,Student,,Kerala,Alappuzha,9.4981,76.3388,Rural,Amazon Prime
+21-30,Female,Student,,Kerala,Alappuzha,9.4981,76.3388,Rural,Disney+ Hotstar
+31-40,Female,Unemployed,,Kerala,Thrissur,10.52,76.21,Town/City,Netflix
+31-40,Female,Unemployed,,Kerala,Thrissur,10.52,76.21,Town/City,Amazon Prime
+31-40,Female,Unemployed,,Kerala,Thrissur,10.52,76.21,Town/City,Disney+ Hotstar
+31-40,Female,Unemployed,,Kerala,Thrissur,10.52,76.21,Town/City,SonyLIV
+41-50,Male,Employed,more than 9 lakhs,Maharashtra,Thane,19.18,72.9633,Town/City,Netflix
+41-50,Male,Employed,more than 9 lakhs,Maharashtra,Thane,19.18,72.9633,Town/City,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Disney+ Hotstar
+21-30,Male,Employed,between 1 and  3 lakhs,Manipur,Churachandpur,24.3427,93.6978,Town/City,Netflix
+21-30,Male,Employed,between 1 and  3 lakhs,Manipur,Churachandpur,24.3427,93.6978,Town/City,Amazon Prime
+21-30,Male,Employed,between 1 and  3 lakhs,Manipur,Churachandpur,24.3427,93.6978,Town/City,Disney+ Hotstar
+21-30,Female,Employed,between 1 and  3 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,Netflix
+21-30,Female,Employed,between 1 and  3 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,Amazon Prime
+21-30,Female,Employed,between 1 and  3 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,Disney+ Hotstar
+21-30,Male,Self Employed,less than 1 lakh,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+11-20,Male,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Ernakulam,9.9816,76.2999,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Kottyam,9.5916,76.5222,Town/City,Amazon Prime
+21-30,Female,Student,,Kerala,Kottyam,9.5916,76.5222,Town/City,Disney+ Hotstar
+21-30,Male,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Female,Student,,Maharashtra,Virar,19.4564,72.7925,Town/City,Netflix
+21-30,Female,Student,,Maharashtra,Virar,19.4564,72.7925,Town/City,Amazon Prime
+21-30,Female,Student,,Maharashtra,Virar,19.4564,72.7925,Town/City,Voot
+41-50,Female,Retired,less than 1 lakh,Maharashtra,Thane,19.18,72.9633,Town/City,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Town/City,Zee5
+31-40,Female,Homemaker,,Maharashtra,Thane,19.18,72.9633,Town/City,Netflix
+31-40,Female,Homemaker,,Maharashtra,Thane,19.18,72.9633,Town/City,Amazon Prime
+31-40,Female,Homemaker,,Maharashtra,Thane,19.18,72.9633,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Maharashtra,Navi Mumbai,19.033,73.0297,Town/City,Netflix
+21-30,Female,Student,,Maharashtra,Navi Mumbai,19.033,73.0297,Town/City,Amazon Prime
+21-30,Female,Student,,Maharashtra,Navi Mumbai,19.033,73.0297,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Maharashtra,Navi Mumbai,19.033,73.0297,Town/City,SonyLIV
+21-30,Female,Student,,Maharashtra,Navi Mumbai,19.033,73.0297,Town/City,Voot
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Female,Student,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Amazon Prime
+31-40,Male,Self Employed,between 3 and 6 lakhs,Kerala,Idukki,9.9189,77.1025,Town/City,Netflix
+31-40,Male,Self Employed,between 3 and 6 lakhs,Kerala,Idukki,9.9189,77.1025,Town/City,Amazon Prime
+31-40,Male,Self Employed,between 3 and 6 lakhs,Kerala,Idukki,9.9189,77.1025,Town/City,Disney+ Hotstar
+31-40,Male,Self Employed,between 3 and 6 lakhs,Kerala,Idukki,9.9189,77.1025,Town/City,Zee5
+41-50,Female,Homemaker,,Tamil Nadu,Chennai,13.0825,80.275,Metrpolitan,Netflix
+21-30,Female,Student,,Kerala,Thrissur,10.52,76.21,Town/City,Netflix
+21-30,Female,Student,,Kerala,Thrissur,10.52,76.21,Town/City,Amazon Prime
+21-30,Male,Employed,between 6 and 9 lakhs,Kerala,Kochi,9.9667,76.2833,Town/City,Netflix
+21-30,Male,Employed,between 6 and 9 lakhs,Kerala,Kochi,9.9667,76.2833,Town/City,Amazon Prime
+21-30,Male,Employed,between 6 and 9 lakhs,Kerala,Kochi,9.9667,76.2833,Town/City,Disney+ Hotstar
+21-30,Male,Employed,between 6 and 9 lakhs,Kerala,Kochi,9.9667,76.2833,Town/City,SonyLIV
+21-30,Female,Employed,between 1 and  3 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,Netflix
+21-30,Female,Employed,between 1 and  3 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,Amazon Prime
+21-30,Female,Employed,between 1 and  3 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Maharashtra,Mumbai,18.9667,72.8333,Metrpolitan,Disney+ Hotstar
+31-40,Male,Employed,more than 9 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,Netflix
+31-40,Male,Employed,more than 9 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,Amazon Prime
+31-40,Male,Employed,more than 9 lakhs,Kerala,Thrissur,10.52,76.21,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Netflix
+21-30,Female,Student,,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Amazon Prime
+21-30,Female,Student,,Kerala,Kochi,9.9667,76.2833,Metrpolitan,Disney+ Hotstar
+41-50,Female,Employed,more than 9 lakhs,Maharashtra,Thane,19.18,72.9633,Town/City,Netflix
+41-50,Female,Employed,more than 9 lakhs,Maharashtra,Thane,19.18,72.9633,Town/City,Amazon Prime
+21-30,Female,Homemaker,,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Netflix
+21-30,Female,Employed,between 3 and 6 lakhs,West Bengal,Chittranjan,23.8492,86.902,Town/City,Netflix
+21-30,Female,Employed,between 3 and 6 lakhs,West Bengal,Chittranjan,23.8492,86.902,Town/City,Amazon Prime
+21-30,Female,Employed,between 3 and 6 lakhs,West Bengal,Chittranjan,23.8492,86.902,Town/City,Disney+ Hotstar
+21-30,Female,Employed,between 3 and 6 lakhs,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Netflix
+21-30,Female,Employed,between 3 and 6 lakhs,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Amazon Prime
+21-30,Female,Employed,between 3 and 6 lakhs,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Disney+ Hotstar
+21-30,Female,Employed,between 3 and 6 lakhs,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Netflix
+21-30,Female,Employed,between 3 and 6 lakhs,Haryana,Gurugram,28.4595,77.0266,Metrpolitan,Amazon Prime
+41-50,Male,Self Employed,between 1 and  3 lakhs,Gujarat,Bhavnagar,21.765,75.7667,Town/City,Zee5
+21-30,Female,Employed,between 1 and  3 lakhs,Gujarat,Gandhinagar,23.22,72.68,Town/City,Netflix
+21-30,Female,Employed,between 1 and  3 lakhs,Gujarat,Gandhinagar,23.22,72.68,Town/City,Amazon Prime
+21-30,Male,Employed,less than 1 lakh,Gujarat,Gandhinagar,23.22,72.68,Town/City,Netflix
+21-30,Male,Employed,less than 1 lakh,Gujarat,Gandhinagar,23.22,72.68,Town/City,MX player
+21-30,Male,Employed,between 3 and 6 lakhs,Gujarat,Gandhinagar,23.22,72.68,Town/City,Netflix
+21-30,Male,Employed,between 3 and 6 lakhs,Gujarat,Gandhinagar,23.22,72.68,Town/City,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Gujarat,Gandhinagar,23.22,72.68,Town/City,Disney+ Hotstar
+21-30,Male,Employed,between 3 and 6 lakhs,Gujarat,Gandhinagar,23.22,72.68,Town/City,Zee5
+21-30,Male,Employed,between 3 and 6 lakhs,Gujarat,Gandhinagar,23.22,72.68,Town/City,SonyLIV
+21-30,Male,Employed,between 3 and 6 lakhs,Gujarat,Gandhinagar,23.22,72.68,Town/City,Voot
+21-30,Male,Employed,between 1 and  3 lakhs,Gujarat,Gandhinagar,23.22,72.68,Town/City,Netflix
+21-30,Male,Employed,between 1 and  3 lakhs,Gujarat,Gandhinagar,23.22,72.68,Town/City,Disney+ Hotstar
+31-40,Female,Employed,between 6 and 9 lakhs,Maharashtra,Thane,19.18,72.9633,Town/City,Netflix
+31-40,Female,Employed,between 6 and 9 lakhs,Maharashtra,Thane,19.18,72.9633,Town/City,Amazon Prime
+31-40,Female,Employed,between 6 and 9 lakhs,Maharashtra,Thane,19.18,72.9633,Town/City,Zee5
+31-40,Female,Employed,between 6 and 9 lakhs,Maharashtra,Thane,19.18,72.9633,Town/City,SonyLIV
+31-40,Male,Employed,more than 9 lakhs,Kerala,Sulthan Bathery,11.6629,76.257,Rural,Netflix
+31-40,Male,Employed,more than 9 lakhs,Kerala,Sulthan Bathery,11.6629,76.257,Rural,Amazon Prime
+51-60,Female,Self Employed,less than 1 lakh,Gujarat,Bhavnagar,21.765,75.7667,Town/City,Disney+ Hotstar
+51-60,Female,Self Employed,less than 1 lakh,Gujarat,Bhavnagar,21.765,75.7667,Town/City,SonyLIV
+21-30,Female,Employed,more than 9 lakhs,Gujarat,Ahmedabad,23.03,72.58,Metrpolitan,Netflix
+21-30,Female,Employed,more than 9 lakhs,Gujarat,Ahmedabad,23.03,72.58,Metrpolitan,Amazon Prime
+21-30,Female,Employed,more than 9 lakhs,Gujarat,Ahmedabad,23.03,72.58,Metrpolitan,Disney+ Hotstar
+21-30,Female,Employed,more than 9 lakhs,Gujarat,Ahmedabad,23.03,72.58,Metrpolitan,SonyLIV
+21-30,Female,Employed,between 1 and  3 lakhs,Gujarat,Ahmedabad,23.03,72.58,Town/City,Netflix
+21-30,Female,Employed,between 1 and  3 lakhs,Gujarat,Ahmedabad,23.03,72.58,Town/City,Amazon Prime
+21-30,Female,Employed,between 1 and  3 lakhs,Gujarat,Ahmedabad,23.03,72.58,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Maharashtra,Thane,19.18,72.9633,Metrpolitan,Netflix
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Netflix
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Amazon Prime
+21-30,Male,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Town/City,Disney+ Hotstar
+21-30,Female,Student,,West Bengal,Haldia,22.0627,88.0833,Town/City,Netflix
+21-30,Female,Student,,West Bengal,Haldia,22.0627,88.0833,Town/City,Disney+ Hotstar
+21-30,Female,Student,,West Bengal,Haldia,22.0627,88.0833,Town/City,Voot
+21-30,Female,Employed,between 3 and 6 lakhs,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,Netflix
+21-30,Female,Employed,between 3 and 6 lakhs,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,Amazon Prime
+21-30,Female,Employed,between 3 and 6 lakhs,Uttar Pradesh,Lucknow,26.847,80.947,Town/City,Disney+ Hotstar
+21-30,Female,Employed,between 1 and  3 lakhs,Gujarat,Ahmedabad,23.03,72.58,Town/City,Netflix
+21-30,Female,Employed,between 1 and  3 lakhs,Gujarat,Ahmedabad,23.03,72.58,Town/City,Disney+ Hotstar
+21-30,Female,Employed,between 1 and  3 lakhs,Gujarat,Ahmedabad,23.03,72.58,Town/City,Zee5
+21-30,Female,Employed,between 1 and  3 lakhs,Gujarat,Ahmedabad,23.03,72.58,Town/City,SonyLIV
+21-30,Female,Employed,between 1 and  3 lakhs,Gujarat,Ahmedabad,23.03,72.58,Town/City,Voot
+41-50,Male,Employed,between 3 and 6 lakhs,Gujarat,Vadodara,22.3,73.2,Town/City,Netflix
+41-50,Female,Self Employed,between 1 and  3 lakhs,Bihar,Patna,25.61,85.1414,Town/City,Zee5
+41-50,Female,Employed,between 6 and 9 lakhs,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Netflix
+41-50,Female,Employed,between 6 and 9 lakhs,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Amazon Prime
+41-50,Female,Employed,between 6 and 9 lakhs,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Disney+ Hotstar
+41-50,Female,Employed,between 6 and 9 lakhs,Maharashtra,Mumbai,18.9667,72.8333,Town/City,Other
+21-30,Female,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Zee5
+21-30,Female,Employed,between 3 and 6 lakhs,Karnataka,Bangalore,12.9699,77.598,Metrpolitan,Voot
+21-30,Female,Student,,Jammu and Kashmir,Baramulla,34.2,74.34,Town/City,Netflix
+21-30,Female,Student,,Jammu and Kashmir,Baramulla,34.2,74.34,Town/City,Amazon Prime
+21-30,Female,Employed,between 3 and 6 lakhs,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Netflix
+21-30,Female,Employed,between 3 and 6 lakhs,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Amazon Prime
+21-30,Female,Employed,between 3 and 6 lakhs,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Disney+ Hotstar
+21-30,Female,Employed,between 3 and 6 lakhs,Tamil Nadu,Coimbatore,11,76.9667,Town/City,Zee5
+21-30,Female,Employed,between 3 and 6 lakhs,Tamil Nadu,Coimbatore,11,76.9667,Town/City,SonyLIV
+21-30,Female,Employed,between 1 and  3 lakhs,Gujarat,Ahmedabad,23.03,72.58,Town/City,Netflix
+21-30,Female,Employed,between 1 and  3 lakhs,Gujarat,Ahmedabad,23.03,72.58,Town/City,Amazon Prime
+21-30,Female,Employed,between 1 and  3 lakhs,Gujarat,Ahmedabad,23.03,72.58,Town/City,MX Player
+21-30,Male,Unemployed,,Jammu and Kashmir,Srinagar,34.0911,74.8061,Rural,Netflix
+21-30,Male,Unemployed,,Jammu and Kashmir,Srinagar,34.0911,74.8061,Rural,Amazon Prime
+21-30,Male,Student,,Jammu and Kashmir,Srinagar,34.0911,74.8061,Rural,Netflix
+21-30,Male,Student,,Jammu and Kashmir,Sopore,34.2868,74.4624,Town/City,SonyLIV
+11-20,Male,Student,,Jammu and Kashmir,Rafiabad,34.2547,74.393,Rural,Netflix
+21-30,Male,Student,,Jammu and Kashmir,Handwara,34.4,74.28,Town/City,Netflix
+21-30,Male,Student,,Jammu and Kashmir,Handwara,34.4,74.28,Town/City,Amazon Prime
+21-30,Male,Student,,Jammu and Kashmir,Handwara,34.4,74.28,Town/City,Disney+ Hotstar
+21-30,Male,Employed,between 1 and  3 lakhs,Jammu and Kashmir,Srinagar,34.0911,74.8061,Rural,Netflix
+21-30,Female,Student,,Jammu and Kashmir,Srinagar,34.0911,74.8061,Town/City,Netflix
+21-30,Female,Student,,Jammu and Kashmir,Srinagar,34.0911,74.8061,Town/City,Amazon Prime
+21-30,Female,Student,,Jammu and Kashmir,Baramulla,34.2,74.34,Rural,Netflix
+21-30,Female,Student,,Jammu and Kashmir,Baramulla,34.2,74.34,Rural,Disney+ Hotstar
+21-30,Female,Student,,Jammu and Kashmir,Baramulla,34.2,74.34,Rural,MX player
+11-20,Male,Student,,Jammu and Kashmir,Baramulla,34.2,74.34,Town/City,Netflix
+21-30,Female,Student,,Jammu and Kashmir,Baramulla,34.2,74.34,Town/City,Disney+ Hotstar
+11-20,Male,Student,,Jammu and Kashmir,Sopore,34.2868,74.4624,Town/City,Netflix
+11-20,Male,Student,,Jammu and Kashmir,Sopore,34.2868,74.4624,Town/City,Amazon Prime
+21-30,Female,Student,,Jammu and Kashmir,Sopore,34.2868,74.4624,Town/City,Netflix
+21-30,Female,Student,,Jammu and Kashmir,Sopore,34.2868,74.4624,Town/City,Other
+21-30,Female,Employed,between 1 and  3 lakhs,Bihar,Patna,25.61,85.1414,Town/City,Amazon Prime
+21-30,Male,Employed,more than 9 lakhs,Gujarat,Vadodara,22.3,73.2,Town/City,Netflix
+21-30,Male,Employed,more than 9 lakhs,Gujarat,Vadodara,22.3,73.2,Town/City,Amazon Prime
+21-30,Male,Employed,more than 9 lakhs,Gujarat,Vadodara,22.3,73.2,Town/City,Disney+ Hotstar
+21-30,Female,Student,,Gujarat,Vadodara,22.3,73.2,Town/City,Netflix
